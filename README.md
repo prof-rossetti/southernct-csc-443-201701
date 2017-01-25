@@ -1,14 +1,18 @@
 # CSC 443 - Fundamentals of Internet Programming
 
-This repository contains resources for instructing a university-level computer science course on Internet Programming. See the [contributor's guide](/CONTRIBUTING.md) for instructions on how to add and modify repository content.
+This repository contains resources for instructing a university-level computer science course on Internet Programming.
 
-university | school | department | semester | course | section | credits
+This course is an [elective](http://www.southernct.edu/academics/schools/arts/departments/computerscience/undergraduate/CS-Courses.html) for undergraduate [computer science majors](http://www.southernct.edu/academics/schools/arts/departments/computerscience/undergraduate/viewallcourses.html).
+
+See the [contributor's guide](/CONTRIBUTING.md) for instructions on how to add and modify repository content.
+
+university | school | department | term | course | section | credits
 --- | --- | --- | --- | --- | --- | ---
-Southern Connecticut State University (SCSU) | School of Arts and Sciences | Computer Science (CSC) | Spring 2017 (201701)| Fundamentals of Internet Programming (443) | Thursday nights (01) | 3
+[Southern Connecticut State University (SCSU)](http://southernct.edu/) | [School of Arts and Sciences](http://catalog.southernct.edu/undergraduate/school-of-arts-and-sciences.html) | [Computer Science (CSC)](http://www.southernct.edu/academics/schools/arts/departments/computerscience/) | [Spring 2017 (201701)](https://www.southernct.edu/offices/registrar/Calendar.html) | [Fundamentals of Internet Programming (443)](http://catalog.southernct.edu/undergraduate/courses/csc443.html) | Thursday nights (01) | 3
 
 ## [Description](http://southernct.edu/academics/schools/arts/departments/computerscience/undergrad_courses_cs.html#443)
 
-> A study of programming languages used in developing interactive web sites. Basic experience in the full development cycle including: web site conception, client/server side programming, and web site maintenance. Individual programming intensive web projects are required. Prerequisite(s): CSC 212. 3 credits.
+> A study of programming languages used in developing interactive web sites. Basic experience in the full development cycle including: web site conception, client/server side programming, and web site maintenance. Individual programming intensive web projects are required.
 
 ### [Prerequisites](/PREREQUISITES.md)
 
@@ -17,22 +21,95 @@ Southern Connecticut State University (SCSU) | School of Arts and Sciences | Com
   + [CSC 152	- Computer Programming I](http://southernct.edu/academics/schools/arts/departments/computerscience/undergrad_courses_cs.html#152)
   + [CSC 102	- BASIC Programming: Programming in BASIC](http://southernct.edu/academics/schools/arts/departments/computerscience/undergrad_courses_cs.html#102)
 
-## Location
+## Scope
 
-building name | room number | address
---- | --- | ---
-*TODO* | 113 | *TODO*
+  + The Role of Application Software in Organizations and Society
+  + Software Development Tools, Practices, and Methodologies
+  + Internet Technologies
+  + Internet Programming Languages and Frameworks
 
-## Schedule
+## Objectives
+
+  1. Describe the ecosystem of tools, technologies, and languages used to plan, develop, and manage websites and web applications.
+  * Describe in a practical sense how the Internet works, specifically focusing on the lifecycle of a network request.
+  * Describe the difference between traditional “waterfall” and agile systems development lifecycles.
+  * Enumerate security and privacy considerations relevant in designing and managing websites and web applications.
+  * Participate in, and describe the advantages of software version control.
+  * Describe the role, advantages, and disadvantages of using open source software.
+  * Describe the role of the development, staging, and production development environments.
+  * Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
+  * Have fun!
+
+## Projects
+
+  1. Static Website — HTML, CSS, hosted on GitHub Pages
+  * Interactive Website — HTML, CSS, JavaScript, hosted on GitHub Pages
+  * Web Application — HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
+
+## Materials
+
+### Textbooks
+
+There are no required textbooks for this course. Online resources pertaining to the topics at hand will be shared with students as applicable.
+
+### Software
+
+This course requires students to use numerous software packages. Every effort will be made to make all required packages available on assigned lab computers, but students are encouraged to install the software on their personal computers as well to achieve a more location-flexible development environment.
+
+> Note: Because some installations may be complicated to perform alone on a personal computer, students should wait to install software until explicitly instructed to do so by the professor in the manner prescribed.
+
+#### Text Editor
+
+Each student is expected to achieve proficiency using a text editor of choice. Ideally, the text editor should include syntax auto-completion functionality for HTML, CSS, and JavaScript. The official text-editor for this course is [Atom](https://atom.io/), however [Sublime](https://www.sublimetext.com/) and [Notepad++](https://notepad-plus-plus.org/) are also viable options.
+
+#### Browser
+
+Each student is expected to achieve proficiency using a modern browser for web development purposes. The browser must include the ability to inspect underlying elements on the page. The official browser for this course is [Google Chrome](https://www.google.com/chrome/), however [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) is another viable option.
+
+#### Command-line Utilities
+
+The following command-line utilities will be covered throughout the course of the semester:
+
+  + Git
+  + Node.js and Node Package Manager (NPM)
+  + Choice of either MongoDB or PostgreSQL
+  + Heroku Toolbelt
+
+## Calendar
 
 The class meets on Thursday nights from 7:30pm to 10:00pm during the spring semester effective 1/17/17 through 5/12/17.
+
+The course google calendar is available in [HTML](https://calendar.google.com/calendar/embed?src=6bhqmlmku3drrf2qcvataik8e4%40group.calendar.google.com&ctz=America/New_York) and [iCal](https://calendar.google.com/calendar/ical/6bhqmlmku3drrf2qcvataik8e4%40group.calendar.google.com/public/basic.ics) format. It reflects the most up-to-date scheduling information, including class times, instructor office hours, holidays, and more.
+
+> Note: The last day for course withdrawals is March 26th, 2017.
+
+## Learning Community
+
+The maximum enrollment for this class is 20 students per section.
+
+Michael Rossetti ([LinkedIn](https://www.linkedin.com/in/mikerossetti), [GitHub](https://github.com/s2t2)) will be administering the course and teaching all course material. If you have a question about assignments, projects, or anything covered in class, email Professor Rossetti at [rossettim1@southernct.edu](mailto:rossettim1@southernct.edu). The professor aims to provide an average email response time of under two business days. If emailing the professor, please use your university-issued email address.
+
+There is no Teaching Assistant assigned to aid instruction of this course.
+
+## Evaluation
+
+Student learning will be evaluated through in-class assignments, take-home projects, and a final exam. Final grades will be calculated by weighted average according to the following structure:
+
+Name | Weight
+--- | ---
+Assignments | 30% (includes multiple assignments with varying weights)
+Projects | 45% (includes three projects with varying weights)
+Final Exam | 25%
+
+## Schedule
 
 The [Schedule](SCHEDULE.md) contains a tentative
  week-by-week description of the topics and technologies covered in each class,
  as well as assignments given and due.
  It is likely to change to reflect the pace of instruction.
 
-The [Calendar](CALENDAR.md) reflects the most up-to-date scheduling information,
-  including class times, instructor office hours, holidays, support sessions, and more.
+## Policies
 
-### [License](/LICENSE.md)
+All members of the learning community agree to abide by the [policies](/POLICIES.md) described herein.
+
+## [License](/LICENSE.md)
