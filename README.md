@@ -75,14 +75,6 @@ The following command-line utilities will be covered throughout the course of th
   + Choice of either MongoDB or PostgreSQL
   + Heroku Toolbelt
 
-## Calendar
-
-The class meets on Thursday nights from 7:30pm to 10:00pm during the spring semester effective 1/17/17 through 5/12/17.
-
-The course google calendar is available in [HTML](https://calendar.google.com/calendar/embed?src=6bhqmlmku3drrf2qcvataik8e4%40group.calendar.google.com&ctz=America/New_York) and [iCal](https://calendar.google.com/calendar/ical/6bhqmlmku3drrf2qcvataik8e4%40group.calendar.google.com/public/basic.ics) format. It reflects the most up-to-date scheduling information, including class times, instructor office hours, holidays, and more.
-
-> Note: The last day for course withdrawals is March 26th, 2017.
-
 ## Learning Community
 
 The maximum enrollment for this class is 20 students per section.
@@ -103,10 +95,16 @@ Final Exam | 25%
 
 ## Schedule
 
+The class meets on Thursday nights from 7:30pm to 10:00pm during the spring semester effective 1/17/17 through 5/12/17.
+
 The [Schedule](SCHEDULE.md) contains a tentative
  week-by-week description of the topics and technologies covered in each class,
  as well as assignments given and due.
  It is likely to change to reflect the pace of instruction.
+
+The course google calendar is available in [HTML](https://calendar.google.com/calendar/embed?src=6bhqmlmku3drrf2qcvataik8e4%40group.calendar.google.com&ctz=America/New_York) and [iCal](https://calendar.google.com/calendar/ical/6bhqmlmku3drrf2qcvataik8e4%40group.calendar.google.com/public/basic.ics) format. It reflects the most up-to-date scheduling information, including class times, instructor office hours, holidays, and more.
+
+> Note: The last day for course withdrawals is March 26th, 2017.
 
 ## Policies
 
