@@ -1,8 +1,10 @@
 # CSC 443 - Fundamentals of Internet Programming
 
-This repository contains resources for instructing a university-level computer science course on Internet Programming. See the [contributor's guide](/CONTRIBUTING.md) for instructions on how to add and modify repository content.
+This repository contains resources for instructing a university-level computer science course on Internet Programming.
 
 This course is an [elective](http://www.southernct.edu/academics/schools/arts/departments/computerscience/undergraduate/CS-Courses.html) for undergraduate [computer science majors](http://www.southernct.edu/academics/schools/arts/departments/computerscience/undergraduate/viewallcourses.html).
+
+See the [contributor's guide](/CONTRIBUTING.md) for instructions on how to add and modify repository content.
 
 university | school | department | term | course | section | credits
 --- | --- | --- | --- | --- | --- | ---
@@ -96,7 +98,7 @@ Student learning will be evaluated through in-class assignments, take-home proje
 Name | Weight
 --- | ---
 Assignments | 30% (includes multiple assignments with varying weights)
-Projects | 45% (includes three projects worth 15% each)
+Projects | 45% (includes three projects with varying weights)
 Final Exam | 25%
 
 ## Schedule
@@ -106,11 +108,8 @@ The [Schedule](SCHEDULE.md) contains a tentative
  as well as assignments given and due.
  It is likely to change to reflect the pace of instruction.
 
-The [Calendar](CALENDAR.md) contains the most up-to-date scheduling information,
-  including class times, instructor office hours, holidays, support sessions, and more.
-
 ## Policies
 
 All members of the learning community agree to abide by the [policies](/POLICIES.md) described herein.
 
-### [License](/LICENSE.md)
+## [License](/LICENSE.md)

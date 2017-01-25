@@ -12,11 +12,11 @@ Although students are encouraged to work with each other to discuss and solve pr
 
 As a rule of thumb, it is each student’s sole responsibility to type and understand every line of code submitted for evaluation. In situations where lines of boilerplate code or shared code are included in a submission, it is the responsibility of the student to accompany this code with one or more lines of “comments” which include a source link or other manner of attribution. Even so, submissions comprised of significant portions of code obtained in this way, even if properly attributed, may constitute an infraction.
 
-Any questions about what constitutes an academic integrity infraction should be proactively directed to the Professor; retroactive naivete is not acceptable.
+Any questions about what constitutes an academic integrity infraction should be proactively directed to the professor; retroactive naivete is not acceptable.
 
 ### Religious Holidays
 
-Each student is responsible for notifying the Professor during the first week of the semester of his/her intention to be absent from class on days(s) of his/her religious observance. The faculty continues to extend to these students the courtesy of absence without penalty on such occasions, including permission to make up examinations.
+Each student is responsible for notifying the professor during the first week of the semester of his/her intention to be absent from class on days(s) of his/her religious observance. The faculty continues to extend to these students the courtesy of absence without penalty on such occasions, including permission to make up examinations.
 
 ### [Disabilities](https://www.southernct.edu/student-life/support/drc/information-for-faculty-staff.html)
 
