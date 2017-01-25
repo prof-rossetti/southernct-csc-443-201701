@@ -1,0 +1,36 @@
+{
+  "university":{
+    "name":"Southern Connecticut State University",
+    "abbreviation":"SCSU",
+    "url":"http://southernct.edu/"
+  },
+  "school":{
+    "name":"School of Arts and Sciences",
+    "url":"http://catalog.southernct.edu/undergraduate/school-of-arts-and-sciences.html"
+  },
+  "department":{
+    "name":"Computer Science",
+    "abbreviation":"CSC",
+    "url":"http://www.southernct.edu/academics/schools/arts/departments/computerscience/"
+  },
+  "term":{
+    "name":"Spring 2017",
+    "abbreviation":"201701",
+    "url":"https://www.southernct.edu/offices/registrar/Calendar.html",
+    "start_date":"________",
+    "end_date":"__________"
+  },
+  "course":{
+    "name":"Fundamentals of Internet Programming",
+    "number":"443",
+    "description_url":"http://catalog.southernct.edu/undergraduate/courses/csc443.html"
+  },
+  "section":{
+    "name":"Thursday nights",
+    "number":"01",
+    "start_time":"7:35pm",
+    "end_time":"10:05pm",
+    "location":"Morrill Hall, Room 113"
+  },
+  "credits":3
+}
