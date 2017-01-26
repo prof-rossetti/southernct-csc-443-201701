@@ -6,6 +6,8 @@ All projects are due before the start of class on the date specified. Please see
 
 All projects will be presented in class.
 
+Students must work on their projects individually, without significant support from other students.
+
 number | name | overall weight | due date
 --- | --- | --- | ---
 1 | Static Website | 12% | 2017-02-16
