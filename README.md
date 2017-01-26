@@ -40,11 +40,11 @@ university | school | department | term | course | section | credits
   * Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
   * Have fun!
 
-## Projects
+## [Projects](/PROJECTS.md)
 
-  1. Static Website — HTML, CSS, hosted on GitHub Pages
-  * Interactive Website — HTML, CSS, JavaScript, hosted on GitHub Pages
-  * Web Application — HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
+  1. Static Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
+  * Interactive Website — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
+  * Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
 
 ## Materials
 
