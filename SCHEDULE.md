@@ -4,4 +4,579 @@ This document contains a tentative week-by-week description of the topics and te
 
 > Note: This schedule may change to reflect pace of instruction.
 
-<table class="c29"><tbody><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c31">Wk.No.</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c31">Date</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c36">Topic</span><span class="c36">s</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c2"><span class="c31">Tools and Technologies in Focus</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c31">Objectives</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">1</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-01-19</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Course Introduction</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c11">The Role of Application Software in Org</span><span class="c11">anization</span><span class="c0">s and Society</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Open Source Software</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Software Version Control</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Website Hosting</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_u0hzyp4pdqkc-0 start"><li class="c2 c9"><span class="c3">Slack</span></li></ul><p class="c2 c8"><span class="c3"></span></p><ul class="c28 lst-kix_u0hzyp4pdqkc-0"><li class="c2 c9"><span class="c3">GitHub</span></li><li class="c2 c9"><span class="c11 c13">GitHub Pages</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Familiarize yourself with course scope, mechanics, and expectations.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Leverage an open source website to publish your own.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">2</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-01-26</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">The Internet</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Internet Technologies</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c11">Website Style and Responsiveness</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_k3kcb64a7ylw-0 start"><li class="c2 c9"><span class="c3">HTML</span></li><li class="c2 c9"><span class="c3">Atom Text Editor</span></li><li class="c2 c9"><span class="c3">Github Desktop</span></li></ul><p class="c2 c8"><span class="c3"></span></p><ul class="c28 lst-kix_k3kcb64a7ylw-0"><li class="c2 c9"><span class="c3">CSS</span></li><li class="c2 c9"><span class="c11 c13">Twitter Bootstrap CSS and Components</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Create your own static website and publish it online.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Improve the look and feel of your static website.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">3</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-02-02</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Website Interactivity</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Website Working Session</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_ifw6fi6814s-0 start"><li class="c2 c9"><span class="c11 c13">JavaScript</span></li><li class="c2 c9"><span class="c3">Twitter Bootstrap Javascript</span></li><li class="c2 c9"><span class="c11 c13">jQuery</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Enhance your website with basic interactive features.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c11">Work on your website in class with support from the professor.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">4</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-02-09</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Website Presentations</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Showcase your static website and submit for evaluation.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">5</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-02-16</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c11">Advanced Website Interactivity</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2 c8"><span class="c0"></span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_kc43kl3o5dr8-0 start"><li class="c2 c9"><span class="c3">Highcharts.js</span></li><li class="c2 c9"><span class="c3">d3.js</span></li><li class="c2 c9"><span class="c11 c13">Mapbox.js</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Produce interactive charts, graphs, and maps.</span></p><p class="c2 c8"><span class="c0"></span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">6</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-02-23</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Asynchronous JavaScript</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Interactive Website Working Session</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_kc43kl3o5dr8-0"><li class="c2 c9"><span class="c11 c13">Highcharts.js </span><span class="c11">(cont’d)</span></li><li class="c2 c9"><span class="c11 c13">d3.js </span><span class="c11">(cont’d)</span></li><li class="c2 c9"><span class="c11 c13">Mapbox.js </span><span class="c11">(cont’d)</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Update your charts, graphs, and maps asynchronously.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Work on your interactive website in class with support from the professor.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">7</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-03-02</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Interactive Website Presentations</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Showcase your interactive website and submit for evaluation.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">8</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-03-09</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Command-line Computing</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Hardware</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Internet Security</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_skivdmx09oeg-0 start"><li class="c2 c9"><span class="c3">Bash</span></li><li class="c2 c9"><span class="c3">Git</span></li></ul><p class="c2 c8"><span class="c3"></span></p><ul class="c28 lst-kix_skivdmx09oeg-0"><li class="c2 c9"><span class="c3">SSH</span></li><li class="c2 c9"><span class="c11 c13">Public-key Encryption</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Navigate a local file system.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Authenticate to a remote server and retrieve secret information.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">9</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-03-16</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c11">Spring Break</span><span class="c0">&nbsp;</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">10</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-03-23</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Application Generation</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Application Navigation</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_skivdmx09oeg-0"><li class="c2 c9"><span class="c3">Node.js</span></li><li class="c2 c9"><span class="c3">Express.js</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Create a new web application using a popular framework.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c11">Setup</span><span class="c0">&nbsp;application navigation and routing.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">11</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-03-30</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Application Hosting</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Web Application Working Session</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_5556u9s03uh2-0 start"><li class="c2 c9"><span class="c3">Heroku</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Deploy your web application to a production server. </span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Work on your web application in class with support from the professor.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">12</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-04-06</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Application CRUD</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">REST Architecture</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">APIs</span></p><p class="c2 c8"><span class="c0"></span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_skivdmx09oeg-0"><li class="c2 c9"><span class="c11 c13">Node.js </span><span class="c11">(cont’d)</span></li><li class="c2 c9"><span class="c11 c13">Express.js </span><span class="c0">(cont’d)</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Develop an API to power your application’s information-processing operations.</span></p><p class="c2 c8"><span class="c0"></span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">13</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-04-13</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Datastores</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Application Datastore</span></p></td><td class="c5" colspan="1" rowspan="1"><ul class="c28 lst-kix_5556u9s03uh2-0"><li class="c2 c21"><span class="c3">MongoDB or PostgreSQL</span></li></ul><p class="c2 c8"><span class="c3"></span></p><ul class="c28 lst-kix_5556u9s03uh2-0"><li class="c2 c21"><span class="c3">Mongoose.js or knex.js</span></li></ul></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Programmatically query the datastore.</span></p><p class="c2 c8"><span class="c0"></span></p><p class="c2"><span class="c0">Connect your web application’s API to a real datastore.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">14</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-04-20</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Web Application Working Session</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Work on your web application in class with support from the professor.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">15</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-04-27</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Web Application Working Session</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Work on your web application in class with support from the professor.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">16</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-05-04</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Web Application Presentations</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c1"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">Showcase your web application and submit for evaluation.</span></p></td></tr><tr class="c25"><td class="c7" colspan="1" rowspan="1"><p class="c2"><span class="c0">17</span></p></td><td class="c18" colspan="1" rowspan="1"><p class="c2"><span class="c0">2017-05-11 from 7:30pm to 9:30pm</span></p></td><td class="c23" colspan="1" rowspan="1"><p class="c2"><span class="c0">Final Exam</span></p></td><td class="c5" colspan="1" rowspan="1"><p class="c1"><span class="c0">N/A</span></p></td><td class="c20" colspan="1" rowspan="1"><p class="c2"><span class="c0">N/A</span></p></td></tr></tbody></table>
+<table class="c29">
+  <tbody>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c31">Wk.No.</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c31">Date</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c36">Topic</span><span class="c36">s</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c2"><span class="c31">Tools and Technologies in Focus</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c31">Objectives</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">1</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-01-19</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Course Introduction</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c11">The Role of Application Software in Org</span><span class="c11">anization</span><span class="c0">s and Society</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Open Source Software</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Software Version Control</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Website Hosting</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_u0hzyp4pdqkc-0 start">
+          <li class="c2 c9"><span class="c3">Slack</span>
+          </li>
+        </ul>
+        <p class="c2 c8"><span class="c3"></span>
+        </p>
+        <ul class="c28 lst-kix_u0hzyp4pdqkc-0">
+          <li class="c2 c9"><span class="c3">GitHub</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">GitHub Pages</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Familiarize yourself with course scope, mechanics, and expectations.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Leverage an open source website to publish your own.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-01-26</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">The Internet</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Internet Technologies</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c11">Website Style and Responsiveness</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_k3kcb64a7ylw-0 start">
+          <li class="c2 c9"><span class="c3">HTML</span>
+          </li>
+          <li class="c2 c9"><span class="c3">Atom Text Editor</span>
+          </li>
+          <li class="c2 c9"><span class="c3">Github Desktop</span>
+          </li>
+        </ul>
+        <p class="c2 c8"><span class="c3"></span>
+        </p>
+        <ul class="c28 lst-kix_k3kcb64a7ylw-0">
+          <li class="c2 c9"><span class="c3">CSS</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">Twitter Bootstrap CSS and Components</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Create your own static website and publish it online.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Improve the look and feel of your static website.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">3</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-02-02</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Website Interactivity</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Website Working Session</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_ifw6fi6814s-0 start">
+          <li class="c2 c9"><span class="c11 c13">JavaScript</span>
+          </li>
+          <li class="c2 c9"><span class="c3">Twitter Bootstrap Javascript</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">jQuery</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Enhance your website with basic interactive features.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c11">Work on your website in class with support from the professor.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">4</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-02-09</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Website Presentations</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Showcase your static website and submit for evaluation.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">5</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-02-16</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c11">Advanced Website Interactivity</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_kc43kl3o5dr8-0 start">
+          <li class="c2 c9"><span class="c3">Highcharts.js</span>
+          </li>
+          <li class="c2 c9"><span class="c3">d3.js</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">Mapbox.js</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Produce interactive charts, graphs, and maps.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">6</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-02-23</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Asynchronous JavaScript</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Interactive Website Working Session</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_kc43kl3o5dr8-0">
+          <li class="c2 c9"><span class="c11 c13">Highcharts.js </span><span class="c11">(cont’d)</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">d3.js </span><span class="c11">(cont’d)</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">Mapbox.js </span><span class="c11">(cont’d)</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Update your charts, graphs, and maps asynchronously.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Work on your interactive website in class with support from the professor.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">7</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-03-02</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Interactive Website Presentations</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Showcase your interactive website and submit for evaluation.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">8</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-03-09</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Command-line Computing</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Hardware</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Internet Security</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_skivdmx09oeg-0 start">
+          <li class="c2 c9"><span class="c3">Bash</span>
+          </li>
+          <li class="c2 c9"><span class="c3">Git</span>
+          </li>
+        </ul>
+        <p class="c2 c8"><span class="c3"></span>
+        </p>
+        <ul class="c28 lst-kix_skivdmx09oeg-0">
+          <li class="c2 c9"><span class="c3">SSH</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">Public-key Encryption</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Navigate a local file system.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Authenticate to a remote server and retrieve secret information.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">9</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-03-16</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c11">Spring Break</span><span class="c0">&nbsp;</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">10</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-03-23</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Application Generation</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Application Navigation</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_skivdmx09oeg-0">
+          <li class="c2 c9"><span class="c3">Node.js</span>
+          </li>
+          <li class="c2 c9"><span class="c3">Express.js</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Create a new web application using a popular framework.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c11">Setup</span><span class="c0">&nbsp;application navigation and routing.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">11</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-03-30</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Application Hosting</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Web Application Working Session</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_5556u9s03uh2-0 start">
+          <li class="c2 c9"><span class="c3">Heroku</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Deploy your web application to a production server. </span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Work on your web application in class with support from the professor.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">12</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-04-06</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Application CRUD</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">REST Architecture</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">APIs</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_skivdmx09oeg-0">
+          <li class="c2 c9"><span class="c11 c13">Node.js </span><span class="c11">(cont’d)</span>
+          </li>
+          <li class="c2 c9"><span class="c11 c13">Express.js </span><span class="c0">(cont’d)</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Develop an API to power your application’s information-processing operations.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">13</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-04-13</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Datastores</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Application Datastore</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <ul class="c28 lst-kix_5556u9s03uh2-0">
+          <li class="c2 c21"><span class="c3">MongoDB or PostgreSQL</span>
+          </li>
+        </ul>
+        <p class="c2 c8"><span class="c3"></span>
+        </p>
+        <ul class="c28 lst-kix_5556u9s03uh2-0">
+          <li class="c2 c21"><span class="c3">Mongoose.js or knex.js</span>
+          </li>
+        </ul>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Programmatically query the datastore.</span>
+        </p>
+        <p class="c2 c8"><span class="c0"></span>
+        </p>
+        <p class="c2"><span class="c0">Connect your web application’s API to a real datastore.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">14</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-04-20</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Web Application Working Session</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Work on your web application in class with support from the professor.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">15</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-04-27</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Web Application Working Session</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Work on your web application in class with support from the professor.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">16</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-05-04</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Web Application Presentations</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c1"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Showcase your web application and submit for evaluation.</span>
+        </p>
+      </td>
+    </tr>
+    <tr class="c25">
+      <td class="c7" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">17</span>
+        </p>
+      </td>
+      <td class="c18" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">2017-05-11 from 7:30pm to 9:30pm</span>
+        </p>
+      </td>
+      <td class="c23" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">Final Exam</span>
+        </p>
+      </td>
+      <td class="c5" colspan="1" rowspan="1">
+        <p class="c1"><span class="c0">N/A</span>
+        </p>
+      </td>
+      <td class="c20" colspan="1" rowspan="1">
+        <p class="c2"><span class="c0">N/A</span>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
