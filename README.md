@@ -42,8 +42,8 @@ university | school | department | term | course | section | credits
 
 ## [Projects](/PROJECTS.md)
 
-  1. Static Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
-  * Interactive Website — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
+  1. Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
+  * Interactive Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
   * Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
 
 ## Materials
