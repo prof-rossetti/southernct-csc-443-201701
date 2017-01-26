@@ -10,6 +10,6 @@ Students must work on their projects individually, without significant support f
 
 number | name | overall weight | due date
 --- | --- | --- | ---
-1 | Static Website | 12% | 2017-02-16
-2 | Interactive Website | 15% | 2017-03-09
+1 | Static Website | 12% | 2017-02-09
+2 | Interactive Website | 15% | 2017-03-02
 3 | Web Application | 18% | 2017-05-04
