@@ -5,7 +5,7 @@ Improve the look and feel of your static website.
 ## Objectives
 
   1. Gain familiarity with HTML and CSS.
-  * Use an external CSS stylesheet.
+  * Configure in-line, internal, and external CSS stylesheets.
   * Leverage a front-end web development framework.
 
 ## Prerequisites

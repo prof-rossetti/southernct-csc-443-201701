@@ -6,8 +6,7 @@ Create your own static website and publish it online.
 
   1. Configure a local development environment to include a text editor, a web browser, a local web server, and a version control client.
   * Use a text editor to create and manage programmatic files.
-  * Gain familiarity with HTML and CSS.
-  * Use in-line and internal CSS stylesheets.
+  * Gain familiarity with HTML.
   * Practice software version control.
   * Practice website hosting.
 
@@ -23,31 +22,81 @@ Create your own static website and publish it online.
 
 ### New Directory
 
-Create a new directory on the Desktop called "my-site", or choose another name and/or location as long as you remember it.
+Create a new directory on the Desktop called "my-site", or choose another name and/or location as long as you remember it. You may either do this via user interface, or via the command line as follows:
+
+```` sh
+mkdir ~/Desktop/my-site # (Mac Terminal)
+
+mkdir C:\Users\YOUR_USERNAME\Desktop\my-site # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
+````
 
 ### New HTML File
 
-Open your text editor, and use it to create a new file in that directory called `index.html`.
+Open your text editor, and use it to create a new file in that directory called `index.html`. This can most likely be achieved with: "File > New", followed by "File > Save As". Alternatively, you may use the command line as follows:
 
-Edit the `index.html` file to include basic html page structure (`head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. Save the file.
+```` sh
+touch ~/Desktop/my-site/index.html # (Mac Terminal)
+
+type nul > C:\Users\YOUR_USERNAME\Desktop\my-site\index.html # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
+````
+
+Edit the `index.html` file to include basic html page structure (`head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. If you are not using a text editor that possesses auto-completion functionality, consider switching text editors or leverage the following code snippet:
+
+```` html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
+````
+
+Save the file.
+
+Insert some sample text inside the `title` tag. Also add an `h1` heading tag and sample text within it to display the top-level page heading. Your code should now resemble:
+
+```` html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello World | A website by me</title>
+  </head>
+  <body>
+    <h1>Welcome to My Site</h1>
+  </body>
+</html>
+````
+
+Save the file again.
 
 ### Local Web server
+
+Its time to preview your file in a browser. To do so, you may simply right-click on the file and open it with a browser, but you are encouraged to use a local web server instead.
+
+> NOTE: you must execute the command to run the local web server from inside the root directory which contains your index.html file!
 
 From the command line, navigate to the directory. For example:
 
 ```` sh
 cd ~/Desktop/my-site # (Mac Terminal)
 
-cd C:\Users\YOUR_USERNAME/Desktop/my-site # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
+cd C:\Users\YOUR_USERNAME\Desktop\my-site # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
 ````
 
 After navigating to your directory, start a local web server on port 8888. For example:
 
 ```` sh
-python –m http.server 8888
+python -m SimpleHTTPServer 8888 & # (Mac Terminal)
+
+python –m http.server 8888 # (Windows Command Prompt)
 ````
 
-Visit [localhost:8888](localhost:8888) in a browser to view your page.
+Finally, visit [localhost:8888](localhost:8888) in a browser to view your page.
 
 ### Version Control
 
@@ -71,4 +120,8 @@ Expand the HTML structure of your website to resemble the HTML structure of http
 
 Refer to http://www.w3schools.com/html/default.asp for HTML guidance.
 
-As you develop your website, use an iterative approach, focusing on small tasks one at a time,  and commit your changes after completing each. Push your changes to the remote repository somewhat less frequently, at least once more before you are done.
+As you develop your website, use an iterative approach, focusing on small tasks one at a time,  and commit your changes after completing each.
+
+Push your changes to the remote repository somewhat less frequently, at least once more before you are done.
+
+Nice Job! You are developing like a pro!
