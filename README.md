@@ -40,11 +40,11 @@ university | school | department | term | course | section | credits
   * Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
   * Have fun!
 
-## Projects
+## [Projects](/PROJECTS.md)
 
-  1. Static Website — HTML, CSS, hosted on GitHub Pages
-  * Interactive Website — HTML, CSS, JavaScript, hosted on GitHub Pages
-  * Web Application — HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
+  1. Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
+  * Interactive Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
+  * Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
 
 ## Materials
 
@@ -89,8 +89,8 @@ Student learning will be evaluated through in-class assignments, take-home proje
 
 Name | Weight
 --- | ---
-Assignments | 30% (includes multiple assignments with varying weights)
-Projects | 45% (includes three projects with varying weights)
+[Assignments](/ASSIGNMENTS.md) | 35% (includes multiple assignments with varying weights)
+[Projects](/PROJECTS.md) | 40% (includes three projects with varying weights)
 Final Exam | 25%
 
 ## Schedule
