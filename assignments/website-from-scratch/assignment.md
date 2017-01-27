@@ -69,4 +69,6 @@ Configure GitHub Pages hosting, publish your website, and view it online.
 
 Expand the HTML structure of your website to resemble the HTML structure of https://prof-rossetti.github.io/student-site/, but use your own content.
 
+Refer to http://www.w3schools.com/html/default.asp for HTML guidance.
+
 As you develop your website, use an iterative approach, focusing on small tasks one at a time,  and commit your changes after completing each. Push your changes to the remote repository somewhat less frequently, at least once more before you are done.
