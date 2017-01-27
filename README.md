@@ -56,8 +56,6 @@ There are no required textbooks for this course. Online resources pertaining to 
 
 This course requires students to use numerous software packages. Every effort will be made to make all required packages available on assigned lab computers, but students are encouraged to install the software on their personal computers as well to achieve a more location-flexible development environment.
 
-> Note: Because some installations may be complicated to perform alone on a personal computer, students should wait to install software until explicitly instructed to do so by the professor in the manner prescribed.
-
 #### Text Editor
 
 Each student is expected to achieve proficiency using a text editor of choice. Ideally, the text editor should include syntax auto-completion functionality for HTML, CSS, and JavaScript. The official text-editor for this course is [Atom](https://atom.io/), however [Sublime](https://www.sublimetext.com/) and [Notepad++](https://notepad-plus-plus.org/) are also viable options.

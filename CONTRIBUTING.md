@@ -48,4 +48,4 @@ Congratulations and Thank You!
 
 ### Guidelines
 
-*TODO*
+All contributors must abide by [course policies](/POLICIES.md).
