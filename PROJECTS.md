@@ -1,15 +1,13 @@
 ## Projects
 
-Portfolio projects are worth a collective weight of 40%.
+Portfolio projects are worth a collective weight of 60%.
 
-All projects are due before the start of class on the date specified. Please see individual projects for submission instructions.
-
-All projects will be presented in class.
+All projects are due before midnight on the date specified. Please see individual projects for submission instructions.
 
 Students must work on their projects individually, without significant support from anyone else.
 
-number | name | overall weight | due date
---- | --- | --- | ---
-1 | [Website](/projects/website/project.md) | 8% | 2017-02-09
-2 | Interactive Data Visualization | 12% | 2017-03-02
-3 | Web Application | 20% | 2017-05-04
+name | weight | due date
+--- | --- | ---
+[Personal Website](/projects/website/project.md) | 15.0% | 2017-02-12
+Interactive Data Visualization | 20.0% | 2017-03-05
+Web Application | 25.0% | 2017-04-30
