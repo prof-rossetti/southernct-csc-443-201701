@@ -1,4 +1,4 @@
-# Website Project
+# Personal Website
 
 Plan, design, and develop a website for personal or professional purposes.
 

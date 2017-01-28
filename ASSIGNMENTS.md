@@ -1,28 +1,24 @@
 ## Assignments
 
-Assignments are worth a collective weight of 15%.
+This schedule of in-class exercises is designed to prepare students for success in their project development endeavors. It also helps pace project development progress.
 
-Assignments are usually due in class on the day assigned. The deadline for some assignments may be extended based on the pace of instruction.
+Students are encouraged to help each other complete these exercises.
 
-Students are encouraged to help each other complete these assignments.
-
-number | name | weight | date
---- | --- | --- | ---
-1 | [Student Survey](https://goo.gl/forms/hpXOZxp5maHKedbF3) | 2% | 2017-01-19
-2 | [Fork the Repo](/assignments/fork-the-repo/assignment.md) | 2% | 2017-01-19
-3 | [Command-line Computing](/assignments/command-line-computing/assignment.md) | 0% | 2017-01-26
-4 | [Website from Scratch](/assignments/website-from-scratch/assignment.md) | 0% | 2017-02-02
-5 | Website Bootstrapping | 0% | 2017-02-02
-6 | Website Interactivity | 0% | 2017-02-02
-7 | Interactive Chart | 0% | 2017-02-16
-8 | Interactive Map | 0% | 2017-02-16
-9 | Single Page Weather App | 6% | 2017-02-23
-10 | Hack the Server | 5% | 2017-03-09
-11 | Application Generation | 0% | 2017-03-23
-12 | Application Navigation | 0% | 2017-03-23
-13 | Deploy to Production | 0% | 2017-03-30
-14 | Application CRUD | 0% | 2017-04-06
-15 | Query the Datastore | 0% | 2017-04-13
-16 | Application Datastore | 0% | 2017-04-13
-
-> Note: Assignments worth zero weight are meant to introduce concepts necessary for, and pace the progress of project development.
+name | date
+--- | ---
+[Student Survey](https://goo.gl/forms/hpXOZxp5maHKedbF3) | 2017-01-19
+[Fork the Repo](/assignments/fork-the-repo/assignment.md) | 2017-01-19
+[Command-line Computing](/assignments/command-line-computing/assignment.md) | 2017-02-02
+[Version Control Basics](/assignments/version-control-basics/assignment.md) | 2017-02-02
+[Website from Scratch](/assignments/website-from-scratch/assignment.md) | 2017-02-02
+Website Bootstrapping | 2017-02-02
+Website Interactivity | 2017-02-16
+Interactive Charts and Maps | 2017-02-16
+Interactive Charts and Maps (w/ AJAX) | 2017-02-16
+Hack the Server | 2017-03-09
+Application Generation | 2017-03-23
+Application Navigation | 2017-03-23
+Deploy to Production | 2017-03-30
+Application CRUD | 2017-04-06
+Query the Datastore | 2017-04-13
+Application Datastore | 2017-04-13
