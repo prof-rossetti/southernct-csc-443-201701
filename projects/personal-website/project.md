@@ -7,6 +7,8 @@ Your website should contain at least three different .html files,
 
 The site should maintain consistent style and navigation across pages.
 
+![a screencast depicting usage of a personal website. the website contains multiple pages with consistent navigation across all pages.](demo.gif)
+
 You may use a front-end web development framework
  like [Twitter Bootstrap](http://getbootstrap.com/getting-started/#download-cdn)
  to reduce development efforts and conform to familiar web standards.
