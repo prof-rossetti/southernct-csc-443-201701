@@ -32,17 +32,17 @@ university | school | department | term | course | section | credits
 
   1. Describe the ecosystem of tools, technologies, and languages used to plan, develop, and manage websites and web applications.
   * Describe in a practical sense how the Internet works, specifically focusing on the lifecycle of a network request.
-  * Describe the difference between traditional “waterfall” and agile systems development lifecycles.
-  * Enumerate security and privacy considerations relevant in designing and managing websites and web applications.
+  * Describe the difference between traditional “waterfall” and agile systems development methodologies.
+  * Discuss security and privacy considerations relevant in designing and managing websites and web applications.
   * Participate in, and describe the advantages of software version control.
-  * Describe the role, advantages, and disadvantages of using open source software.
+  * Describe the advantages and disadvantages of open source software.
   * Describe the role of the development, staging, and production development environments.
   * Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
   * Have fun!
 
 ## [Projects](/PROJECTS.md)
 
-  1. Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
+  1. Personal Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
   * Interactive Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
   * Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
 
@@ -54,7 +54,7 @@ There are no required textbooks for this course. Online resources pertaining to 
 
 ### Software
 
-This course requires students to use numerous software packages. Every effort will be made to make all required packages available on assigned lab computers, but students are encouraged to install the software on their personal computers as well to achieve a more location-flexible development environment.
+This course requires students to use numerous software packages. Every effort will be made to make available all required packages on assigned lab computers, but students are encouraged to install the software on their personal computers as well to achieve a more location-flexible development environment.
 
 #### Text Editor
 
