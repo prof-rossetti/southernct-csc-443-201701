@@ -87,8 +87,7 @@ Student learning will be evaluated through in-class assignments, take-home proje
 
 Name | Weight
 --- | ---
-[Assignments](/ASSIGNMENTS.md) | 15% (includes multiple assignments with varying weights)
-[Projects](/PROJECTS.md) | 60% (includes three projects with varying weights)
+[Projects](/PROJECTS.md) | 80% (includes four projects with varying weights)
 Final Exam | 25%
 
 ## Schedule
