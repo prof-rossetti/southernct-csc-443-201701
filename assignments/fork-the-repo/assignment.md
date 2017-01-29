@@ -2,16 +2,18 @@
 
 Leverage an existing open source website to publish your own.
 
+> Note: your website content will be available to the public.
+
 ## Objectives
 
-  1. Develop basic familiarity with software version control (Git), including the ability to "fork" a repository and "commit" changes using the GitHub online platform.
-  * Demonstrate the ability to edit with syntactical precision an html document using a web-based text editor.
-  * Gain exposure to an example static website, noting its repository file structure.
+  1. Develop a familiarity with open source software, software version control, and website hosting.
+  * Gain exposure to a basic website, noting its directory structure and observing HTML document structures and content.
+  * Obtain a foundation upon which to develop and publish your own personal website, for free.
+  * Leverage technology as an outlet for creativity.
 
 ## Prerequisites
-
   1. Install a [modern web browser](/README.md#browser), if necessary.
-  * Register on [GitHub](https://github.com/), if necessary.
+  * Register on [GitHub](https://github.com/), unless you already have an account. When registering for the first time, you must confirm your email address - check your inbox for a confirmation email and click the link.
 
 ## Instructions
 
@@ -61,4 +63,4 @@ Navigate back to the "GitHub Pages" section of your repository's "Settings" menu
 
 Visit that URL, and navigate to the "about" page, where you should see your changes.
 
-Congratulations, you've published a website!
+Congratulations, you've published a website! You are encouraged to further edit its content, structure, and style to reflect your own personality and suit your own purposes.
