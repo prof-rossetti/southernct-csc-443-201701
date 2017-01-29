@@ -43,8 +43,8 @@ university | school | department | term | course | section | credits
 ## [Projects](/PROJECTS.md)
 
   1. Personal Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
-  * Interactive Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
-  * Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
+  * Single-page Web Application — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
+  * CRUD Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
 
 ## Materials
 
@@ -87,8 +87,8 @@ Student learning will be evaluated through in-class assignments, take-home proje
 
 Name | Weight
 --- | ---
-[Assignments](/ASSIGNMENTS.md) | 15% (includes three assignments worth 5% each)
-[Projects](/PROJECTS.md) | 65% (includes three projects with varying weights)
+[Assignments](/ASSIGNMENTS.md) | 15%
+[Projects](/PROJECTS.md) | 65%
 Final Exam | 20%
 
 ## Schedule
