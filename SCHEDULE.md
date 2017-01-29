@@ -10,7 +10,7 @@ Client-side technologies will be the primary focus during the first half of the 
 
 Date | Topic(s) | Tools and Technologies in Focus | Usage | Weight
 --- | --- | --- | --- | ---
-2017-01-19 | Version Control; Website Hosting | Git, GitHub, GitHub Pages | [Fork the Repo](/assignments/fork-the-repo/assignment.md) | 5%
+2017-01-19 | Version Control; Website Hosting | Git, GitHub, GitHub Pages | [Fork the Repo](/assignments/fork-the-repo/assignment.md) | 2.5%
 2017-01-26 | Client-side Development Environment Setup; Command-line Computing | Text editor, web browser, local web server, Git client | [Command-line Computing](/assignments/command-line-computing/assignment.md) | 0%
 2017-02-02 | Website Structure | HTTP/HTTPS, HTML | [Website Checkpoint - Structure](projects/personal-website/checkpoints/structure.md) | 0%
 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap | [Website Checkpoint - Style](projects/personal-website/checkpoints/style.md) | 0%
@@ -25,5 +25,5 @@ Date | Topic(s) | Tools and Technologies in Focus | Usage | Weight
 2017-04-13 | Web Application CRUD - Read | Express.js, mongoose.js or knex.js | CRUD Application Checkpoint - Read | 0%
 2017-04-20 | Web Application CRUD - Destroy and Create | Express.js, mongoose.js or knex.js | CRUD Application Checkpoint - Destroy and Create | 0%
 2017-04-27 | Web Application CRUD - Update | Express.js, mongoose.js or knex.js | CRUD Application Checkpoint - Update | 0%
-2017-05-04 | Portfolio Project Presentations | N/A | Portfolio Presentation | 5%
+2017-05-04 | Portfolio Project Presentations | N/A | Portfolio Presentation | 7.5%
 2017-05-11 from 7:30pm to 9:30pm | Final Exam | N/A | Final Exam | 20%
