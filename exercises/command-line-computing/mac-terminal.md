@@ -105,8 +105,35 @@ pbcopy < ~/Desktop/my_folder/my_message.txt
 
 ### Further Exploration
 
-There are many other utilities to use from the command-line. Turn-up your computer's volume and try this one out:
+There are many other utilities to use from the command-line.
+
+Make your computer speak:
 
 ```` sh
 say "Hello, I am your computer. Let's be friends."
+````
+
+#### Internet Computing
+
+Trace the route traveled by a network request:
+
+```` sh
+traceroute google.com
+# ... stop after a few seconds if necessary by pressing: control + c
+````
+
+Time the duration of a network request:
+
+```` sh
+ping google.com
+# ... stop after a few seconds if necessary by pressing: control + c
+````
+
+Download the [cURL](https://curl.haxx.se/download.html) utility if necessary, then request the contents of a webpage:
+
+```` sh
+curl google.com
+curl http://www.google.com
+curl http://hypem.com/playlist/popular/3day/json/1/data.js
+curl https://raw.githubusercontent.com/debate-watch/twenty_sixteen/master/lib/twenty_sixteen/candidates.json
 ````

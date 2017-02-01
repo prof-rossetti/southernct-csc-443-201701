@@ -1,4 +1,4 @@
-# Fork the Repo
+# Open Source (Fork the Repo)
 
 Leverage an existing open source website to publish your own.
 
@@ -12,7 +12,7 @@ Leverage an existing open source website to publish your own.
   * Leverage technology as an outlet for creativity.
 
 ## Prerequisites
-  1. Install a [modern web browser](/README.md#browser), if necessary.
+
   * Register on [GitHub](https://github.com/), unless you already have an account. When registering for the first time, you must confirm your email address - check your inbox for a confirmation email and click the link.
 
 ## Instructions
@@ -23,7 +23,7 @@ Sign in to GitHub and navigate to the [prof-rossetti/student-site](https://githu
 
 Click the "fork" button to copy the repository to your own user or organization of choice.
 
-![a screenshot of the repository with a red arrow pointing to the right side of the screen towards the fork button](step-1.png)
+![a screenshot of the repository with a red arrow pointing to the right side of the screen towards the fork button](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/assignments/fork-the-repo/step-1.png)
 
 ### Configure Hosting
 
@@ -37,13 +37,13 @@ Navigate to your repository's "Settings" menu and scroll down to find the sectio
 
 Ensure that the "master" branch is selected from the drop-down, and make sure to save your selection, if necessary.
 
-![a screenshot of the repository settings with a dropdown selection showing the master branch](step-2.png)
+![a screenshot of the repository settings with a dropdown selection showing the master branch](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/assignments/fork-the-repo/step-2.png)
 
 ### Tweak Content
 
 Navigate to the repository's `about.html` file, and click the "edit" button to reveal a web-based text editor.
 
-![a screenshot of the about.html file with an arrow pointing to the edit button](step-3.png)
+![a screenshot of the about.html file with an arrow pointing to the edit button](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/assignments/fork-the-repo/step-3.png)
 
 Change some of the page's content, such as the student's name, changing "Sammy Student" to your own name.
 
@@ -51,13 +51,13 @@ Change some of the page's content, such as the student's name, changing "Sammy S
 
 When you are satisfied with your changes, scroll to the bottom of the page and click the "commit" button to save them. Ensure your commit will trigger a GitHub Pages update by commiting directly to the branch you configured in the "GitHub Pages" settings, which in this case is the "master" branch.
 
-![a screenshot of the about.html file with an arrow pointing to the edit button](step-4.png)
+![a screenshot of the about.html file with an arrow pointing to the edit button](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/assignments/fork-the-repo/step-4.png)
 
 ### Visit
 
 Navigate back to the "GitHub Pages" section of your repository's "Settings" menu, and note the URL of your hosted website.
 
-![a screenshot of the about.html file with an arrow pointing to the edit button](step-5.png)
+![a screenshot of the about.html file with an arrow pointing to the edit button](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/assignments/fork-the-repo/step-5.png)
 
 > Note: the website URL structure should resemble https://USERNAME.github.io/student-site/, where USERNAME is your own GitHub username.
 

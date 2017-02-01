@@ -17,10 +17,6 @@ See the following operating system-specific guides:
   + [Using Terminal on Mac OS](mac-terminal.md)
   + [Using Command Prompt on Windows OS](windows-command-prompt.md)
 
-
-
-
-
 <hr>
 
 [adapted from source](https://github.com/prof-rossetti/201503-mgmt-info-systems/blob/master/assignments/lab/command-line-computing.md)

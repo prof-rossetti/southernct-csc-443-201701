@@ -100,3 +100,27 @@ Copy contents of a file into the clipboard for pasting.
 type C:\Users\YOUR_USERNAME\Desktop\my_folder\my_message.txt | clip
 # ... then just paste as you normally would after copying some text
 ````
+
+### Further Exploration
+
+#### Internet Computing
+
+Trace the route traveled by a network request:
+
+```` sh
+tracert google.com # stop after a few seconds if necessary by pressing: control + c
+````
+
+Time the duration of a network request:
+
+```` sh
+ping google.com # stop after a few seconds if necessary by pressing: control + c
+````
+
+Download the [cURL](https://curl.haxx.se/download.html) utility if necessary, then request the contents of a webpage:
+
+```` sh
+curl google.com
+curl http://www.google.com
+curl https://raw.githubusercontent.com/debate-watch/twenty_sixteen/master/lib/twenty_sixteen/candidates.json
+````

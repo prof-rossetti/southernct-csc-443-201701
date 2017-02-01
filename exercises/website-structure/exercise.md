@@ -1,4 +1,4 @@
-# Website from Scratch
+# Website Structure
 
 Create your own static website and publish it online.
 
