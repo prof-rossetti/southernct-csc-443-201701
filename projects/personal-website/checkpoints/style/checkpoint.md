@@ -1,4 +1,4 @@
-# Website Style
+# Personal Website Checkpoint II: Style
 
 Improve the look and feel of your static website.
 

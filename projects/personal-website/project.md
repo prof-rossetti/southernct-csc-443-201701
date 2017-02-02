@@ -3,9 +3,7 @@
 Plan, design, and develop a website for personal or professional purposes.
 
 Your website should contain at least three different .html files,
- as well as any scripts, images, and icons needed for proper function and form.
-
-The site should maintain consistent style and navigation across pages.
+ as well as any scripts, images, and icons needed for proper function and form. The site should maintain consistent style and navigation across pages.
 
 ![a screencast depicting usage of a personal website. the website contains multiple pages with consistent navigation across all pages.](demo.gif)
 
@@ -50,9 +48,9 @@ Your website will be evaluated according to the following criteria:
 
 criteria | weight
 --- | ---
-Planning and Design | 10%
-Implementation | 80%
-Peer Evaluation | 10%
+Planning and Design | 25%
+Implementation | 50%
+Peer Evaluation | 25%
 
 Partial credit may be given to highlight areas of improvement.
 
@@ -82,4 +80,4 @@ Your website implementation will be evaluated based on its demonstrated ability 
 
 #### Peer Evaluation
 
-All members of the learning community, including the professor, will evaluate all submitted websites, and assign each a score from one to ten. These peer evaluations will be averaged to produce the Peer Evaluation Score.
+All members of the learning community, including the professor, will evaluate all submitted websites, and assign each a score from 1 to 25. A weighted average of these individual scores will produce the overall Peer Evaluation Score.

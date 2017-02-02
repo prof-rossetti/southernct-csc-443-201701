@@ -1,4 +1,4 @@
-# Website Structure
+# Personal Website Checkpoint I: Structure
 
 Create your own static website and publish it online.
 
