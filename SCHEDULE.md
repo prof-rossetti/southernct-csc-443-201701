@@ -12,9 +12,9 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 2 | 2017-01-26 | Command-line Computing | Terminal (Mac) or Command Prompt (Windows) | [Command-line Computing](/exercises/command-line-computing/exercise.md)
 3 | 2017-02-02 | N/A | N/A | [Student Attendance Compliance Survey](https://goo.gl/forms/Oig13CkiC0PSDINT2)
 3 | 2017-02-02 | The Internet | HTTP/HTTPS | N/A
-3 | 2017-02-02 | Website Structure | HTML | [Website Checkpoint I: Structure](/projects/personal-website/checkpoint-1-structure.md), [CRUD App Checkpoint I: Structure](/projects/crud-application/checkpoint-1-structure.md)
-4 | 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap Components and CSS | [Website Checkpoint II: Style](/projects/personal-website/checkpoint-2-style.md), [CRUD App Checkpoint II: Style](/projects/crud-application/checkpoint-2-style.md)
-5 | 2017-02-16 | Website Interactivity: Click Events | JavaScript, Twitter Bootstrap JavaScript, jQuery | [Website Checkpoint III: Interactivity](/projects/personal-website/checkpoint-3-interactivity.md), [CRUD App Checkpoint III: Interactivity](/projects/crud-application/checkpoint-3-interactivity.md)
+3 | 2017-02-02 | Website Structure | HTML | [Website Checkpoint I: Structure](/projects/personal-website/checkpoints/structure/checkpoint.md), [CRUD App Checkpoint I: Structure](/projects/crud-application/checkpoints/structure/checkpoint.md)
+4 | 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap Components and CSS | [Website Checkpoint II: Style](/projects/personal-website/checkpoints/style/checkpoint.md), [CRUD App Checkpoint II: Style](/projects/crud-application/checkpoints/style/checkpoint.md)
+5 | 2017-02-16 | Website Interactivity: Click Events | JavaScript, Twitter Bootstrap JavaScript, jQuery | [Website Checkpoint III: Interactivity](/projects/personal-website/checkpoints/interactivity/checkpoint.md), [CRUD App Checkpoint III: Interactivity](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
 N/A | 2017-02-19 | N/A | N/A | [Personal Website (15%)](/projects/personal-website/project.md) due by 11:59pm
 N/A | 2017-02-22 | N/A | N/A | [Personal Website Peer Evaluations (5%)](/projects/personal-website/peer-evaluation.md) due by 11:59pm
 6 | 2017-02-23 | Website Interactivity: DOM Manipulation | JavaScript, jQuery, d3.js | Single-page App Checkpoint I
