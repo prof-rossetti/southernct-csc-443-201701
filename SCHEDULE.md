@@ -10,6 +10,7 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 1 | 2017-01-19 | Version Control, Open Source, and Website Hosting | Git, GitHub, GitHub Pages | [Fork the Repo](/exercises/open-source/exercise.md)
 2 | 2017-01-26 | Client-side Development Environment Setup | Text editor, web browser, local web server, Git client | N/A
 2 | 2017-01-26 | Command-line Computing | Terminal (Mac) or Command Prompt (Windows) | [Command-line Computing](/exercises/command-line-computing/exercise.md)
+3 | 2017-02-02 | N/A | N/A | [Student Attendance Compliance Survey](https://goo.gl/forms/Oig13CkiC0PSDINT2)
 3 | 2017-02-02 | The Internet | HTTP/HTTPS | N/A
 3 | 2017-02-02 | Website Structure | HTML | [Website Checkpoint I: Structure](/projects/personal-website/checkpoint-1-structure.md), [CRUD App Checkpoint I: Structure](/projects/crud-application/checkpoint-1-structure.md)
 4 | 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap Components and CSS | [Website Checkpoint II: Style](/projects/personal-website/checkpoint-2-style.md), [CRUD App Checkpoint II: Style](/projects/crud-application/checkpoint-2-style.md)
@@ -23,12 +24,12 @@ N/A | 2017-02-22 | N/A | N/A | [Personal Website Peer Evaluations (5%)](/project
 N/A | 2017-03-19 | N/A | N/A | Single-page App due by 11:59pm (20%)
 N/A | 2017-03-22 | N/A | N/A | Single-page App Peer Evaluations due by 11:59pm (5%)
 10 | 2017-03-23 | Network Computing | SSH, Public/private key encryption | Hack the Server
-10 | 2017-03-23 | Server-side Development Environment Setup | Node.js, MongoDBorPostgreSQL | N/A
-11 | 2017-03-30 | Database Connections | Node.js, mongoose.jsorknex.js | CRUD App Checkpoint IV
+10 | 2017-03-23 | Server-side Development Environment Setup | Node.js, MongoDB or PostgreSQL | N/A
+11 | 2017-03-30 | Database Connections | Node.js, mongoose.js or knex.js | CRUD App Checkpoint IV
 12 | 2017-04-06 | Web Application Generation, Navigation, and Hosting | Express.js, Heroku | CRUD App Checkpoint V
-13 | 2017-04-13 | Web Application CRUD - Read | Express.js, mongoose.jsorknex.js | CRUD App Checkpoint VI
-14 | 2017-04-20 | Web Application CRUD - Destroy and Create | Express.js, mongoose.jsorknex.js | CRUD App Checkpoint VII
-15 | 2017-04-27 | Web Application CRUD - Update | Express.js, mongoose.jsorknex.js | CRUD App Checkpoint VIII
+13 | 2017-04-13 | Web Application CRUD - Read | Express.js, mongoose.js or knex.js | CRUD App Checkpoint VI
+14 | 2017-04-20 | Web Application CRUD - Destroy and Create | Express.js, mongoose.js or knex.js | CRUD App Checkpoint VII
+15 | 2017-04-27 | Web Application CRUD - Update | Express.js, mongoose.js or knex.js | CRUD App Checkpoint VIII
 N/A | 2017-04-30 | N/A | N/A | CRUD App due by 11:59pm (30%)
 N/A | 2017-05-03 | N/A | N/A | CRUD App Peer Evaluations due by 11:59pm (5%)
 16 | 2017-05-04 | Portfolio Project Presentations | N/A | N/A
