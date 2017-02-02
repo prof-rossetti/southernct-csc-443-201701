@@ -108,4 +108,4 @@ The course google calendar is available in [HTML](https://calendar.google.com/ca
 
 All members of the learning community agree to abide by the [policies](/POLICIES.md) described herein.
 
-## [License](/LICENSE.md)
+## [License](/LICENSE)
