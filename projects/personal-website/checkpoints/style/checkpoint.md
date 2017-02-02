@@ -1,4 +1,4 @@
-# Website Bootstrapping
+# Personal Website Checkpoint II: Style
 
 Improve the look and feel of your static website.
 
@@ -10,7 +10,7 @@ Improve the look and feel of your static website.
 
 ## Prerequisites
 
-  1. [Website from Scratch](/assignments/website-from-scratch/assignment.md)
+  1. [Personal Website Checkpoint I: Structure](/projects/personal-website/checkpoints/structure/checkpoint.md)
 
 ## Instructions
 

@@ -1,4 +1,4 @@
-# Website from Scratch
+# Personal Website Checkpoint I: Structure
 
 Create your own static website and publish it online.
 
@@ -25,9 +25,11 @@ Create your own static website and publish it online.
 Create a new directory on the Desktop called "my-site", or choose another name and/or location as long as you remember it. You may either do this via user interface, or via the command line as follows:
 
 ```` sh
-mkdir ~/Desktop/my-site # (Mac Terminal)
+# Mac Terminal:
+mkdir ~/Desktop/my-site
 
-mkdir C:\Users\YOUR_USERNAME\Desktop\my-site # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
+# Windows Command Prompt:
+mkdir C:\Users\YOUR_USERNAME\Desktop\my-site # replace YOUR_USERNAME with the name of the user currently operating your local machine
 ````
 
 ### New HTML File
@@ -35,9 +37,11 @@ mkdir C:\Users\YOUR_USERNAME\Desktop\my-site # (Windows Command Prompt), where Y
 Open your text editor, and use it to create a new file in that directory called `index.html`. This can most likely be achieved with: "File > New", followed by "File > Save As". Alternatively, you may use the command line as follows:
 
 ```` sh
-touch ~/Desktop/my-site/index.html # (Mac Terminal)
+# Mac Terminal:
+touch ~/Desktop/my-site/index.html
 
-type nul > C:\Users\YOUR_USERNAME\Desktop\my-site\index.html # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
+# Windows Command Prompt:
+type nul > C:\Users\YOUR_USERNAME\Desktop\my-site\index.html
 ````
 
 Edit the `index.html` file to include basic html page structure (`head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. If you are not using a text editor that possesses auto-completion functionality, consider switching text editors or leverage the following code snippet:
@@ -83,17 +87,21 @@ Its time to preview your file in a browser. To do so, you may simply right-click
 From the command line, navigate to the directory. For example:
 
 ```` sh
-cd ~/Desktop/my-site # (Mac Terminal)
+# Mac Terminal:
+cd ~/Desktop/my-site
 
-cd C:\Users\YOUR_USERNAME\Desktop\my-site # (Windows Command Prompt), where YOUR_USERNAME is the user name associated with the operating system account you use on your local machine
+# Windows Command Prompt:
+cd C:\Users\YOUR_USERNAME\Desktop\my-site
 ````
 
-After navigating to your directory, start a local web server on port 8888. For example:
+After navigating to your directory, start a local web server on port 8888:
 
 ```` sh
-python -m SimpleHTTPServer 8888 & # (Mac Terminal)
+# Mac Terminal:
+python -m SimpleHTTPServer 8888 &
 
-python –m http.server 8888 # (Windows Command Prompt)
+# Windows Command Prompt:
+python –m http.server 8888
 ````
 
 Finally, visit [localhost:8888](localhost:8888) in a browser to view your page.

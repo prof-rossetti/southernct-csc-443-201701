@@ -17,8 +17,8 @@
     "name":"Spring 2017",
     "abbreviation":"201701",
     "url":"https://www.southernct.edu/offices/registrar/Calendar.html",
-    "start_date":"________",
-    "end_date":"__________"
+    "start_date":"2017-01-17",
+    "end_date":"2017-05-11"
   },
   "course":{
     "name":"Fundamentals of Internet Programming",
@@ -29,8 +29,7 @@
     "name":"Thursday nights",
     "number":"01",
     "start_time":"7:35pm",
-    "end_time":"10:05pm",
-    "location":"Morrill Hall, Room 113"
+    "end_time":"10:05pm"
   },
   "credits":3
 }
