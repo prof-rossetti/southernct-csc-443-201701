@@ -87,8 +87,8 @@ Student learning will be evaluated through in-class assignments, take-home proje
 
 Name | Weight
 --- | ---
-[Assignments](/ASSIGNMENTS.md) | 15%
 [Projects](/PROJECTS.md) | 65%
+Assignments (project peer evaluations)| 15%
 Final Exam | 20%
 
 ## Schedule
