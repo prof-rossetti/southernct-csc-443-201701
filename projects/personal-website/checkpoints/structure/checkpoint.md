@@ -12,11 +12,7 @@ Create your own static website and publish it online.
 
 ## Prerequisites
 
-  1. Install a [modern web browser](/README.md#browser), if necessary.
-  * Install a [text editor](/README.md#text-editor), if necessary.
-  * Register on [GitHub](https://github.com/), if necessary.
-  * Install a [Git Client](https://git-scm.com/downloads).
-  * Install a program which will allow you to run a local web server.
+  1. [Fork the Repo](/exercises/open-source/exercise.md)
 
 ## Instructions
 
