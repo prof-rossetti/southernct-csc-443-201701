@@ -11,7 +11,7 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 2 | 2017-01-26 | Client-side Development Environment Setup | Text editor, web browser, local web server, Git client | N/A
 2 | 2017-01-26 | Command-line Computing | Terminal (Mac) or Command Prompt (Windows) | [Command-line Computing](/exercises/command-line-computing/exercise.md)
 3 | 2017-02-02 | N/A | N/A | [Student Attendance Compliance Survey](https://goo.gl/forms/Oig13CkiC0PSDINT2)
-3 | 2017-02-02 | The Internet | HTTP/HTTPS | N/A
+3 | 2017-02-02 | The Internet | HTTP/HTTPS | N/A (See [network computing notes](/notes/computer-networks/notes.md))
 3 | 2017-02-02 | Website Structure | HTML | [Website Checkpoint I: Structure](/projects/personal-website/checkpoints/structure/checkpoint.md), [CRUD App Checkpoint I: Structure](/projects/crud-application/checkpoints/structure/checkpoint.md)
 4 | 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap Components and CSS | [Website Checkpoint II: Style](/projects/personal-website/checkpoints/style/checkpoint.md), [CRUD App Checkpoint II: Style](/projects/crud-application/checkpoints/style/checkpoint.md)
 5 | 2017-02-16 | Website Interactivity: Click Events | JavaScript, Twitter Bootstrap JavaScript, jQuery | [Website Checkpoint III: Interactivity](/projects/personal-website/checkpoints/interactivity/checkpoint.md), [CRUD App Checkpoint III: Interactivity](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
