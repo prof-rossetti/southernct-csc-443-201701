@@ -7,7 +7,7 @@ Client-side technologies will be the primary focus during the first half of the 
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
 1 | 2017-01-19 | Course Introduction | Slack | [Student Survey](https://goo.gl/forms/SuSZlzDWMxjTFA9j2)
-1 | 2017-01-19 | Version Control, Open Source, and Website Hosting | Git, GitHub, GitHub Pages | [Fork the Repo](/exercises/open-source/exercise.md)
+1 | 2017-01-19 | Version Control, Open Source, and Website Hosting | Git, GitHub, GitHub Pages | [Fork the Repo](/exercises/open-source/exercise.md), [Version Control](/exercises/version-control/exercise.md)
 2 | 2017-01-26 | Client-side Development Environment Setup | Text editor, web browser, local web server, Git client | N/A
 2 | 2017-01-26 | Command-line Computing | Terminal (Mac) or Command Prompt (Windows) | [Command-line Computing](/exercises/command-line-computing/exercise.md)
 3 | 2017-02-02 | N/A | N/A | [Student Attendance Compliance Survey](https://goo.gl/forms/Oig13CkiC0PSDINT2)
