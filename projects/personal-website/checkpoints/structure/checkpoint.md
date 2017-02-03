@@ -124,7 +124,7 @@ Configure GitHub Pages hosting, publish your website, and view it online.
 
 ### Iterate
 
-Expand the HTML structure of your website to resemble the HTML structure of https://prof-rossetti.github.io/student-site/, but use your own content.
+Expand the HTML structure of your website as desired to meet project expectations. If you have not yet planned and designed your website, instead you may practice by expanding the HTML structure of your website to resemble that of https://prof-rossetti.github.io/student-site/, but using your own content.
 
 Refer to http://www.w3schools.com/html/default.asp for HTML guidance.
 
