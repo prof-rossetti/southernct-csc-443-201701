@@ -18,6 +18,8 @@ Complete one or more of the following tutorials as desired:
     + [Intro to GitHub Desktop](https://services.github.com/on-demand/github-desktop/)
     + [Intro to GitHub CLI](https://services.github.com/on-demand/github-cli/)
 
+Reference also this [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf).
+
 After participating in these tutorials and practicing on your own, you should be able to:
 
   + Initialize a new Git repository.
