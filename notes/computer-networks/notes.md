@@ -12,7 +12,7 @@ network size | description | example(s)
 --- | --- | ---
 Personal Area Network (PAN) | Two ore more devices in a very limited geographical region, usually within the same room | a bluetooth connection between headphones and mobile phone
 Local Area Network (LAN) | "two or more devices in a limited geographical region, usually within the same building" | a home WiFi network
-Wide Area Network (WAN) | "covers a large geographic region; typically connects multiple LANs" | a university network (e.g. GWireless); the Internet
+Wide Area Network (WAN) | "covers a large geographic region; typically connects multiple LANs" | a university network; the Internet
 
 The **Internet** is a very very large WAN computer network. It is a network of networks.
 
@@ -81,15 +81,27 @@ Within the context of today's Internet, most computers connect according to **Cl
 
 ###### Lifecycle of a Network Request
 
-The way you are most likely familiar with requesting information over the Internet is by visiting a URL in your web browser. In this case, your computer is the client making the request for information.
+The way you are most likely familiar with requesting information over the Internet is by visiting a URL in your web browser. In this case, your computer is the client making the request for information. And the computer hosting the website located at the given URL is the server.
 
-If the client doesn't know the IP address of the server, it will ask a **Domain Name Server (DNS)** to lookup the IP address associated with that given domain name. The role of the DNS is analogous to the role of the telephone operator when you dial *411*.
+  1. The client sends a request to the server.
 
-The client sends a request to the server.
+  1a. If the client doesn't know the IP address of the server, it will ask a **Domain Name System (DNS) Server** to lookup the IP address associated with that given domain name. In this way, the role of the DNS is analogous to the role of the telephone operator when you dial *411*, in which you may ask the operator, "May I please have the number for Pepe's Pizza in New Haven?" and the operator would either share the phone number with you, or connect your call directly.
 
-The server receives the request and sends a response.
+  2. The server receives the request, processes it, and sends a response back to the client.
 
-The client receives the response, and within the context of the web-browsing example, a web browser interprets and formats the results on screen.
+  3. The client receives the response, and within the context of the web-browsing example, the client's web browser interprets and formats the results on screen.
+
+###### Client-side vs Server-side Programming
+
+You may have heard references to client-side and/or server-side programming. Within the context of web development, you can generally think of **server-side** software as a set of instructions executed by the server, and **client-side** software as a set of instructions executed by the client.
+
+Practically, server-side applications are responsible for processing web requests into responses. Written in server-side programming languages like [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [PHP](http://php.net/), etc., they often handle database connections, translating database data into HTML or JSON responses. A web service (i.e. [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_Web_services)) is a perfect example of a purely server-side application.
+
+Client-side applications are generally responsible for displaying or otherwise representing the information returned by server-side applications. Written in client-specific languages like [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), they are commonly executed within web browsers or native applications. They may provide user interactivity or other functionality that does not require subsequent communication with the server after the server's initial response. Or they may send information back and forth to and from the server multiple times within a single user session. Web pages and data visualizations are good examples of client-side web applications.
+
+In some cases, a single web application may contain both server-side and client-side logic. This hybrid approach is exemplified by any fully-functional [Model-View-Controller (MVC)](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html) application built using the [Ruby on Rails](http://rubyonrails.org/) or [Python Django](https://www.djangoproject.com/) framework. In other cases, client-side logic and server-side logic may be separated into different web applications (i.e. a back-end web service distinct from a front-end user interface).
+
+
 
 
 
@@ -130,3 +142,5 @@ Additional Resources:
  + https://www.godaddy.com/help/what-is-dns-665
  + https://www.techopedia.com/definition/454/peer-to-peer-architecture-p2p-architecture
  + http://www.cs.ccsu.edu/~stan/classes/cs490/slides/networks4-ch2-4.pdf
+ + https://www2.cs.sfu.ca/~ggbaker/zju/web/
+ + https://www.washington.edu/accesscomputing/webd2/student/index.html
