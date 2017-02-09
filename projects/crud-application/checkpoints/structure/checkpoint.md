@@ -87,7 +87,7 @@ Somewhere on the `index.html` page, insert a link to the `new.html` file.
 Inside the `new.html` file, insert a `form` element. The form should contain the following elements:
 
   + text `input` accompanied by a `label` called "Name"
-  + `textarea` input accompanied by a label called "Description"
+  + `textarea` input accompanied by a `label` called "Description"
   + `button` called "Submit"
 
 If you're interested, also add to the form:
