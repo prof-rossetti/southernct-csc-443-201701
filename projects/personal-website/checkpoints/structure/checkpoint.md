@@ -1,10 +1,10 @@
 # Personal Website Checkpoint I: Structure
 
-Create your own static website and publish it online.
+Create your own static website from scratch, and publish it online.
 
 ## Objectives
 
-  1. Configure a local development environment to include a text editor, a web browser, a local web server, and a version control client.
+  1. Practice developing in a local environment.
   * Use a text editor to create and manage programmatic files.
   * Gain familiarity with HTML.
   * Practice software version control.
@@ -12,35 +12,52 @@ Create your own static website and publish it online.
 
 ## Prerequisites
 
-  1. [Fork the Repo](/exercises/open-source/exercise.md)
+  1. [Fork the Repo](/exercises/open-source/exercise.md).
+  2. Configure a local development environment to include a text editor, a web browser, a local web server, and a version control client.
 
 ## Instructions
 
-### New Directory
+Your workflow will differ slightly depending on your chosen Git client.
 
-Create a new directory on the Desktop called "my-site", or choose another name and/or location as long as you remember it. You may either do this via user interface, or via the command line as follows:
+### Configure Remote Repository
 
-```` sh
-# Mac Terminal:
-mkdir ~/Desktop/my-site
+Create a new repository on GitHub called "my-site".
 
-# Windows Command Prompt:
-mkdir C:\Users\YOUR_USERNAME\Desktop\my-site # replace YOUR_USERNAME with the name of the user currently operating your local machine
-````
+Then copy it to the Desktop or another folder on your local machine. Do this by either by noting its remote address and cloning it, or by choosing the "Open in Desktop" option if you have installed GitHub Desktop software on your local machine.
 
-### New HTML File
+![a screenshot of the button on github that reveals a repository's remote address](remote-repo-address.png)
 
-Open your text editor, and use it to create a new file in that directory called `index.html`. This can most likely be achieved with: "File > New", followed by "File > Save As". Alternatively, you may use the command line as follows:
+> NOTE: If cloning, later in the semester once you have configured your GitHub account to recognize your public key, prefer the SSH address. But for now, if you don't know about SSH, choose the HTTPS version of the address.
 
 ```` sh
 # Mac Terminal:
-touch ~/Desktop/my-site/index.html
+cd ~/Desktop/
 
 # Windows Command Prompt:
-type nul > C:\Users\YOUR_USERNAME\Desktop\my-site\index.html
+cd C:\Users\YOUR_USERNAME\Desktop\ # replace YOUR_USERNAME with the name of the user currently operating your local machine
 ````
 
-Edit the `index.html` file to include basic html page structure (`head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. If you are not using a text editor that possesses auto-completion functionality, consider switching text editors or leverage the following code snippet:
+```` sh
+git clone REMOTE_REPOSITORY_ADDRESS # replace REMOTE_REPOSITORY_ADDRESS with the SSH or HTTPS address of your remote repository
+````
+
+### Develop Locally
+
+Find the location of the local repository, navigate to it from the command line, and open it with a text editor of choice.
+
+```` sh
+cd my-site/
+atom .
+````
+
+> NOTE: Subsequent instructions assume you have navigated to the root directory of the local repository. Some commands, like running the local web server, will only work if executed from within the root directory of your repository.
+
+#### Edit HTML
+
+Use your text editor to create a new file in the "my-site" directory called `index.html`. This can most likely be achieved with: "File > New", followed by "File > Save As".
+Edit the `index.html` file using your text editor of choice.
+
+Add basic html page structure (`html`, `head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. If you are not using a text editor that possesses auto-completion functionality, consider switching text editors or leverage the following code snippet:
 
 ```` html
 <!DOCTYPE html>
@@ -74,21 +91,11 @@ Insert some sample text inside the `title` tag. Also add an `h1` heading tag and
 
 Save the file again.
 
-### Local Web server
+#### Preview Changes
 
 Its time to preview your file in a browser. To do so, you may simply right-click on the file and open it with a browser, but you are encouraged to use a local web server instead.
 
-> NOTE: you must execute the command to run the local web server from inside the root directory which contains your index.html file!
-
-From the command line, navigate to the directory. For example:
-
-```` sh
-# Mac Terminal:
-cd ~/Desktop/my-site
-
-# Windows Command Prompt:
-cd C:\Users\YOUR_USERNAME\Desktop\my-site
-````
+> NOTE: You must execute the following command within the root directory which contains your index.html file!
 
 After navigating to your directory, start a local web server on port 8888:
 
@@ -102,19 +109,25 @@ python –m http.server 8888
 
 Finally, visit [localhost:8888](localhost:8888) in a browser to view your page.
 
-### Version Control
+#### Save Changes
 
-Initialize a git repository in your directory by leveraging a GUI or command-line Git client.
+Review, stage, and commit your changes to version control using your Git client of choice. Command-line instructions are as follows:
 
-Commit your changes.
+```` sh
+git status
+git diff # this won't display any detailed results at the moment because the index.html file has not yet previously been checked-in to version control. In the future this will display a rich line-by-line indication of all file modifications.
+git add index.html
+git commit -m "Create basic homepage structure"
+````
 
-### Hosting
+Sync your local changes with the remote repository using your Git client of choice. Command-line instructions are as follows:
 
-Create a new repository on GitHub, and note its remote address.
+```` sh
+git pull origin master # best practice is to always pull before pushing, in case other contributors have updated the contents of the remote repository.
+git push origin master
+````
 
-Configure your local directory to include the remote address of your GitHub repository.
-
-Push your changes to GitHub.
+### Configure Hosting
 
 Configure GitHub Pages hosting, publish your website, and view it online.
 
@@ -122,9 +135,9 @@ Configure GitHub Pages hosting, publish your website, and view it online.
 
 Expand the HTML structure of your website as desired to meet project expectations. If you have not yet planned and designed your website, instead you may practice by expanding the HTML structure of your website to resemble that of https://prof-rossetti.github.io/student-site/, but using your own content.
 
-Refer to http://www.w3schools.com/html/default.asp for HTML guidance.
+Refer to http://www.w3schools.com/html/default.asp for HTML guidance. Include many of the HTML elements covered therein. Take your time to develop a baseline comfort with these elements.
 
-As you develop your website, use an iterative approach, focusing on small tasks one at a time,  and commit your changes after completing each.
+As you develop your website, use an iterative development approach. Focus on small tasks one at a time. Edit your HTML file(s), preview your changes, then commit your changes. Then repeat the process.
 
 Push your changes to the remote repository somewhat less frequently, at least once more before you are done.
 
