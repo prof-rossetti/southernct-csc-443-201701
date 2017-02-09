@@ -129,7 +129,7 @@ ping google.com
 # ... stop after a few seconds if necessary by pressing: control + c
 ````
 
-Download the [cURL](https://curl.haxx.se/download.html) utility if necessary, then request the contents of a webpage:
+Request the contents of a webpage:
 
 ```` sh
 curl google.com
