@@ -4,19 +4,7 @@ A **computer network** is a "system (of) connect(ed) computers and (computer har
  which use "communications media" to transmit data
   to other members in the network.
 
-## Sizes
-
-Computer networks are often described in terms of size:
-
-network size | description | example(s)
---- | --- | ---
-Personal Area Network (PAN) | Two ore more devices in a very limited geographical region, usually within the same room | a bluetooth connection between headphones and mobile phone
-Local Area Network (LAN) | "two or more devices in a limited geographical region, usually within the same building" | a home WiFi network
-Wide Area Network (WAN) | "covers a large geographic region; typically connects multiple LANs" | a university network; the Internet
-
-The **Internet** is a very very large WAN computer network. It is a network of networks.
-
-## Communications Media
+## Network Communications Media
 
 **Communications media** refer to the pathways, or methods, by which data are transmitted.
  Cable media transmit information over physical wires or cables, whereas broadcast media transmit information through electromagnetic waves.
@@ -44,9 +32,25 @@ Examples include:
  + Satellite radio
  + Wireless Broadband
 
-## Protocols
+## Network Sizes
 
-Computers connected to the Internet communicate according to a "common set of rules and procedures", or protocols. The following table describes some of them:
+Computer networks are often described in terms of size:
+
+network size | description | example(s)
+--- | --- | ---
+Personal Area Network (PAN) | Two ore more devices in a very limited geographical region, usually within the same room | a bluetooth connection between headphones and mobile phone
+Local Area Network (LAN) | "two or more devices in a limited geographical region, usually within the same building" | a home WiFi network
+Wide Area Network (WAN) | "covers a large geographic region; typically connects multiple LANs" | a university network; the Internet
+
+## The Internet
+
+The **Internet** is a very very large WAN computer network. It is a network of networks.
+
+![an example internet backbone](http://www.nthelp.com/images/sprint.jpg)
+
+### Internet Protocols
+
+Computers connected to the Internet communicate according to a "common set of rules and procedures", or protocols. The following table identifies some of them:
 
 abbreviation | name | description
 --- | --- | ---
@@ -59,41 +63,37 @@ abbreviation | name | description
 [SSH](https://en.wikipedia.org/wiki/Secure_Shell) | Secure Shell | A cryptographic (encrypted) network protocol to allow remote login and other network services to operate securely over an unsecured network.
 [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) | SSH/Secure File Transfer Protocol | For transferring files over SSH.
 
-### Internet Protocol
+When computers communicate information over the Internet, they do so according to a set of rules or standards set forth by these protocols. The Internet Protocol primarily governs the routing and delivery of information from one computer to another.
 
-When computers communicate information over the Internet, they do so according to a set of rules or standards as set forth by the **Internet Protocol**. The Internet Protocol primarily governs the routing and delivery of information from one computer to another.
-
-![an example internet backbone](http://www.nthelp.com/images/sprint.jpg)
-
-Computers participating in these connections each have an address, or location where the information is sent and received. Just as a street address identifies a building within a connected system of roads and highways, and as a telephone number identifies a phone's connection to a cellular network, an **Internet Protocol (IP) Address** identifies a computer's connection to the Internet. IP Address notation typically includes numbers separated by decimals in IP Version 4 (e.g. *127.0.0.1*), and numbers or letters separated by colons in IP Version 6 (e.g. *2601:37b:c211:7109:7833:f6d1:1f15:9174*).
+Computers participating in these connections each have an address, or location where the information is sent and received. Just as a street address identifies a building within a connected system of roads and highways, and as a telephone number identifies a phone's connection to a cellular network, an **Internet Protocol (IP) Address** identifies a computer's connection to the Internet. IP Address notation typically includes numbers separated by decimals in IP Version 4 (e.g. *144.228.10.74*), and numbers or letters separated by colons in IP Version 6 (e.g. *2601:37b:c211:7109:7833:f6d1:1f15:9174*).
 
 When information is traveling throughout the network, data is separated into component parts and encapsulated into **packets** which also contain routing information. These packets may or may not take the same route across the network and may or may not arrive at the destination at the same time. Once all the packets are received, they are re-assembled into the original information representation.
 
-#### Architecture
+### Internet Architecture
 
-##### Peer-to-Peer
+#### Peer-to-Peer
 
 In **Peer-to-peer (P2P)** networks, connected computers share the same or similar information-sharing responsibilities. Napster, Kazaa, and BitTorrent are examples of a popular P2P sites.
 
-##### Client/Server
+#### Client/Server
 
 Within the context of today's Internet, most computers connect according to **Client/Server** architecture. The role of the client computer is to request information, whereas the responsibility of the server is to fulfill those requests.
 
-###### Lifecycle of a Network Request
+##### Lifecycle of a Network Request
 
-The way you are most likely familiar with requesting information over the Internet is by visiting a URL in your web browser. In this case, your computer is the client making the request for information. And the computer hosting the website located at the given URL is the server.
+The way you are most likely familiar with requesting information over the Internet is by visiting a URL in your web browser. In this case, your computer is the client making the request for information. And the computer hosting the website associated with the given URL is the server.
 
   1. The client sends a request to the server.
 
-  1a. If the client doesn't know the IP address of the server, it will ask a **Domain Name System (DNS) Server** to lookup the IP address associated with that given domain name. In this way, the role of the DNS is analogous to the role of the telephone operator when you dial *411*, in which you may ask the operator, "May I please have the number for Pepe's Pizza in New Haven?" and the operator would either share the phone number with you, or connect your call directly.
+  1a. If the client doesn't know the IP address of the server, it will ask a **Domain Name System (DNS) Server** to lookup the IP address associated with that URL's domain name. In this way, the role of the DNS is analogous to the role of the telephone operator when you dial *411*, in which you may ask the operator, "May I please have the number for Pepe's Pizza in New Haven?" and the operator would either share the phone number with you, or connect your call directly.
 
   2. The server receives the request, processes it, and sends a response back to the client.
 
   3. The client receives the response, and within the context of the web-browsing example, the client's web browser interprets and formats the results on screen.
 
-###### Client-side vs Server-side Programming
+##### Client-side vs Server-side Programming
 
-You may have heard references to client-side and/or server-side programming. Within the context of web development, you can generally think of **server-side** software as a set of instructions executed by the server, and **client-side** software as a set of instructions executed by the client.
+You may have heard references to client-side and/or server-side programming. You can generally think of **server-side** software as a set of instructions executed by the server, and **client-side** software as a set of instructions executed by the client.
 
 Practically, server-side applications are responsible for processing web requests into responses. Written in server-side programming languages like [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org/), [PHP](http://php.net/), etc., they often handle database connections, translating database data into HTML or JSON responses. A web service (i.e. [RESTful API](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_Web_services)) is a perfect example of a purely server-side application.
 
@@ -144,3 +144,4 @@ Additional Resources:
  + http://www.cs.ccsu.edu/~stan/classes/cs490/slides/networks4-ch2-4.pdf
  + https://www2.cs.sfu.ca/~ggbaker/zju/web/
  + https://www.washington.edu/accesscomputing/webd2/student/index.html
+ + https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
