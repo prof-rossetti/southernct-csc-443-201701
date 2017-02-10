@@ -80,7 +80,9 @@ Configure your `index.html` page to use inline CSS styles. Refer to the followin
 
 Preview this page in a browser and note its look and feel.
 
-In terms of the actual HTML file content, you'll note it looks messier than the original version. The styles are mixed-in with the structure, and neither is easy to distinguish from the other at a glance.
+![a screenshot of the afformentioned styles](example-style.png)
+
+Now take another look back at the actual content of the HTML file. You'll note it looks messier than the original version. The styles are mixed-in with the structure, and neither is easy to distinguish from the other at a glance.
 
 You'll also note repetition of declarations (e.g. "display: inline;" declared on multiple `li` elements, and "font-family: monospace;" applied to multiple `p` elements).
 
@@ -90,7 +92,7 @@ We can simplify these repetitious and distracting style declarations by abstract
 
 Configure your `index.html` page to use an internal stylesheet.
 
-When moving from inline styles to a stylesheet, collect all your style declarations in one place, and use references known as "selectors" to specify which elements to apply the style declarations. See http://www.w3schools.com/cssref/css_selectors.asp for more information about combinations of CSS selectors. Three common selection methodologies are to
+When moving from inline styles to a stylesheet, collect all your style declarations in one place, and use references known as "selectors" to specify which elements to apply the style declarations. See http://www.w3schools.com/cssref/css_selectors.asp for more information about combinations of CSS selectors. Three common selection methodologies are to:
 
   1. reference the element by its type (e.g. `div`)
   2. reference the element by its `id` attribute value (e.g. `div#some-unique-identifier` or simply `#some-unique-identifier`)
