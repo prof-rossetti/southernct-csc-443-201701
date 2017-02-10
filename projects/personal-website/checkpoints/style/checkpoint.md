@@ -88,7 +88,7 @@ Now take another look back at the actual content of the HTML file. You'll note i
 
 You'll also note repetition of declarations (e.g. `style="display:inline;"` declared on multiple `li` elements, and `style="font-family:monospace;"` applied to multiple `p` elements). This is not good. This repetition of code will make subsequent edits more time consuming and more prone to error. We must at all times seek to simplify, or "refactor" our code to maximize its reusability.
 
-One way we can simplify these repetitious and distracting style declarations by abstracting them into a single stylesheet.
+One way we can simplify these repetitious and distracting style declarations is by abstracting them into a single stylesheet.
 
 ### Internal Stylesheet
 
@@ -246,7 +246,7 @@ Refer to http://getbootstrap.com/getting-started/#download-cdn for guidance.
 
 ### Style
 
-Use Twitter Bootstrap to style your site as desired!
+Use Twitter Bootstrap to style your site as desired! Refer to http://getbootstrap.com/css/ and http://getbootstrap.com/components/ for more documentation and examples.
 
 You might end up with something like the following example:
 
