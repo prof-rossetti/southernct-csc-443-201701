@@ -14,11 +14,11 @@ Establish a preliminary website structure for your CRUD App.
 
 ## Instructions
 
-Create a new website that mimics the structure of this [demonstration CRUD Application](https://react-robots.herokuapp.com/):
+Create a new website that mimics the structure of https://prof-rossetti.github.io/crud-app-beginnings/robots. Don't worry about the home page of that site. Just focus on the `/robots` pages.
 
-![a screencast depicting usage of a CRUD application. the application displays a table of records. an individual record is displayed in detail when clicked. buttons are clicked and forms are submitted to create new records and edit records. buttons are pressed to delete records and restore the entire set of original records.](/projects/crud-application/demo.gif)
+![a screencast depicting navigation between index, show, and new pages](/projects/crud-application/checkpoints/style/demo.gif)
 
-Ignore this application's style and interactive features. See detailed instructions, below to get a better sense of exercise scope.
+Also ignore this application's style and interactive features. See detailed instructions, below, to get a better sense of exercise scope.
 
 ### Configure Remote Repository
 
