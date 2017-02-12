@@ -11,7 +11,7 @@ Use a front-end development framework to establish the preliminary structure and
 
 Prerequisites
 
-  1. [CRUD Application Checkpoint I: Structure](/projects/crud-application/checkpoints/style/checkpoint.md)
+  1. [CRUD Application Checkpoint I: Structure](/projects/crud-application/checkpoints/structure/checkpoint.md)
   1. [Personal Website Checkpoint II: Style](/projects/personal-website/checkpoints/style/checkpoint.md)
 
 ## Instructions
@@ -19,6 +19,8 @@ Prerequisites
 Create from scratch a web site that mimics the structure and style of https://prof-rossetti.github.io/crud-app-beginnings/robots. Don't worry about the home page of that site. Just focus on the `/robots` pages.
 
 ![a gif demonstration of this application's structure and style](demo.gif)
+
+Additionally, if you get stuck or would just like to take a thorough approach, you may find it helpful to reference that project's [repository](https://github.com/prof-rossetti/crud-app-beginnings/commits/master).
 
 ### Review
 
