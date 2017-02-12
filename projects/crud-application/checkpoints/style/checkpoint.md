@@ -23,28 +23,28 @@ Create from scratch a web site that mimics the structure and style of https://pr
 
 For step-by-step guidance, see that project's [commit history](https://github.com/prof-rossetti/crud-app-beginnings/commits/master). For each commit, click its link to view file changes and browser screenshots.
 
-Commit Message | Commit Identifier
---- | ---
-Add form to new page | 455e997
-Use links that look like buttons to navigate to the new page from all other pages | 66b53e5
-Specify robot identifier in a heading | 615cad1
-Apply consistent design and navigation to remaining show pages | 93f8e8e
-Apply consistent design and navigation to bb8 show page | fbc3c99
-Add links to live site | 1800aa2
-Convert absolute links to relative links to try to work around GitHub Pages routing errors | d1a7709
-Move robots table to robots index, replace home page content | ef65f94
-Add links to robot show pages | ceec412
-Add self-referential homepage link | 995d526
-Add links to remote repository | 80ab2d2
-Merge branch 'master' of github.com:prof-rossetti/crud-app-beginnings | 3aa9ffe
-Configure remote repository | e635eb1
-Initial commit | a91b5c8
-Use placeholder links | de7b654
-Stop using placeholder content | fd2d2da
-Style the table | edb342a
-Add a table | 6947a23
-Install twitter bootstrap | 5815818
-Create a new web page | 0676136
+Sequence | Commit Message | Commit Identifier
+--- | --- | ---
+1 | Create a new web page | 0676136
+2 | Install twitter bootstrap | 5815818
+3 | Add a table | 6947a23
+4 | Style the table | edb342a
+5 | Stop using placeholder content | fd2d2da
+6 | Use placeholder links | de7b654
+7 | Initial commit | a91b5c8
+8 | Configure remote repository | e635eb1
+9 | Merge branch 'master' of github.com:prof-rossetti/crud-app-beginnings | 3aa9ffe
+10 | Add links to remote repository | 80ab2d2
+11 | Add self-referential homepage link | 995d526
+12 | Add links to robot show pages | ceec412
+13 | Move robots table to robots index, replace home page content | ef65f94
+14 | Convert absolute links to relative links to try to work around GitHub Pages routing errors | d1a7709
+15 | Add links to live site | 1800aa2
+16 | Apply consistent design and navigation to bb8 show page | fbc3c99
+17 | Apply consistent design and navigation to remaining show pages | 93f8e8e
+18 | Specify robot identifier in a heading | 615cad1
+19 | Use links that look like buttons to navigate to the new page from all other pages | 66b53e5
+20 | Add form to new page | 455e997
 
 ### Replay
 
