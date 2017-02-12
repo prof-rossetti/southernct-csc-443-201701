@@ -49,6 +49,8 @@ Reference http://www.w3schools.com/css/default.asp for CSS guidance. Try adding 
 
 Once you have chosen a variety of styles, try achieving the same website look and feel using different stylesheet configuration methods. Reference http://www.w3schools.com/css/css_howto.asp and the example instructions below for guidance on configuring stylesheets.
 
+> NOTE: In case you end up using both an internal stylesheet and inline styles, the inline style declarations override the internal stylesheet declarations. Also, declarations that come later than others may override previous, related declarations. Be careful! If you're not sure why something looks the way it does, use the browser's "inspect" feature to see the "computed styles" of any element.
+
 ### Inline Styles
 
 Configure your `index.html` page to use inline CSS styles. Refer to the following example, below:
@@ -93,8 +95,6 @@ One way we can simplify these repetitious and distracting style declarations is 
 ### Internal Stylesheet
 
 Configure your `index.html` page to use an internal stylesheet.
-
-> NOTE: In case you end up using both an internal stylesheet and inline styles, the inline style declarations override the internal stylesheet declarations. Also, declarations that come later than others may override previous, related declarations. Be careful! If you're not sure why something looks the way it does, use the browser's "inspect" feature to see the "computed styles" of any element.
 
 When moving from inline styles to a stylesheet, collect all your style declarations in one place, and use references known as **selectors** to specify which elements to apply the style declarations. See http://www.w3schools.com/css/css_syntax.asp and http://www.w3schools.com/cssref/css_selectors.asp for more information about CSS selectors. Three common selection methodologies are to:
 
@@ -158,9 +158,13 @@ When moving from inline styles to a stylesheet, collect all your style declarati
 </html>
 ````
 
+Check back in your browser to ensure your page looks the same as it did before.
+
+> NOTE: If you do not see the styles applied, the most common reason is that you may have specified the wrong selectors.
+
 Nice job. By abstracting and combining disparate combinations of style declarations in this way, you are reducing code duplication, which in turn reduces the effort associated with making future edits as well as the likelihood of manual error.
 
-> NOTE: The practice of abstracting, simplifying, and sharing code declarations to avoid repetition is commonly referred to as **DRY**, or "Don't Repeat Yourself". There is at least one other opportunity to DRY-up the code on this page. Can you spot it?
+> NOTE: The practice of abstracting, simplifying, and sharing code declarations to avoid repetition is commonly referred to as **DRY**, or "Don't Repeat Yourself". There is at least one other opportunity to DRY-up the code in this most recent example. Can you spot it?
 
 Notice, there's still a lot going on in this simple `index.html` file. We open the file to see multiple lines of style declarations at the top, and not until we scroll down do we start to understand the structure of this HTML file.
 
@@ -170,7 +174,7 @@ We can simplify our view even further by separating the style declarations into 
 
 Configure your `index.html` page to use an external stylesheet located in the same directory.
 
-First create a new CSS file called in the same directory as your `index.html` file, but nest it inside one or more subdirectories (e.g. `assets/styles/my-style.css`). Then move all of the existing style declarations into it:
+First create a new CSS file called `my-style.css` in the same directory as your `index.html` file, but nest it inside one or more subdirectories (e.g. `assets/styles/my-style.css`). Then move all of the existing style declarations into it:
 
 ```` css
 
@@ -232,7 +236,7 @@ Finally, in the `head` of your original `index.html` file, change the `style` el
 
 Check back in your browser to ensure your page looks the same as it did before.
 
-> NOTE: If you do not see the styles applied, the most common reason is that you may have incorrectly specified the wrong CSS file path.
+> NOTE: If you do not see the styles applied, the most common reason is that you may have specified the wrong CSS file path.
 
 Much better! This approach results in files that are easier to read and more organized than the previous approaches. It is also more organized in the sense that the structural logic is separated from the style logic.
 
