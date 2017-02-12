@@ -1,10 +1,10 @@
 # CRUD Application Checkpoint I: Structure
 
-Establish a preliminary website structure for your CRUD App.
+Establish the preliminary  structure of your CRUD web application.
 
 ## Objectives
 
-  * Practice writing HTML.
+  * Practice HTML.
   * Practice software version control.
   * Practice website hosting.
 
@@ -16,9 +16,9 @@ Establish a preliminary website structure for your CRUD App.
 
 Create a new website that mimics the structure of https://prof-rossetti.github.io/crud-app-beginnings/robots. Don't worry about the home page of that site. Just focus on the `/robots` pages.
 
-![a screencast depicting navigation between index, show, and new pages](/projects/crud-application/checkpoints/style/demo.gif)
+Also ignore that application's style and interactive features. See detailed instructions, below, to get a better sense of exercise scope. You've met the expectations of this checkpoint if your app looks something like this:
 
-Also ignore this application's style and interactive features. See detailed instructions, below, to get a better sense of exercise scope.
+![a screencast depicting navigation between index, show, and new pages](demo.gif)
 
 ### Configure Remote Repository
 

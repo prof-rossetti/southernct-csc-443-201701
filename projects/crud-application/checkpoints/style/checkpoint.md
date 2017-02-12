@@ -11,6 +11,7 @@ Use a front-end development framework to establish the preliminary structure and
 
 Prerequisites
 
+  1. [CRUD Application Checkpoint I: Structure](/projects/crud-application/checkpoints/style/checkpoint.md)
   1. [Personal Website Checkpoint II: Style](/projects/personal-website/checkpoints/style/checkpoint.md)
 
 ## Instructions
