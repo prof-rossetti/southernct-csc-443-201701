@@ -57,7 +57,7 @@ atom .
 Use your text editor to create a new file in the "my-site" directory called `index.html`. This can most likely be achieved with: "File > New", followed by "File > Save As".
 Edit the `index.html` file using your text editor of choice.
 
-Add basic html page structure (`html`, `head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. If you are not using a text editor that possesses auto-completion functionality, consider switching text editors or leverage the following code snippet:
+Add basic html page structure (`html`, `head`, `body`, etc.), leveraging your text editor's auto-completion functionality as applicable. If you are not using a text editor that possesses auto-completion functionality, consider switching text editors or use the following code snippet:
 
 ```` html
 <!DOCTYPE html>
