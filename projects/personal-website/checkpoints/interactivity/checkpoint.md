@@ -66,7 +66,7 @@ Regardless of whether or not this applies to you, you are encouraged to follow a
 
 Nothing new to see here, except for the `<div class="dropdown">` element and everything inside. This content was adapted from the [Twitter Bootstrap documentation on dropdown components](http://getbootstrap.com/components/#dropdowns).
 
-On this page, you'll notice hyperlinks to two other pages: `activities/gaming.html` and `activities/soccer.html`. Let's create those other pages now, using with the following content:
+On this page, you'll notice hyperlinks to two other pages: `activities/gaming.html` and `activities/soccer.html`. Let's create those other pages now, using the following content:
 
 ```` html
 <!DOCTYPE html>
@@ -182,7 +182,7 @@ In the console, we see the error message, "Uncaught ReferenceError: $ is not def
 
 We need to load the jQuery library in order to use it. We'll use a process very similar to how we loaded Twitter Bootstrap's stylesheets, using a version of the library hosted via a CDN.
 
-Navigate to http://jquery.com/download/#using-jquery-with-a-cdn to find a link to https://code.jquery.com to find a link to to instructions on how to load the latest version of jQuery (3.x) in "minified" format. Namely, the documentation instructs you to add the following script tag to your HTML file: `<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>`. Add it directly above the existing internal script near the bottom of the page:
+Navigate to http://jquery.com/download/#using-jquery-with-a-cdn to find a link to https://code.jquery.com to find a link to instructions on how to load the latest version of jQuery (3.x) in "minified" format. Namely, the documentation instructs you to add the following script tag to your HTML file: `<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>`. Add it directly above the existing internal script near the bottom of the page:
 
 ```` html
 <!DOCTYPE html>
@@ -227,15 +227,13 @@ Navigate to http://jquery.com/download/#using-jquery-with-a-cdn to find a link t
 
 Check back in your browser to see if the dropdown button works as desired.
 
-You'll notice it still doesn't work, but we no longer see the "$ is not defined" message anymore. Partial success!
+You'll notice it still doesn't work, but we no longer see the "$ is not defined" console message anymore. Partial success!
 
 #### Twitter Bootstrap JavaScript Plugins
 
-Instead, we now see a new error message: "Uncaught TypeError: $(...).dropdown is not a function".
+Instead, we now see a new error message in the console: "Uncaught TypeError: $(...).dropdown is not a function".
 
-That's ok. The browser is complaining that the `dropdown()` function has not been defined. We know this function is provided by Twitter Bootstrap's "dropdown.js" plugin. Twitter Bootstrap's JavaScript documentation provides information about how to use its JavaScript plugins:
-
-> Plugins can be included individually (using Bootstrap's individual .js files), or all at once (using bootstrap.js or the minified bootstrap.min.js). - http://getbootstrap.com/javascript/#js-individual-compiled
+That's ok. The browser is complaining that the `dropdown()` function has not been defined. We know this function is provided by Twitter Bootstrap's "dropdown.js" plugin. [Twitter Bootstrap's JavaScript documentation](http://getbootstrap.com/javascript/#js-individual-compiled) provides information about how to use its JavaScript plugins: *"Plugins can be included individually (using Bootstrap's individual .js files), or all at once (using bootstrap.js or the minified bootstrap.min.js)."*
 
 So we have to load a file called `bootstrap.js` or `bootstrap.min.js` to have access to all the plugins.
 
@@ -290,7 +288,7 @@ Check back in your browser to see if the dropdown button works as desired.
 
 ![a demonstration of clicking a dropdown menu to reveal hidden links.](step-3.gif)
 
-No error messages in the console is a good sign. Also, you'll notice the dropdown now works! We see the links contained therein, and we can click them to navigate to the other pages. Success!
+No error messages in the console is a good sign. Also, you'll notice the dropdown now works! We see the links contained therein, and we can click them to navigate to the other pages.
 
 Great job!
 
