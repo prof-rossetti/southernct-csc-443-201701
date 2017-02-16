@@ -14,6 +14,12 @@ Using the Twitter Bootstrap front-end framework, configure interactive features 
   1. [Personal Website Checkpoint II: Style](projects/personal-website/checkpoints/style/checkpoint.md)
   * [CRUD Application Checkpoint II: Style](projects/crud-application/checkpoints/style/checkpoint.md)
 
+## Accompanying Materials
+
+  + [Project Repository](https://github.com/prof-rossetti/bootstrap-js)
+  + [Commit History](https://github.com/prof-rossetti/bootstrap-js/commits/master)
+  + [Live Demo](https://prof-rossetti.github.io/bootstrap-js/)
+
 ## Instructions
 
 In leveraging Twitter Bootstrap to design your personal website, you may have added one or more components which require JavaScript configuration to work properly (e.g. modals, dropdowns, buttons). You'll know if your components require additional configuration because the Twitter Bootstrap documentation will tell you so:
@@ -300,4 +306,4 @@ Use a similar process to add other interactive components to your project, then 
 
 Since you've already loaded all required libraries, you won't need to do that part again.
 
-Congratulations, you have unlocked the power of the Twitter Boostrap front-end framework.
+Congratulations, you have unlocked the power of the Twitter Bootstrap front-end framework.
