@@ -20,6 +20,7 @@ Your data visualization must exist for the purpose of representing information. 
   + http://data.un.org/
   + https://www.data.gov/
   + https://www.healthdata.gov/search/type/dataset
+  + http://permitdata.org/#samples
   + https://data.ct.gov/
   + https://data.hartford.gov/
   + http://ctdata.org/
