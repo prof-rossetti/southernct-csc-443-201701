@@ -4,6 +4,7 @@ This document contains a list of student website submissions. The list should be
 
 GitHub Username | Repo Link | Project Link
 --- | --- | ---
+robertorozco1 | https://github.com/robertorozco1/WSIN-Proj | https://robertorozco1.github.io/WSIN-Proj/index.html
 MarkAnderson10 | https://github.com/MarkAnderson10/my-site | https://markanderson10.github.io/my-site/
 studentB | ... | ...
 perryblunt| https://github.com/perryblunt/201701-csc-443-01 | https://perryblunt.github.io/my-site/
