@@ -6,9 +6,9 @@ This peer evaluation is worth 5% of your final grade. Thank you for taking the t
 
 At the appropriate time, you will receive an email containing a list of five peer projects for you to evaluate. For each of these five peer projects:
 
-  1) Paste the project link into the appropriate section of the form to indicate which project you are evaluating.
-  2) Visit the project link in a browser, and take a few moments to navigate around that site to get a good feel for it.
-  3) Think about what you like about the site, and/or what you think could be improved, then type your comments into the appropriate section in the form.
-  4) Assign the project a number score from 1 (poor) to 10 (awesome) in the appropriate section.
+  1. Paste the project link into the appropriate section of the form to indicate which project you are evaluating.
+  * Visit the project link in a browser, and take a few moments to navigate around that site to get a good feel for it.
+  * Think about what you like about the site, and/or what you think could be improved, then type your comments into the appropriate section in the form.
+  * Assign the project a number score from 1 (poor) to 10 (awesome) in the appropriate section.
 
 Repeat for each assigned peer project, then submit.
