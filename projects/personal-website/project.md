@@ -38,7 +38,14 @@ Ensure the website is hosted and available for public consumption on the Interne
 
 ## Submission Instructions
 
-When your project is ready for evaluation, add its identifying information, including your GitHub username, a link to your site's repository, and a link to your hosted site, to the [submissions list](submissions.md).
+When your project is ready for evaluation, add its identifying information, including your GitHub username, a link to your site's repository, and a link to your hosted site, to the [submissions list](submissions.md). Use the following workflow to accomplish this:
+
+  1. Fork this repository to your own account.
+  * Edit the submissions list in your forked repo via the online editor, or by downloading your forked repo, making local commits, and pushing them back up to GitHub.
+  * Submit a Pull Request for your changes to be merged into this repo.
+  * Shortly after the midnight deadline, the professor will merge any outstanding pull requests.
+
+![a demonstration of the submission workflow](how-to-submit.gif)
 
 Also be prepared to deliver a 5-10 minute presentation to demonstrate usage of your website and describe your planning and design process, as desired.
 

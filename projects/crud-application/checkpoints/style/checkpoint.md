@@ -9,18 +9,23 @@ Use a front-end development framework to establish the preliminary structure and
   * Practice HTML and CSS.
   * Use version control to revert to previous repository versions.
 
-Prerequisites
+## Prerequisites
 
   1. [CRUD Application Checkpoint I: Structure](/projects/crud-application/checkpoints/structure/checkpoint.md)
   1. [Personal Website Checkpoint II: Style](/projects/personal-website/checkpoints/style/checkpoint.md)
 
+## Accompanying Materials
+
+  + [Project Repository](https://github.com/prof-rossetti/crud-app-beginnings/)
+  + [Commit History](https://github.com/prof-rossetti/crud-app-beginnings/commits/master)
+  + [Live Demo](https://prof-rossetti.github.io/crud-app-beginnings/robots/)
+  + [Screencast of Development Process](https://www.youtube.com/playlist?list=PLwjSYkiszsC1Hm7ucmZE7deuQZWZpcxvD)
+
 ## Instructions
 
-Create from scratch a web site that mimics the structure and style of https://prof-rossetti.github.io/crud-app-beginnings/robots. Don't worry about the home page of that site. Just focus on the `/robots` pages.
+Create from scratch a web site that mimics the structure and style of https://react-robots.herokuapp.com/. Don't worry about that application's interactive functionality.
 
-![a gif demonstration of this application's structure and style](demo.gif)
-
-Additionally, if you get stuck or would just like to take a thorough approach, you may find it helpful to reference that project's [repository](https://github.com/prof-rossetti/crud-app-beginnings/commits/master).
+![a gif demonstration of this application's structure and style](/projects/crud-application/demo.gif)
 
 ### Review
 

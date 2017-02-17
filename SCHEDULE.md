@@ -13,10 +13,10 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 3 | 2017-02-02 | The Internet | HTTP/HTTPS | [Computer Networks (notes)](/notes/computer-networks/notes.md)
 3 | 2017-02-02 | Website Structure | HTML | [Website Checkpoint I: Structure](/projects/personal-website/checkpoints/structure/checkpoint.md), [CRUD App Checkpoint I: Structure](/projects/crud-application/checkpoints/structure/checkpoint.md)
 4 | 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap Components and CSS | [Website Checkpoint II: Style](/projects/personal-website/checkpoints/style/checkpoint.md), [CRUD App Checkpoint II: Style](/projects/crud-application/checkpoints/style/checkpoint.md)
-5 | 2017-02-16 | Website Interactivity: Click Events | JavaScript, Twitter Bootstrap JavaScript, jQuery | [Website Checkpoint III: Interactivity](/projects/personal-website/checkpoints/interactivity/checkpoint.md), [CRUD App Checkpoint III: Interactivity](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
+5 | 2017-02-16 | Website Interactivity: Click Events | JavaScript, Twitter Bootstrap JavaScript, jQuery | [Website Checkpoint III: Interactivity](/projects/personal-website/checkpoints/interactivity/checkpoint.md)
 N/A | 2017-02-19 | N/A | N/A | [Personal Website (15%)](/projects/personal-website/project.md) due by 11:59pm
 N/A | 2017-02-22 | N/A | N/A | [Personal Website Peer Evaluations (5%)](/projects/personal-website/peer-evaluation.md) due by 11:59pm
-6 | 2017-02-23 | Website Interactivity: DOM Manipulation | JavaScript, jQuery, d3.js | Single-page App Checkpoint I
+6 | 2017-02-23 | Website Interactivity: DOM Manipulation | JavaScript, jQuery, d3.js | [CRUD App Checkpoint III: Interactivity](/projects/crud-application/checkpoints/interactivity/checkpoint.md), Single-page App Checkpoint I
 7 | 2017-03-02 | Website Interactivity: Network Requests, APIs and AJAX | JavaScript, jQuery, d3.js | Single-page App Checkpoint II
 8 | 2017-03-09 | Website Interactivity: Data Visualizations | JavaScript, jQuery, highcharts.js, d3.js, mapbox.js | Single-page App Checkpoint III
 9 | 2017-03-16 | Spring Break (no class) | N/A | N/A
