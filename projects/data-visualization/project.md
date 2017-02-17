@@ -2,6 +2,10 @@
 
 Plan, design, and develop a one-page website which visualizes an open dataset. Your data visualization can take the form of a chart, graph, map, or other related representation. It should tell a story about the data in a manner which allows the viewer to draw a conclusion or learn something.
 
+![a screencast depicting usage of a scatter plot graph. the graph depicts LSAT score on the X axis and percentile in the Y axis. it includes a year selector which updates the graph based on data for the selected year.](graph-demo.gif)
+
+![a screencast depicting usage of a US state map. the map depicts state legislature composition information by a number of different selectable dimensions.](map-demo.gif)
+
 ![a screencast depicting usage of a single-page weather widget. the widget displays a seven-day forecast, including controls to toggle between temperature, precipitation, and wind displays.](demo.gif)
 
 ## Instructions
