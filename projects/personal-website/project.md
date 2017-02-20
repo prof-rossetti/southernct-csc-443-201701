@@ -87,4 +87,4 @@ Your website implementation will be evaluated based on its demonstrated ability 
 
 #### Peer Evaluation
 
-All members of the learning community, including the professor, will evaluate all submitted websites, and assign each a score from 1 to 25. A weighted average of these individual scores will produce the overall Peer Evaluation Score.
+All members of the learning community, including the professor, will engage in a [peer evaluation process](peer-evaluation.md) which will result in the assignment of individual peer evaluation scores. A weighted average of these individual scores will produce the overall Peer Evaluation Score.
