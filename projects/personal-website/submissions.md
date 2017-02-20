@@ -4,6 +4,7 @@ This document contains a list of student website submissions. The list should be
 
 GitHub Username | Repo Link | Project Link
 --- | --- | ---
+AbdullahAlsalihi | https://github.com/AbdullahAlsalihi/my-site | https://abdullahalsalihi.github.io/my-site/
 MarkAnderson10 | https://github.com/MarkAnderson10/my-site | https://markanderson10.github.io/my-site/
 moucira1 | https://github.com/moucira1/my_site.git | https://moucira1.github.io/my_site/
 perryblunt| https://github.com/perryblunt/my-site/ | https://perryblunt.github.io/my-site/
