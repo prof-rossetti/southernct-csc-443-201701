@@ -9,4 +9,5 @@ moucira1 | https://github.com/moucira1/my_site.git | https://moucira1.github.io/
 perryblunt| https://github.com/perryblunt/my-site/ | https://perryblunt.github.io/my-site/
 robertorozco1 | https://github.com/robertorozco1/WSIN-Proj | https://robertorozco1.github.io/WSIN-Proj/index.html
 Vicsotojr | https://github.com/VicSotoJr/my-site | https://vicsotojr.github.io/my-site/
+ThisIsSovereign | https://github.com/ThisIsSovereign/my-site | https://thisissovereign.github.io/my-site/index.html
 etc. | ... | ...
