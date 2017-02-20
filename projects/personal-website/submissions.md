@@ -11,4 +11,4 @@ perryblunt| https://github.com/perryblunt/my-site/ | https://perryblunt.github.i
 robertorozco1 | https://github.com/robertorozco1/WSIN-Proj | https://robertorozco1.github.io/WSIN-Proj/index.html
 Vicsotojr | https://github.com/VicSotoJr/my-site | https://vicsotojr.github.io/my-site/
 ThisIsSovereign | https://github.com/ThisIsSovereign/my-site | https://thisissovereign.github.io/my-site/index.html
-etc. | ... | ...
+deborahrachelhttps://githlub.com/deborahrachel/PersWebSite--Local-Test|deborahrachel.github.io/PersWebSite--Local-Test
