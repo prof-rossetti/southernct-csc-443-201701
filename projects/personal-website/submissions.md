@@ -10,6 +10,7 @@ jestores7  | https://github.com/jestores7/student-site-master | https://jestores
 MarkAnderson10 | https://github.com/MarkAnderson10/my-site | https://markanderson10.github.io/my-site/
 moucira1 | https://github.com/moucira1/my_site.git | https://moucira1.github.io/my_site/
 perryblunt| https://github.com/perryblunt/my-site/ | https://perryblunt.github.io/my-site/
+qamaralsalihi| https://github.com/qamaralsalihi/QamarSite | https://qamaralsalihi.github.io/QamarSite/index.html
 robertorozco1 | https://github.com/robertorozco1/WSIN-Proj | https://robertorozco1.github.io/WSIN-Proj/index.html
 SahilMak | https://github.com/SahilMak/sahilmak.github.io | http://www.sahilmak.tech
 ThisIsSovereign | https://github.com/ThisIsSovereign/my-site | https://thisissovereign.github.io/my-site/index.html
