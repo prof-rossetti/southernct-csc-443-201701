@@ -6,6 +6,7 @@ This document contains a list of student website submissions. The list should be
 --- | --- | ---
 AbdullahAlsalihi | https://github.com/AbdullahAlsalihi/my-site | https://abdullahalsalihi.github.io/my-site/
 deborahrachel | https://github.com/DeborahRachel/jsperswebsite | https://deborahrachel.github.io/jsperswebsite/
+jestores7  | https://github.com/jestores7/student-site-master | https://jestores7.github.io/student-site-master/index.html
 MarkAnderson10 | https://github.com/MarkAnderson10/my-site | https://markanderson10.github.io/my-site/
 moucira1 | https://github.com/moucira1/my_site.git | https://moucira1.github.io/my_site/
 perryblunt| https://github.com/perryblunt/my-site/ | https://perryblunt.github.io/my-site/
