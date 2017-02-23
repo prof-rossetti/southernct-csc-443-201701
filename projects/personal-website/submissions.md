@@ -3,7 +3,7 @@
 This document contains a list of student website submissions. The list should be sorted by GitHub Username in ascending alphabetical order.
 
 **GitHub Username** | **Repository Link** | **Project Link**
---- | --- | ---
+jmarcellus90 | https://github.com/jmarcellus90/my-site | http://jmarcellus90.github.io/my-site
 AbdullahAlsalihi | https://github.com/AbdullahAlsalihi/my-site | https://abdullahalsalihi.github.io/my-site/
 deborahrachel | https://github.com/DeborahRachel/jsperswebsite | https://deborahrachel.github.io/jsperswebsite/
 jestores7  | https://github.com/jestores7/student-site-master | https://jestores7.github.io/student-site-master/index.html
