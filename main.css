@@ -1,0 +1,86 @@
+h1{
+    font-size: 50px;
+    color: fuchsia;
+	background-color: black;
+	text-align: center;
+	font-family: 'Homemade Apple', cursive;
+
+}
+h2{
+	text-align: center;
+		background-color: black;
+
+	font-size: 36px;
+	color: black;
+}
+p{
+	font-size: 24px;
+		background-color: black;
+
+	color: purple;
+	text-align: center;
+	font-family: 'Lakki Reddy', cursive;
+
+}
+body{
+	background-color: black;
+	text-align: center;
+	margin: auto;
+	font-family: 'Lakki Reddy', cursive;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+	border: 3px solid purple;
+	
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+li a:hover {
+    background-color: purple;
+			font-weight: bold;
+		cursor: pointer;
+
+	
+}
+.button {
+    background-color: fuchsia; 
+	font-family: 'Homemade Apple', cursive;
+    border: 5px solid white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button:hover{
+	    background-color: black;
+		font-weight: bold;
+		cursor: pointer;
+
+}
+.img{
+	border: 5px double purple;
+	
+}
+#fbpage{
+width: 280px;
+height: 350px;
+background-color: #e5e5e5;
+ }
