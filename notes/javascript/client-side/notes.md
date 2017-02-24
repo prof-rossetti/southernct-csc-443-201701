@@ -475,3 +475,95 @@ person["wife"] = "Mrs. Claus"
 delete person["stops"];
 person //=> {first: "Santa", last: "Claus", message: "Ho Ho Ho", wife: "Mrs. Claus"}
 ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Conditionals
+
+
+### If
+
+```` js
+if (true) {
+  console.log("SWEET")
+}
+
+if (1 == 1) {
+  console.log("SWEET")
+}
+
+if (1 == 2) {
+  console.log("SWEET")
+}
+
+if (undefined) {
+  console.log("SWEET")
+}
+
+````
+
+```` js
+if (1 == 1) {
+  console.log("SWEET")
+} else {
+  console.log("NOPE")
+}
+
+if (1 == 2) {
+  console.log("SWEET")
+} else {
+  console.log("NOPE")
+}
+````
+
+```` js
+var name = "Margo"
+
+if (name == "John") {
+  console.log("SWEET")
+} else if (name == "Jordan") {
+  console.log("OK")
+} else {
+  console.log("NOPE")
+}
+````
+
+### Switch
+
+Switch statements are essentially case statements.
+
+```` js
+var name = "Margo"
+
+switch(name) {
+    case "John":
+        console.log("SWEET")
+        break;
+    case "Jordan":
+        console.log("OK")
+        break;
+    default:
+        console.log("NOPE")
+}
+````
