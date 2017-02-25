@@ -374,6 +374,21 @@ Numbers also support equality operators:
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Arithmetic_operators for more information about arithmetic operators.
 
+Also reference the functionality of the "Math" object: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math.
+
+```` js
+Math.PI //=> 3.141592653589793
+
+Math.random()
+
+Math.round(4.555) //=> 5
+Math.ceil(4.555) //=> 5
+Math.floor(4.555) //=> 4
+
+Math.min(4,3,7,9) //=> 3
+Math.max(4,3,7,9) //=> 9
+````
+
 ### Arrays
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array.
@@ -483,14 +498,16 @@ arr2 //=> [100, 200, 300, 400]
 
 > NOTE: remember to use the `return` keyword when mapping.
 
-##### Further Exploration:
+...
 
-Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of numbers to calculate in-place the sum of those numbers?
+> ##### Further Exploration:
 
-```` js
-var arr = [1, 2, 3, 4]
-var total = arr._____() // ?????
-````
+> Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of > numbers to calculate in-place the sum of those numbers?
+
+> ```` js
+> var arr = [1, 2, 3, 4]
+> var total = arr._____() // ?????
+> ````
 
 ### Objects
 
