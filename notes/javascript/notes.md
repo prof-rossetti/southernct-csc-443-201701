@@ -1,5 +1,7 @@
 # JavaScript Language Overview
 
+This document contains a highlight of common JavaScript language considerations. For an in-depth documentation, reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference and https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements.
+
 ## Syntax and Style
 
 You may see JavaScript statements ended with a trailing semi-colon. In some cases it is necessary to use these trailing semi-colons, but you are generally free to omit them.
@@ -64,18 +66,19 @@ console.log("HELLO WORLD - THIS MESSAGE IS PREVENTED FROM BEING EXECUTED")
 Output, or "log" an object to the browser's console:
 
 ```` js
-console.log("HELLO WORLD")
+console.log("HELLO WORLD") //> HELLO WORLD
 ````
 
 Log multiple objects:
 
 ```` js
-console.log("HELLO WORLD", 5, 9999, "GOODBYE!")
+console.log("HELLO WORLD", 5, 9999, "GOODBYE!")  //> HELLO WORLD 5 9999 GOODBYE!
 ````
 
 ### Debugging
 
-Dropping the following line
+Insert a `debugger` statement to drop a break-point in script execution. When the break-point is reached, it will stop and allow you to interact with the state of the code at that particular line.
+
 ```` js
 debugger;
 ````
@@ -97,7 +100,7 @@ y //=> undefined
 ````
 
 
-
+> Feel free to come back to this `debugger`  example after you have familiarized yourself with functions, below.
 
 
 
@@ -214,7 +217,7 @@ area //=> 8
 
 ## Variables
 
-Declare a variable using the syntax `var` then the name of the variable, then assign its value by using a single equal sign (`=` )followed by the value. Any datatype can be stored in a variable.
+Declare a variable using the syntax `var` then the name of the variable, then assign its value by using a single equal sign (`=`) followed by the value. Any datatype can be stored in a variable.
 
 ```` js
 var i = 10
@@ -223,6 +226,11 @@ var s = "My Message"
 var d = new Date(2017,02,23)
 var a = [1,2,3,4]
 var o = {}
+var f = function(){ console.log("LOGGING FROM INSIDE A FUNCTION") }
+
+// REFRESHER ON FUNCTION INVOCATION:
+f //=> function (){ console.log("LOGGING FROM INSIDE A FUNCTION") }
+f() //> LOGGING FROM INSIDE A FUNCTION
 ````
 
 > NOTE: when assigning a value, use a single equal sign (`=`).
@@ -230,7 +238,7 @@ var o = {}
 Variables can be defined without yet being assigned a value. In this case, the variable's value is said to be "undefined".
 
 ```` js
-var g; //=> "undefined"
+var g; //=> undefined
 g = 100
 g //=> 100
 ````
@@ -240,27 +248,31 @@ g //=> 100
 Use `typeof()` to return the type of any object:
 
 ```` js
-typeof("Hello") //=> "string"
-typeof(100) //=> "number"
-typeof(0.45) //=> "number"
-typeof(true) //=> "boolean"
-typeof(false) //=> "boolean"
-typeof(undefined) //=> "undefined"
-typeof( {a:1, b:2} ) //=> "object"
-typeof( [1,2,3] ) //=> "object" (array)
-typeof( new Date() ) //=> "object" (date)
-typeof( function doStuff(){} ) //=> "function"
+typeof("Hello") //=> string
+typeof(100) //=> number
+typeof(0.45) //=> number
+typeof(true) //=> boolean
+typeof(false) //=> boolean
+typeof(undefined) //=> undefined
+typeof( {a:1, b:2} ) //=> object
+typeof( [1,2,3] ) //=> object
+typeof( new Date() ) //=> object
+typeof( function doStuff(){} ) //=> function
 ````
 
 Here are a few examples of how to convert between datatypes:
 
 ```` js
-parseInt("500") // converts string to number
-parseFloat("0.45") // converts string to number
-Date.parse("March 21, 2012") // converts string to unix timestamp
-````
+// convert string to number:
+parseInt("500")
 
-```` js
+// convert string to number:
+parseFloat("0.45")
+
+// convert string to unix timestamp:
+Date.parse("March 21, 2012")
+
+// convert number to string:
 var i = 100
 i.toString() //=> "100"
 ````
@@ -285,6 +297,20 @@ true == true //=> true
 true == false //=> true
 false == false //=> false
 ````
+
+> "Is this equal to that?"
+
+Also relevant is the inequality operator:
+
+```` js
+true != true //=> false
+true != false //=> true
+false != false //=> false
+````
+
+> "Is this not equal to that?"
+
+Reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Comparison_operators for more information about comparison operators.
 
 ### Strings
 
@@ -346,9 +372,11 @@ Numbers also support equality operators:
 100 == (99 + 1) //=> true
 ````
 
+Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Arithmetic_operators for more information about arithmetic operators.
+
 ### Arrays
 
-Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array.
 
 Arrays are ordered lists. Arrays contain zero or more elements. Arrays can contain elements of any type. As a best practice, array elements should share a datatype and structure:
 
@@ -359,8 +387,8 @@ Arrays are ordered lists. Arrays contain zero or more elements. Arrays can conta
 [1,2,3,4]
 [100, 75, 33]
 ["fun", "times", "right?"]
-[ {a:1, b:2}, {a:5, b:6}]
-[ [1,2,3], [4,5,6], [7,8,9]] // arrays "nested" inside another array
+[ {a:1, b:2}, {a:5, b:6}] // arrays can contain objects
+[ [1,2,3], [4,5,6], [7,8,9]] // arrays can be "nested" inside other arrays
 
 // DON'T:
 [100, "fun"]
@@ -427,6 +455,20 @@ arr.forEach(function(item) { // uses the most simple params possible
 })
 ````
 
+A common pattern is to loop through one array to populate the contents of another:
+
+```` js
+var arr = [1, 2, 3, 4]
+var arr2 = []
+
+arr.forEach(function(item) {
+  arr2.push(item * 100)
+})
+
+arr //=> [1, 2, 3, 4]
+arr2  //=> [100, 200, 300, 400]
+````
+
 Arrays can be looped "in-place" using the `map()` function:
 
 ```` js
@@ -441,13 +483,22 @@ arr2 //=> [100, 200, 300, 400]
 
 > NOTE: remember to use the `return` keyword when mapping.
 
+##### Further Exploration:
+
+Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of numbers to calculate in-place the sum of those numbers?
+
+```` js
+var arr = [1, 2, 3, 4]
+var total = arr._____() // ?????
+````
+
 ### Objects
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object.
 
 JavaScript objects comprise curly braces (`{}`) containing one or more key/value pairs, with the key separated from the value by a colon (`:`) and each key/value pair separated by a comma (`,`). In this respect they resemble Python's "dictionary" datatype or Ruby's "hash" datatype.
 
-**JavaScript Object Notation** is referred to as `JSON`. Files ending in .json contain a javascript object.
+**JavaScript Object Notation** is referred to as `JSON`. Files ending in .json contain a javascript object. See this repository's [course.json](/course.json) file for an example.
 
 ```` js
 {}
@@ -464,7 +515,7 @@ person["first"] //> "Santa"
 person["last"] //> "Claus"
 person["message"] //> "Ho Ho Ho"
 person["stops"] //=> ["New York", "Denver", "San Francisco"]
-person["stops"][1] //=> "Denver" (an array is still an array, even if it exists inside a JSON object)
+person["stops"][1] //=> "Denver" (an array is still an array, even if it exists inside a JSON object!)
 ````
 
 Add or remove items from an object:
@@ -499,16 +550,26 @@ person //=> {first: "Santa", last: "Claus", message: "Ho Ho Ho", wife: "Mrs. Cla
 
 
 
-## Conditionals
 
+## Control Flow
+
+Reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference#Control_flow.
 
 ### If
+
+In JavaScript, IF statements are defined using the `if` keyword followed by a set of parentheses (`()`) containing an expression to be evaluated, followed by curly braces (`{}`) which contain statements to be executed if that condition is met.
 
 ```` js
 if (true) {
   console.log("SWEET")
 }
 
+if (!true) {
+  console.log("SWEET")
+}
+````
+
+```` js
 if (1 == 1) {
   console.log("SWEET")
 }
@@ -516,12 +577,20 @@ if (1 == 1) {
 if (1 == 2) {
   console.log("SWEET")
 }
+````
 
+```` js
 if (undefined) {
   console.log("SWEET")
 }
 
+if (!undefined) {
+  console.log("SWEET")
+}
+
 ````
+
+IF statements may be followed by the `else` keyword followed by a set of parentheses (`()`) containing an expression to be evaluated in the event none of the above conditions are met.
 
 ```` js
 if (1 == 1) {
@@ -537,13 +606,29 @@ if (1 == 2) {
 }
 ````
 
-```` js
-var name = "Margo"
+IF statements, regardless of whether or not they contain an ELSE statement, can contain any number of `else if` keywords followed by a set of parentheses (`()`) containing an expression to be evaluated in the event that condition is met.
 
-if (name == "John") {
+```` js
+var fruit = "Apple"
+
+if (fruit == "Orange") {
   console.log("SWEET")
-} else if (name == "Jordan") {
+} else if (name == "Banana") {
   console.log("OK")
+} else {
+  console.log("NOPE")
+}
+````
+
+As in other languages, statement order matters:
+
+```` js
+if (false) {
+  console.log("SWEET")
+} else if (true) {
+  console.log("OK")
+} else if (true) {
+  console.log("ALSO OK")
 } else {
   console.log("NOPE")
 }
@@ -567,3 +652,38 @@ switch(name) {
         console.log("NOPE")
 }
 ````
+
+### Errors
+
+#### Throwing Errors
+
+Raise, or "throw" errors yourself!
+
+```` js
+throw "MyError"
+throw 4
+throw true
+````
+
+Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw.
+
+#### Handling Errors
+
+Handle, or "catch" errors:
+
+```` js
+try {
+   console.log("TRYING TO DO STUFF HERE")
+} catch (err) {
+   console.log(err)
+}
+
+try {
+   throw("OOPS")
+   console.log("TRYING TO DO STUFF HERE")
+} catch (err) {
+   console.log(err)
+}
+````
+
+Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch.
