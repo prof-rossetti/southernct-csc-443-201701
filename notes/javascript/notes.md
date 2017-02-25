@@ -502,7 +502,7 @@ arr2 //=> [100, 200, 300, 400]
 
 > ##### Further Exploration:
 
-> Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of > numbers to calculate in-place the sum of those numbers?
+> Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of numbers to calculate in-place the sum of those numbers?
 
 > ```` js
 > var arr = [1, 2, 3, 4]
@@ -674,7 +674,7 @@ switch(name) {
 
 #### Throwing Errors
 
-Raise, or "throw" errors yourself!
+Raise, or "throw" errors yourself:
 
 ```` js
 throw "MyError"
