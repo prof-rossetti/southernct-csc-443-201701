@@ -56,10 +56,11 @@ Ensure the data visualization is hosted and available for public consumption on 
 
 When your data visualization is ready for evaluation, add its identifying information, including your GitHub username, a link to your site's repository, and a link to your hosted site, to the [submissions list](submissions.md). Use the following workflow to accomplish this:
 
-  1. Fork this repository to your own account.
+  1. Fork [this repository](https://github.com/SCSU-CSC-Department/201701-csc-443-01/) to your own account.
   * Edit the submissions list in your forked repo via the online editor, or by downloading your forked repo, making local commits, and pushing them back up to GitHub.
   * Submit a Pull Request for your changes to be merged into this repo.
-  * Shortly after the midnight deadline, the professor will merge any outstanding pull requests.
+
+> NOTE: If you would prefer for any reason to submit your work privately, you may alternatively send the professor your links via email or Slack DM. Your project will still be evaluated, and peer-evaluated, but its identifying information will not be publicly accessible as part of this course repository.
 
 Also be prepared to deliver a 5-10 minute presentation to demonstrate usage of your website and describe your planning and design process, as desired.
 
