@@ -28,24 +28,28 @@ document.children
 document.children[0].children
 ````
 
+### Page-loading
+
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/page-loading.html. Compare the source code to messages logged to the browser's console.
+
 ### Selections
 
 Reference: https://www.w3schools.com/js/js_htmldom_elements.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/selections.html.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/selections.html. Use JavaScript to identify the name of the currently-selected animal.
 
 ### Events
 
-Reference: https://www.w3schools.com/js/js_htmldom_events.asp.
+Reference: https://www.w3schools.com/js/js_htmldom_events.asp. 
 
 #### Event-listening
 
 Reference: https://www.w3schools.com/jsref/met_document_addeventlistener.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/event-listening.html.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/event-listening.html. Use JavaScript to log a message to the console any time the button element is clicked.
 
 ### DOM Manipulation
 
 Again, reference: https://www.w3schools.com/js/js_htmldom_document.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-manipulation.html.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-manipulation.html. Use JavaScript to change the contents of the message displayed on the page.
