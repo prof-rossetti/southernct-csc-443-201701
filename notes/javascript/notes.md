@@ -630,7 +630,7 @@ var fruit = "Apple"
 
 if (fruit == "Orange") {
   console.log("SWEET")
-} else if (name == "Banana") {
+} else if (fruit == "Banana") {
   console.log("OK")
 } else {
   console.log("NOPE")
@@ -656,13 +656,13 @@ if (false) {
 Switch statements are essentially case statements.
 
 ```` js
-var name = "Margo"
+var fruit = "Apple"
 
-switch(name) {
-    case "John":
+switch(fruit) {
+    case "Orange":
         console.log("SWEET")
         break;
-    case "Jordan":
+    case "Banana":
         console.log("OK")
         break;
     default:
