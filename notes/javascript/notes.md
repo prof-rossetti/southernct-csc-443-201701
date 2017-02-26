@@ -502,7 +502,7 @@ arr2 //=> [100, 200, 300, 400]
 
 > ##### Further Exploration:
 
-> Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of > numbers to calculate in-place the sum of those numbers?
+> Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of numbers to calculate in-place the sum of those numbers?
 
 > ```` js
 > var arr = [1, 2, 3, 4]
@@ -630,7 +630,7 @@ var fruit = "Apple"
 
 if (fruit == "Orange") {
   console.log("SWEET")
-} else if (name == "Banana") {
+} else if (fruit == "Banana") {
   console.log("OK")
 } else {
   console.log("NOPE")
@@ -656,13 +656,13 @@ if (false) {
 Switch statements are essentially case statements.
 
 ```` js
-var name = "Margo"
+var fruit = "Apple"
 
-switch(name) {
-    case "John":
+switch(fruit) {
+    case "Orange":
         console.log("SWEET")
         break;
-    case "Jordan":
+    case "Banana":
         console.log("OK")
         break;
     default:
@@ -674,7 +674,7 @@ switch(name) {
 
 #### Throwing Errors
 
-Raise, or "throw" errors yourself!
+Raise, or "throw" errors yourself:
 
 ```` js
 throw "MyError"
