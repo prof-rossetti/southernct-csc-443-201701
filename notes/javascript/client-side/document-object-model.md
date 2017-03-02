@@ -56,6 +56,6 @@ Again, reference: https://www.w3schools.com/js/js_htmldom_document.asp.
 
 Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-manipulation.html. Use JavaScript to change the contents of the message displayed on the page.
 
-> Further Exploration
+> #### Further Exploration
 >
 > Use JavaScript to add and remove elements from the page. Try adding elements of many kinds. Try adding elements nested inside other elements.
