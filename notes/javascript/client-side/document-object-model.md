@@ -58,4 +58,4 @@ Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-man
 
 > #### Further Exploration
 >
-> Use JavaScript to add and remove elements from the page. Try adding elements of many kinds. Try adding elements nested inside other elements.
+> Reference https://www.w3schools.com/js/js_htmldom_nodes.asp. Use JavaScript to add and remove elements from the page. Try adding elements of many kinds. Try adding elements nested inside other elements.
