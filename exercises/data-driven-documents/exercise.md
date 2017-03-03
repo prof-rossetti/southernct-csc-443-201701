@@ -60,7 +60,7 @@ In the console, use JavaScript to perform the following actions:
   1. Change the placeholder text inside the `p#my-message` element from "Some placeholder content." to "My New Content!".
   * Remove the `p#my-message` element from the page altogether.
   * Add an `h3` element nested inside the `div#my-container` element to display the name of the course.
-  * Add other elements as desired nested inside the `div#my-container` to display all information about the course.
+  * Add other elements as desired nested inside the `div#my-container` to display all information about the course. Include hyperlinks to all relevant external pages referenced by URL within the data structure.
 
 Finally transcribe your JavaScript statements into the `script` at the bottom of the HTML page so the next time you load it, you should see your desired changes reflected.
 
