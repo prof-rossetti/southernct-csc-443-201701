@@ -18,9 +18,9 @@ N/A | 2017-02-22 | N/A | N/A | [Personal Website (15%)](/projects/personal-websi
 6 | 2017-02-23 | JavaScript and The Document Object Model (DOM) | JavaScript, jQuery, d3.js | [JavaScript Language Overview](/notes/javascript/notes.md), <br> [DOM Overview](/notes/javascript/client-side/document-object-model.md), <br> [CRUD App Checkpoint III](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
 N/A | 2017-03-01 | N/A | N/A | [Personal Website Peer Evaluations (5%)](/projects/personal-website/peer-evaluation.md) due by 11:59pm
 7 | 2017-03-02 | Data-driven Documents | JavaScript, jQuery, d3.js | [Browser Window Overview](/notes/javascript/client-side/window.md), <br> [Data-driven Documents](/exercises/data-driven-documents/exercise.md)
-8 | 2017-03-09 | Network Requests, APIs and AJAX | JavaScript, jQuery, d3.js | TBA
+8 | 2017-03-09 | Data Visualization Libraries | JavaScript, highcharts.js, d3.js, mapbox.js | TBA
 9 | 2017-03-16 | Spring Break (no class) | N/A | N/A
-10 | 2017-03-23 | Data Visualization Libraries | JavaScript, highcharts.js, d3.js, mapbox.js | TBA
+10 | 2017-03-23 | Network Requests, APIs and AJAX | JavaScript, jQuery, d3.js | TBA
 N/A | 2017-03-29 | N/A | N/A | [Data Visualization (20%)](/projects/data-visualization/project.md) due by 11:59pm
 11 | 2017-03-30 | Network Computing | SSH, Public/private key encryption | Access the Server
 11 | 2017-03-30 | Server-side Development Environment Setup | Node.js, MongoDB or PostgreSQL | N/A
