@@ -10,21 +10,22 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 1 | 2017-01-19 | Version Control, Open Source, and Website Hosting | Git, GitHub, GitHub Pages | [Fork the Repo](/exercises/open-source/exercise.md), <br> [Version Control](/exercises/version-control/exercise.md)
 2 | 2017-01-26 | Client-side Development Environment Setup | Text editor, web browser, local web server, Git client | N/A
 2 | 2017-01-26 | Command-line Computing | Terminal (Mac) or Command Prompt (Windows) | [Command-line Computing](/exercises/command-line-computing/exercise.md)
-3 | 2017-02-02 | The Internet | HTTP/HTTPS | [Computer Networks (notes)](/notes/computer-networks/notes.md)
+3 | 2017-02-02 | The Internet | HTTP/HTTPS | [Computer Networks Overview](/notes/computer-networks/notes.md)
 3 | 2017-02-02 | Website Structure | HTML | [Website Checkpoint I](/projects/personal-website/checkpoints/structure/checkpoint.md), <br> [CRUD App Checkpoint I](/projects/crud-application/checkpoints/structure/checkpoint.md)
 4 | 2017-02-09 | Website Style and Design | CSS, Twitter Bootstrap Components and CSS | [Website Checkpoint II](/projects/personal-website/checkpoints/style/checkpoint.md), <br> [CRUD App Checkpoint II](/projects/crud-application/checkpoints/style/checkpoint.md)
 5 | 2017-02-16 | Basic Website Interactivity | JavaScript, Twitter Bootstrap JavaScript plugins, jQuery | [Website Checkpoint III](/projects/personal-website/checkpoints/interactivity/checkpoint.md)
 N/A | 2017-02-22 | N/A | N/A | [Personal Website (15%)](/projects/personal-website/project.md) due by 11:59pm
 6 | 2017-02-23 | JavaScript and The Document Object Model (DOM) | JavaScript, jQuery, d3.js | [JavaScript Language Overview](/notes/javascript/notes.md), <br> [DOM Overview](/notes/javascript/client-side/document-object-model.md), <br> [CRUD App Checkpoint III](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
 N/A | 2017-03-01 | N/A | N/A | [Personal Website Peer Evaluations (5%)](/projects/personal-website/peer-evaluation.md) due by 11:59pm
-7 | 2017-03-02 | Data Visualization Libraries | JavaScript, highcharts.js, d3.js, mapbox.js | TBA
+7 | 2017-03-02 | Data-driven Documents | JavaScript, jQuery, d3.js | [Browser Window Overview](/notes/javascript/client-side/window.md), <br> [Data-driven Documents](/exercises/data-driven-documents/exercise.md)
 8 | 2017-03-09 | Network Requests, APIs and AJAX | JavaScript, jQuery, d3.js | TBA
 9 | 2017-03-16 | Spring Break (no class) | N/A | N/A
-N/A | 2017-03-19 | N/A | N/A | [Data Visualization (20%)](/projects/data-visualization/project.md) due by 11:59pm
-N/A | 2017-03-22 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
-10 | 2017-03-23 | Network Computing | SSH, Public/private key encryption | Access the Server
-10 | 2017-03-23 | Server-side Development Environment Setup | Node.js, MongoDB or PostgreSQL | N/A
+10 | 2017-03-23 | Data Visualization Libraries | JavaScript, highcharts.js, d3.js, mapbox.js | TBA
+N/A | 2017-03-29 | N/A | N/A | [Data Visualization (20%)](/projects/data-visualization/project.md) due by 11:59pm
+11 | 2017-03-30 | Network Computing | SSH, Public/private key encryption | Access the Server
+11 | 2017-03-30 | Server-side Development Environment Setup | Node.js, MongoDB or PostgreSQL | N/A
 11 | 2017-03-30 | Database Connections | Node.js, mongoose.js or knex.js | CRUD App Checkpoint IV
+N/A | 2017-04-02 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
 12 | 2017-04-06 | Web Application Generation, Navigation, and Hosting | Express.js, Heroku | CRUD App Checkpoint V
 13 | 2017-04-13 | Web Application CRUD - Read | Express.js, mongoose.js or knex.js | CRUD App Checkpoint VI
 14 | 2017-04-20 | Web Application CRUD - Destroy and Create | Express.js, mongoose.js or knex.js | CRUD App Checkpoint VII
