@@ -84,3 +84,5 @@ clearInterval(myInterval);
 > #### Further Exploration
 >
 > Use JavaScript to log or display the current dimensions (height and width) of the browser window one or more times per second. Resize the window to verify the values change. Next, include the current time of day in the logs as well.
+>
+> Finally, see if you can create an auto-updating "clock" whereby the current time is always displayed on a page.
