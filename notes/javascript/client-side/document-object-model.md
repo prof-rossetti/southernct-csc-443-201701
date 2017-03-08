@@ -1,6 +1,6 @@
 ## Document Object Model (DOM)
 
-> "The Document Object Model (DOM) is a programming interface for HTML and XML documents. It provides a structured representation of the document and it defines a way that the structure can be accessed from programs so that they can change the document structure, style and content." - [mozilla web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+> "The Document Object Model (DOM) is a programming interface for HTML and XML documents. It provides a structured representation of the document and it defines a way that the structure can be accessed from programs so that they can change the document structure, style and content." - [Mozilla web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 Familiarize yourself with all of the following reference material:
 
@@ -30,32 +30,38 @@ document.children[0].children
 
 ### Page-loading
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/page-loading.html. Compare the source code to messages logged to the browser's console.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/page-loading.html:
+
+  + Compare the source code to messages logged to the browser's console.
 
 ### Selections
 
 Reference: https://www.w3schools.com/js/js_htmldom_elements.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/selections.html.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/selections.html:
+
+  + Use JavaScript to programmatically select each element on the page.
+  + Use JavaScript to select all child elements belonging to the `select#animal-selector` element.
+  + Use JavaScript to identify the name of the currently-selected animal.
 
 ### Events
 
 Reference: https://www.w3schools.com/js/js_htmldom_events.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/selections.html. Use JavaScript to identify the name of the currently-selected animal.
-
 #### Event-listening
 
 Reference: https://www.w3schools.com/jsref/met_document_addeventlistener.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/event-listening.html. Use JavaScript to log a message to the console any time the button element is clicked.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/event-listening.html:
+
+  + Use JavaScript to log a message or display an alert any time the button element is clicked.
+  + Log a message or display an alert any time the select element is changed. Include the name of the currently-selected animal in the contents of the message/alert.
 
 ### DOM Manipulation
 
 Again, reference: https://www.w3schools.com/js/js_htmldom_document.asp.
 
-Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-manipulation.html. Use JavaScript to change the contents of the message displayed on the page.
+Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-manipulation.html:
 
-> #### Further Exploration
->
-> Reference https://www.w3schools.com/js/js_htmldom_nodes.asp. Use JavaScript to add and remove elements from the page. Try adding elements of many kinds. Try adding elements nested inside other elements.
+  + Use JavaScript to change the contents of the message displayed on the page.
+  + Use JavaScript to add and remove elements from the page. Try adding elements of many kinds. Try adding elements nested inside other elements.
