@@ -6,13 +6,12 @@ Use JavaScript to manipulate the contents of a webpage to reflect information co
 
   1. Gain exposure to data-driven document development.
   * Practice using JavaScript to manipulate the DOM.
-  * Optionally gain exposure to using the jQuery library to manipulate the DOM.
-  * Optionally gain exposure to using the d3 library to manipulate the DOM.
+  * Optionally practice using the jQuery library to manipulate the DOM.
+  * Optionally practice using the d3 library to manipulate the DOM.
 
 ## Prerequisites
 
-  + [JavaScript Language Overview](/notes/javascript/notes.md)
-  + [DOM Overview](/notes/javascript/client-side/document-object-model.md)
+  + [DOM Exercise](/exercises/document-object-model/exercise.md)
 
 ## Instructions
 
