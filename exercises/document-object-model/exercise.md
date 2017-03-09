@@ -6,7 +6,7 @@ Use JavaScript to manipulate the contents of a webpage.
 
   1. Learn how to use JavaScript to manipulate the DOM.
   * Optionally gain exposure to using the jQuery library to manipulate the DOM.
-  * Optionally gain exposure to using the d3 library to manipulate the DOM.
+  * Optionally gain exposure to using the D3 library to manipulate the DOM.
 
 ## Prerequisites
 
@@ -47,8 +47,8 @@ Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-man
 
   > ### Further Exploration
   >
-  > Repeat this exercise two more times. On the first repetition, use jQuery instead of vanilla JavaScript to perform the DOM manipulations. On the second repetition, use d3 library to perform the DOM manipulations.
+  > Repeat this exercise two more times. On the first repetition, use jQuery instead of vanilla JavaScript to perform the DOM manipulations. On the second repetition, use D3 library to perform the DOM manipulations.
   >
   > For jQuery DOM manipulation reference, see https://www.w3schools.com/jquery/jquery_dom_add.asp and https://www.w3schools.com/jquery/jquery_dom_remove.asp.
   >
-  > For d3 DOM selection documentation, see https://github.com/d3/d3/blob/master/API.md#selecting-elements. For d3 DOM manipulation documentation, see https://github.com/d3/d3/blob/master/API.md#modifying-elements.
+  > For D3 DOM selection documentation, see https://github.com/d3/d3/blob/master/API.md#selecting-elements. For D3 DOM manipulation documentation, see https://github.com/d3/d3/blob/master/API.md#modifying-elements.

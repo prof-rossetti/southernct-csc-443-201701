@@ -500,6 +500,29 @@ arr2 //=> [100, 200, 300, 400]
 
 > NOTE: remember to use the `return` keyword when mapping.
 
+#### Filtering
+
+Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter.
+
+Use the `filter()` function to select a subset of items from an array - only those items matching a given condition.
+
+```` js
+var arr = [1,2,4,8,16]
+arr.filter(function(i){ return true })
+arr.filter(function(i){ return i == 2})
+arr.filter(function(i){ return i != 2})
+arr.filter(function(i){ return i > 2})
+arr.filter(function(i){ return i <= 2})
+````
+
+```` js
+var teams = [{city:"New York", name:"Yankees"}, {city:"New York", name:"Mets"}, {city:"Boston", name:"Red Sox"}]
+teams.filter(function(obj){ return obj["name"] == "Yankees" })
+teams.filter(function(obj){ return obj["city"] == "New York" })
+teams.filter(function(obj){ return obj["city"] == "New Haven" })
+teams.filter(function(obj){ return obj["city"].includes("New") })
+````
+
 ### Objects
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object.
