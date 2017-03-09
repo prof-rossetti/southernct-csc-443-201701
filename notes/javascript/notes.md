@@ -374,6 +374,8 @@ Numbers also support equality operators:
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Arithmetic_operators for more information about arithmetic operators.
 
+#### `Math` Methods
+
 Also reference the functionality of the "Math" object: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math.
 
 ```` js
@@ -498,17 +500,6 @@ arr2 //=> [100, 200, 300, 400]
 
 > NOTE: remember to use the `return` keyword when mapping.
 
-...
-
-> ##### Further Exploration:
-
-> Can you identify the built-in array function, similar to `map()`, that lets you iterate through an array of numbers to calculate in-place the sum of those numbers?
-
-> ```` js
-> var arr = [1, 2, 3, 4]
-> var total = arr._____() // ?????
-> ````
-
 ### Objects
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object.
@@ -544,7 +535,19 @@ delete person["stops"];
 person //=> {first: "Santa", last: "Claus", message: "Ho Ho Ho", wife: "Mrs. Claus"}
 ````
 
+#### `Object` Methods
 
+Make use of built-in `Object` methods for easier data-processing:
+
+```` js
+var person = {first:"Santa", last:"Claus", message:"Ho Ho Ho", stops:["New York", "Denver", "San Francisco"]}
+var keys = Object.keys(person) //> ["first", "last", "message", "stops"]
+var vals = Object.values(person) //> ["Santa", "Claus", "Ho Ho Ho", Array[3]]
+vals[3] //> ["New York", "Denver", "San Francisco"]
+var entries = Object.entries(person) //> [Array[2], Array[2], Array[2], Array[2]]
+entries[0] //> ["first", "Santa"]
+entries[1] //> ["last", "Claus"]
+````
 
 
 
