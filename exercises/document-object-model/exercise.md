@@ -44,3 +44,11 @@ Observe lessons from https://prof-rossetti.github.io/js-dom-fundamentals/dom-man
 
   + Use JavaScript to change the contents of the message displayed on the page.
   + Use JavaScript to add and remove elements from the page. Try adding elements of many kinds. Try adding elements nested inside other elements.
+
+  > ### Further Exploration
+  >
+  > Repeat this exercise two more times. On the first repetition, use jQuery instead of vanilla JavaScript to perform the DOM manipulations. On the second repetition, use d3 library to perform the DOM manipulations.
+  >
+  > For jQuery DOM manipulation reference, see https://www.w3schools.com/jquery/jquery_dom_add.asp and https://www.w3schools.com/jquery/jquery_dom_remove.asp.
+  >
+  > For d3 DOM selection documentation, see https://github.com/d3/d3/blob/master/API.md#selecting-elements. For d3 DOM manipulation documentation, see https://github.com/d3/d3/blob/master/API.md#modifying-elements.
