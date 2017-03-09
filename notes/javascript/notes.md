@@ -500,7 +500,9 @@ arr2 //=> [100, 200, 300, 400]
 
 > NOTE: remember to use the `return` keyword when mapping.
 
-#### Filtering
+#### Subsets
+
+##### Filtering
 
 Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter.
 
@@ -513,6 +515,7 @@ arr.filter(function(i){ return i == 2})
 arr.filter(function(i){ return i != 2})
 arr.filter(function(i){ return i > 2})
 arr.filter(function(i){ return i <= 2})
+arr.filter(function(i){ return i > 102})
 ````
 
 ```` js
@@ -522,6 +525,35 @@ teams.filter(function(obj){ return obj["city"] == "New York" })
 teams.filter(function(obj){ return obj["city"] == "New Haven" })
 teams.filter(function(obj){ return obj["city"].includes("New") })
 ````
+
+> Note: the `filter()` function returns an Array, even if it is empty or only contains one item.
+
+##### Finding
+
+Reference: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find.
+
+Use the `find()` function to select a single items from an array - only the first item matching a given condition.
+
+```` js
+var arr = [1,2,4,8,16]
+arr.find(function(i){ return true })
+arr.find(function(i){ return i == 2})
+arr.find(function(i){ return i != 2})
+arr.find(function(i){ return i > 2})
+arr.find(function(i){ return i <= 2})
+arr.find(function(i){ return i > 102})
+````
+
+```` js
+var teams = [{city:"New York", name:"Yankees"}, {city:"New York", name:"Mets"}, {city:"Boston", name:"Red Sox"}]
+teams.find(function(obj){ return obj["name"] == "Yankees" })
+teams.find(function(obj){ return obj["city"] == "New York" })
+teams.find(function(obj){ return obj["city"] == "New Haven" })
+teams.find(function(obj){ return obj["city"].includes("New") })
+
+````
+
+> Note: the `find()` function returns a single value, or undefined.
 
 ### Objects
 
