@@ -43,7 +43,7 @@ university | school | department | term | course | section | credits
 ## [Projects](/PROJECTS.md)
 
   1. Personal Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
-  * Single-page Web Application — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
+  * Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
   * CRUD Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
 
 ## Materials
@@ -64,6 +64,10 @@ Each student is expected to achieve proficiency using a text editor of choice. I
 
 Each student is expected to achieve proficiency using a modern browser for web development purposes. The browser must include the ability to inspect underlying elements on the page. The official browser for this course is [Google Chrome](https://www.google.com/chrome/), however [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/products/) is another viable option.
 
+#### Local Web Server
+
+Each student is expected to achieve proficiency using a local web server of choice for web development purposes. This course recommends using Python to run a local web server, however there are many other viable options.
+
 #### Command-line Utilities
 
 The following command-line utilities will be covered throughout the course of the semester:
@@ -83,7 +87,7 @@ There is no Teaching Assistant assigned to aid instruction of this course.
 
 ## Evaluation
 
-Student learning will be evaluated through in-class assignments, take-home projects, and a final exam. Final grades will be calculated by weighted average according to the following structure:
+Student learning will be evaluated primarily through submission of take-home "portfolio" projects, as well as by submitting evaluations of peers' projects and taking a final exam. Final grades will be calculated by weighted average according to the following structure:
 
 Name | Weight
 --- | ---
@@ -93,7 +97,7 @@ Final Exam | 20%
 
 ## Schedule
 
-The class meets on Thursday nights from 7:30pm to 10:00pm during the spring semester effective 1/17/17 through 5/12/17.
+The class meets on Thursday nights from 7:35pm to 10:05pm during the spring semester effective 1/17/17 through 5/12/17.
 
 The [Schedule](SCHEDULE.md) contains a tentative
  week-by-week description of the topics and technologies covered in each class,
