@@ -6,13 +6,12 @@ Use JavaScript to manipulate the contents of a webpage to reflect information co
 
   1. Gain exposure to data-driven document development.
   * Practice using JavaScript to manipulate the DOM.
-  * Optionally gain exposure to using the jQuery library to manipulate the DOM.
-  * Optionally gain exposure to using the d3 library to manipulate the DOM.
+  * Optionally practice using the jQuery library to manipulate the DOM.
+  * Optionally practice using the D3 library to manipulate the DOM.
 
 ## Prerequisites
 
-  + [JavaScript Language Overview](/notes/javascript/notes.md)
-  + [DOM Overview](/notes/javascript/client-side/document-object-model.md)
+  + [DOM Exercise](/exercises/document-object-model/exercise.md)
 
 ## Instructions
 
@@ -66,8 +65,8 @@ Finally transcribe your JavaScript statements into the `script` at the bottom of
 
 > #### Further Exploration
 >
-> Replicate your HTML page twice. Within one of the copies, use jQuery instead of vanilla JavaScript to perform the DOM manipulations. Within the second copy, use the d3 library to perform the DOM manipulations.
+> Replicate your HTML page twice. Within one of the copies, use jQuery instead of vanilla JavaScript to perform the DOM manipulations. Within the second copy, use the D3 library to perform the DOM manipulations.
 >
 > For jQuery DOM manipulation reference, see https://www.w3schools.com/jquery/jquery_dom_add.asp and https://www.w3schools.com/jquery/jquery_dom_remove.asp.
 >
-> For d3 DOM selection documentation, see https://github.com/d3/d3/blob/master/API.md#selecting-elements. For d3 DOM manipulation documentation, see https://github.com/d3/d3/blob/master/API.md#modifying-elements.
+> For D3 DOM selection documentation, see https://github.com/d3/d3/blob/master/API.md#selecting-elements. For D3 DOM manipulation documentation, see https://github.com/d3/d3/blob/master/API.md#modifying-elements.
