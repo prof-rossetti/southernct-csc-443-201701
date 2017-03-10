@@ -146,3 +146,4 @@ Additional Resources:
  + https://www.washington.edu/accesscomputing/webd2/student/index.html
  + https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
  + http://docs.webplatform.org/wiki/concepts/Internet_and_Web/How_does_the_Internet_Work
+ + http://www.theshulers.com/whitepapers/internet_whitepaper/index.html
