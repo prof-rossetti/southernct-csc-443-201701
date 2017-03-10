@@ -36,6 +36,7 @@ Create a new `index.html` page and populate it with the following contents:
     <script type="text/javascript">
 
       var myCourse = {name:"Internet Programming", url:"http://catalog.southernct.edu/undergraduate/courses/csc443.html"}
+
       var otherCourse = {name:"Database Management Systems Design", url:"http://catalog.southernct.edu/undergraduate/courses/csc335.html"}
 
       // manipulate the DOM here!
