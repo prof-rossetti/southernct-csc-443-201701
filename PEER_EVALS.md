@@ -1,4 +1,4 @@
-## Projects
+## Peer Evaluation Assignments
 
 Portfolio projects are worth a collective weight of 65%, plus the option for an additional 10% extra credit.
 

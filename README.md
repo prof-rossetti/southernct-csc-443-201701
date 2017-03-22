@@ -42,9 +42,10 @@ university | school | department | term | course | section | credits
 
 ## [Projects](/PROJECTS.md)
 
-  1. Personal Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
-  * Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
-  * CRUD Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
+  1. Personal Website — HTML, CSS, JavaScript, hosted on GitHub Pages
+  * Data Visualization — HTML, CSS, JavaScript, hosted on GitHub Pages
+  * CRUD Web Application — HTML, CSS, JavaScript, Node.js, Express.js, hosted on Heroku
+  * REST API (Optional) — Node.js, Express.js, Database (PostgreSQL or MongoDB), hosted on Heroku
 
 ## Materials
 
@@ -74,8 +75,8 @@ The following command-line utilities will be covered throughout the course of th
 
   + Git
   + Node.js and Node Package Manager (NPM)
-  + Choice of either MongoDB or PostgreSQL
   + Heroku Toolbelt
+  + Choice of either MongoDB or PostgreSQL (Optional)
 
 ## Learning Community
 
@@ -87,12 +88,12 @@ There is no Teaching Assistant assigned to aid instruction of this course.
 
 ## Evaluation
 
-Student learning will be evaluated primarily through submission of take-home "portfolio" projects, as well as by submitting evaluations of peers' projects and taking a final exam. Final grades will be calculated by weighted average according to the following structure:
+Final grades will be calculated by weighted average according to the following structure:
 
 Name | Weight
 --- | ---
-[Projects](/PROJECTS.md) | 65%
-Assignments (project peer evaluations)| 15%
+[Projects](/PROJECTS.md) | 65%, plus an optional additional 10% in extra credit
+[Peer Evaluations](/ASSIGNMENTS.md) | 15%
 Final Exam | 20%
 
 ## Schedule
