@@ -1,6 +1,6 @@
-## External JavaScript Libraries
+## Open-source JavaScript Libraries
 
-### `Highcharts` Overview
+### Highcharts Overview
 
 > Highcharts makes it easy for developers to set up interactive charts in their web pages. - [Highcharts website](http://www.highcharts.com/)
 
@@ -12,7 +12,7 @@ We will focus on basic charts for now.
 
 Reference: http://www.highcharts.com/docs/getting-started/installation.
 
-#### Tutorial
+#### Usage
 
 Reference: http://www.highcharts.com/docs/getting-started/your-first-chart.
 

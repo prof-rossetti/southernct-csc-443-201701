@@ -1,4 +1,4 @@
-# Highcharts Exercise
+# Interactive Charts Exercise
 
 ## Objectives
 

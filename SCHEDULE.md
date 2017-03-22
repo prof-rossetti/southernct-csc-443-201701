@@ -24,13 +24,13 @@ N/A | 2017-03-01 | N/A | N/A | [Personal Website Peer Evaluations (5%)](/project
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
 6 | 2017-02-23 | Client-side Scripting | JavaScript | [JavaScript Language Overview](/notes/javascript/notes.md)
-6 | 2017-02-23 | The Document Object Model (DOM) | JavaScript, jQuery, D3.js | [DOM Overview](/notes/javascript/client-side/document-object-model.md), <br> [DOM Exercise](/exercises/document-object-model/exercise.md), <br> [CRUD App Checkpoint III](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
-7 | 2017-03-02 | Data-driven Documents | JavaScript, jQuery, D3.js | [Browser Window Overview](/notes/javascript/client-side/window.md), <br> [Data-driven Documents Exercise](/exercises/data-driven-documents/exercise.md)
+6 | 2017-02-23 | The Document Object Model (DOM) | JavaScript, jQuery, D3.js | [DOM Overview](/notes/javascript/document-object-model.md), <br> [DOM Exercise](/exercises/document-object-model/exercise.md), <br> [CRUD App Checkpoint III](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
+7 | 2017-03-02 | Data-driven Documents | JavaScript, jQuery, D3.js | [Browser Window Overview](/notes/javascript/window.md), <br> [Data-driven Documents Exercise](/exercises/data-driven-documents/exercise.md)
 8 | 2017-03-09 | Client-side Data Processing and Transformation | JavaScript, D3.js | [D3 Data Processing Overview](/notes/javascript/d3.md#data-processing), <br> [Changing Datasets Exercise](/exercises/data-driven-documents/changing-datasets.md)
 9 | 2017-03-16 | Spring Break (no class) | N/A | N/A
-10 | 2017-03-23 | Interactive Charts and Graphs | Highcharts.js | [Highcharts Overview](/notes/javascript/highcharts.md), <br> [Highcharts Exercise](/exercises/highcharts/exercise.md)
-10 | 2017-03-23 | Network Requests, APIs, AJAX, and URL Parameters | JavaScript, jQuery, D3.js | TBA - HTTP Statuses and Errors Overview, <br> Fetch the Data Exercise
-11 | 2017-03-30 | Interactive Maps | Mapbox.js | TBA - Mapbox Overview, Plot the Coordinates Exercise
+10 | 2017-03-23 | Interactive Charts and Graphs | Highcharts.js | [Highcharts Overview](/notes/javascript/highcharts.md), <br> [Interactive Charts Exercise](/exercises/interactive-charts/exercise.md)
+10 | 2017-03-23 | Interactive Maps | Mapbox.js | [Mapbox Overview](/notes/javascript/mapbox.md), <br>  [Interactive Maps Exercise](/exercises/mapbox/exercise.md)
+11 | 2017-03-30 | Network Requests, APIs, AJAX, and URL Parameters | JavaScript, jQuery, D3.js | TBA - Fetch the Data Exercise
 N/A | 2017-04-02 | N/A | N/A | [Data Visualization (25%)](/projects/data-visualization/project.md) due by 11:59pm
 N/A | 2017-04-05 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
 
@@ -56,9 +56,9 @@ N/A | 2017-05-03 | N/A | N/A | CRUD App Peer Evaluations (5%) due by 11:59pm
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
 N/A | N/A | Development Database Setup | MongoDB or PostgreSQL | TBA - Development Database Exercise
-N/A | N/A | Database Seeding | Node.js, Express.js, (Mongoose.js or Knex.js) | TBA - Seeding the Database Exercise
-N/A | N/A | Database Querying | Node.js, Express.js, (Mongoose.js or Knex.js) | TBA - Querying the Database Exercise
-N/A | N/A | JSON API CRUD | Node.js, Express.js, (Mongoose.js or Knex.js) | TBA - Responding to Requests Exercise
+N/A | N/A | Database Seeds | Node.js, Database Connection Interface (Mongoose.js or Knex.js) | TBA - Seeding the Database Exercise
+N/A | N/A | Database Queries | Node.js, Express.js, Database Connection Interface (Mongoose.js or Knex.js) | TBA - Querying the Database Exercise
+N/A | N/A | REST-ful JSON API | Node.js, Express.js, Database Connection Interface (Mongoose.js or Knex.js) | TBA - REST Overview, Responding to Requests Exercise
 N/A | 2017-04-30 | N/A | N/A | REST API (10% Extra Credit) optionally due by 11:59pm
 
 ## Finale
