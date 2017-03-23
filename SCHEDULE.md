@@ -29,7 +29,7 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 8 | 2017-03-09 | Client-side Data Processing and Transformation | JavaScript, D3.js | [D3 Data Processing Overview](/notes/javascript/d3.md#data-processing), <br> [Changing Datasets Exercise](/exercises/data-driven-documents/changing-datasets.md)
 9 | 2017-03-16 | Spring Break (no class) | N/A | N/A
 10 | 2017-03-23 | Interactive Charts and Graphs | Highcharts.js | [Highcharts Overview](/notes/javascript/highcharts.md), <br> [Interactive Charts Exercise](/exercises/interactive-charts/exercise.md)
-10 | 2017-03-23 | Interactive Maps | Mapbox.js | [Mapbox Overview](/notes/javascript/mapbox.md), <br>  [Interactive Maps Exercise](/exercises/mapbox/exercise.md)
+10 | 2017-03-23 | Interactive Maps | Leaflet.js | [Leaflet Overview](/notes/javascript/leaflet.md), <br>  [Interactive Maps Exercise](/exercises/interactive-maps/exercise.md)
 11 | 2017-03-30 | Network Requests, APIs, AJAX, and URL Parameters | JavaScript, jQuery, D3.js | TBA - Fetch the Data Exercise
 N/A | 2017-04-02 | N/A | N/A | [Data Visualization (25%)](/projects/data-visualization/project.md) due by 11:59pm
 N/A | 2017-04-05 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
