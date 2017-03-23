@@ -1,8 +1,13 @@
 # Interactive Charts Exercise
 
+Make an interactive chart.
+
+If you get stuck, or would like a step-by-step tutorial, see the accompanying [screencast](https://youtu.be/OxLxBGyEVuA).
+
 ## Objectives
 
-  1. Practice data-driven document development.
+  1. Gain exposure to making interactive charts and graphs.
+  * Practice data-driven document development.
   * Practice updating page contents without refreshing the page.
 
 ## Prerequisites
@@ -26,12 +31,12 @@ Create a new `index.html` page and populate it with the following contents:
 
     <!-- OPTIONALLY PUT A SELECT OR BUTTON ELEMENT HERE - FURTHER EXPLORATION ONLY -->
 
-    <div id="my-container">
+    <div id="my-chart-container">
     </div>
 
     <script type="text/javascript">
 
-      // manipulate the DOM here!
+      // INITIALIZE YOUR CHART HERE
 
     </script>
   </body>
@@ -61,5 +66,3 @@ Nice job!
 > Create another dataset that mimics the structure of this dataset, but differs in values. Store that in a different variable.
 >
 > Add a `button` or `select` element, and configure it such that when clicked or selected, it changes the contents of the chart by switching the underlying dataset.
->
-> Hint: you might have to write your own functions.
