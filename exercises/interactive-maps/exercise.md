@@ -105,8 +105,8 @@ Create a new `index.html` page and populate it with the following contents:
 
 Preview the page in a browser. Ensure you see a map with a marker.
 
-The default marker is hard-coded to depict New Haven Union Station. Your challenge is to instead display all the stations.
+The default marker has been hard-coded to depict the location of New Haven Union Station. Your challenge is to instead display a marker for each station. Display all markers on the same map.
 
 > ## Further Exploration
 >
-> Configure the `select` element to include an option for each station. When a station is selected, trigger the map to update to include only a marker for that station.
+> Display only a single station on the map. Configure a `select` element to include an option for each station. When a station is selected, trigger a map update to display only a marker for the selected station.
