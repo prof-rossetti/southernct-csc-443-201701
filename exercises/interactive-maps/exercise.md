@@ -1,6 +1,6 @@
 # Interactive Maps Exercise
 
-TBA
+Make an interactive map.
 
 ## Objectives
 
