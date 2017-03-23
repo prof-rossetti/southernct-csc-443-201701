@@ -28,6 +28,7 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 7 | 2017-03-02 | Data-driven Documents | JavaScript, jQuery, D3.js | [Browser Window Overview](/notes/javascript/window.md), <br> [Data-driven Documents Exercise](/exercises/data-driven-documents/exercise.md)
 8 | 2017-03-09 | Client-side Data Processing and Transformation | JavaScript, D3.js | [D3 Data Processing Overview](/notes/javascript/d3.md#data-processing), <br> [Changing Datasets Exercise](/exercises/data-driven-documents/changing-datasets.md)
 9 | 2017-03-16 | Spring Break (no class) | N/A | N/A
+10 | 2017-03-23 | Software Licenses and Intellectual Property | N/A | [Choose a License](https://choosealicense.com/)
 10 | 2017-03-23 | Interactive Charts and Graphs | Highcharts.js | [Highcharts Overview](/notes/javascript/highcharts.md), <br> [Interactive Charts Exercise](/exercises/interactive-charts/exercise.md)
 10 | 2017-03-23 | Interactive Maps | Leaflet.js | [Leaflet Overview](/notes/javascript/leaflet.md), <br>  [Interactive Maps Exercise](/exercises/interactive-maps/exercise.md)
 11 | 2017-03-30 | Network Requests, APIs, AJAX, and URL Parameters | JavaScript, jQuery, D3.js | TBA - Fetch the Data Exercise
