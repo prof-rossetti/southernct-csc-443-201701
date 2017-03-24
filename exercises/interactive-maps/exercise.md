@@ -5,9 +5,9 @@ Make an interactive map.
 ## Objectives
 
   1. Gain exposure to making interactive maps.
-  1. Gain exposure to Geographic Information System (GIS) data structures, including Latitude and Longitude.
-  * Practice data-driven document development.
-  * Practice updating page contents without refreshing the page.
+  2. Gain exposure to Geographic Information System (GIS) data structures, including Latitude and Longitude.
+  3. Practice data-driven document development.
+  4. Practice updating page contents without refreshing the page.
 
 ## Prerequisites
 
@@ -105,7 +105,7 @@ Create a new `index.html` page and populate it with the following contents:
 
 Preview the page in a browser. Ensure you see a map with a marker.
 
-The default marker has been hard-coded to depict the location of New Haven Union Station. Your challenge is to instead display a marker for each station. Display all markers on the same map.
+The default marker has been hard-coded to depict the location of New Haven Union Station. Your challenge is to instead dynamically display a marker for each station included in the `trainStations` variable. Display all the markers on the same map. HINT: try using a `forEach()` function!
 
 > ## Further Exploration
 >
