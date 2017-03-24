@@ -7,8 +7,8 @@ If you get stuck, or would like a step-by-step tutorial, see the accompanying [s
 ## Objectives
 
   1. Gain exposure to making interactive charts and graphs.
-  * Practice data-driven document development.
-  * Practice updating page contents without refreshing the page.
+  2. Practice data-driven document development.
+  3. Practice updating page contents without refreshing the page.
 
 ## Prerequisites
 
