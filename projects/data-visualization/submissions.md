@@ -9,4 +9,5 @@ s2t2 | https://github.com/s2t2/lsat-curve | http://s2t2.github.io/lsat-curve/
 s2t2 | https://github.com/data-creative/law-school-outcomes-dataviz/ | http://data-creative.info/law-school-outcomes-dataviz/
 s2t2 | https://github.com/data-creative/us-gov-greenhouse-gas-emissions | http://data-creative.info/us-gov-greenhouse-gas-emissions/
 s2t2 | https://github.com/data-creative/us-state-legislature-compositions | http://data-creative.info/us-state-legislature-compositions/
+SahilMak | https://github.com/SahilMak/data-viz | http://www.sahilmak.tech/data-viz/
 etc. | ... | ...
