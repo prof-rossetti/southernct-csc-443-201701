@@ -51,7 +51,7 @@ Browse the [types of charts available](http://www.highcharts.com/demo), and choo
 
 Scroll down and click the "View Options" button to reveal the source code producing the example chart.
 
-Copy and paste that code into your `script`, the refresh the page and see if you can get it to display on the page.
+Copy and paste that code into your `script`, then refresh the page and see if you can get it to display on the page.
 
 Once you see the chart, save your work, then start to make minor edits to the configuration options. Configure the graph's title, series colors, series labels, axis labels, number formatting, etc.
 
