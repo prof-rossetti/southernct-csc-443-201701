@@ -31,21 +31,21 @@ university | school | department | term | course | section | credits
 ## Objectives
 
   1. Describe the ecosystem of tools, technologies, and languages used to plan, develop, and manage websites and web applications.
-  * Describe in a practical sense how the Internet works, specifically focusing on the lifecycle of a network request.
-  * Describe the difference between traditional “waterfall” and agile systems development methodologies.
-  * Discuss security and privacy considerations relevant in designing and managing websites and web applications.
-  * Participate in, and describe the advantages of software version control.
-  * Describe the advantages and disadvantages of open source software.
-  * Describe the role of the development, staging, and production development environments.
-  * Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
-  * Have fun!
+  2. Describe in a practical sense how the Internet works, specifically focusing on the lifecycle of a network request.
+  3. Describe the difference between traditional “waterfall” and agile systems development methodologies.
+  4. Discuss security and privacy considerations relevant in designing and managing websites and web applications.
+  5. Participate in, and describe the advantages of software version control.
+  6. Describe the advantages and disadvantages of open source software.
+  7. Describe the role of the development, staging, and production development environments.
+  8. Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
+  9. Have fun!
 
 ## [Projects](/PROJECTS.md)
 
   1. Personal Website — HTML, CSS, JavaScript, hosted on GitHub Pages
-  * Data Visualization — HTML, CSS, JavaScript, hosted on GitHub Pages
-  * CRUD Web Application — HTML, CSS, JavaScript, Node.js, Express.js, hosted on Heroku
-  * REST API (Optional) — Node.js, Express.js, Database (PostgreSQL or MongoDB), hosted on Heroku
+  2. Data Visualization — HTML, CSS, JavaScript, hosted on GitHub Pages
+  3. CRUD Web Application — HTML, CSS, JavaScript, Node.js, Express.js, hosted on Heroku
+  4. REST API (Optional) — Node.js, Express.js, Database (PostgreSQL or MongoDB), hosted on Heroku
 
 ## Materials
 
