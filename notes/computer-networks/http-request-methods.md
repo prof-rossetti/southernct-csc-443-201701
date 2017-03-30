@@ -4,12 +4,7 @@
 
 In addition to using a web browser to request HTML documents, you can also use it to view raw data, most often in JSON or XML format.
 
-You can also make web requests using most contemporary server-side programming languages like Ruby, Python, etc.
-
-  + Browser
-  + cURL
-  + JavaScript `fetch()`
-  + etc.
+In addition to using a web browser to request data, you can also request data using the command line, JavaScript, or any other contemporary server-side programming language like Ruby, Python, etc.
 
 ### Request Methods
 
