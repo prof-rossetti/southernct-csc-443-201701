@@ -19,22 +19,22 @@ W3Schools: https://www.w3schools.com/tags/ref_httpmethods.asp
 
 Request some data from some URL.
 
+Using the command line:
+
 ```` sh
-# todo: curl
+curl https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json
 ````
 
-```` js
-// todo: fetch()
-````
+See [JavaScript AJAX Notes](/notes/javascript/ajax.md) for examples of how to make a GET request using JavaScript.
 
 #### POST
 
 Send data to some URL. When you make a POST request, you need to send along the data in the body of the request.
 
+Using the command line:
+
 ```` sh
-# todo: curl _________
+# TBA - curl example
 ````
 
-```` js
-// todo: fetch()
-````
+See [JavaScript AJAX Notes](/notes/javascript/ajax.md) for examples of how to make a POST request using JavaScript.
