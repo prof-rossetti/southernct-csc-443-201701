@@ -1,0 +1,1 @@
+TBA - Fetch data from https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json and recognize you can't access the data from within the global scope. But learn how to pass the data to the global scope, or use `debugger` to access the data for debugging purposes.
