@@ -6,13 +6,14 @@
 >
 >  + Make requests to the server without reloading the page
 >  + Receive and work with data from the server
-> ...  - [Mozilla guide](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
+>
+> ... - [Mozilla website](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
 
 Use AJAX to send and receive data between your client-side script and a server, all done without refreshing the page.
 
 Be careful not to assume synchronous execution of your JavaScript code. Assume the time between request and response is not certain.
 
-Don't be surprised if you don't have access to the response variable within the global scope unless you pass it there from within the request function. For more information on global vs local scopes, see [this guide](https://www.w3schools.com/js/js_scope.asp).
+Don't be surprised if you don't have access to the response variable within the global scope unless you pass it there from within the request function. For more information, refer to this guide on [global vs local scopes](https://www.w3schools.com/js/js_scope.asp).
 
 ### How to Make an AJAX Request
 
