@@ -14,44 +14,85 @@ Be careful not to assume synchronous execution of your JavaScript code. Assume t
 
 ### How to Make an AJAX Request
 
-Use vanilla JavaScript, jQuery, or d3 to make requests.
+Use vanilla JavaScript, jQuery, or d3 to make requests. Some libraries offer shortcut/alias methods specifically used for making GET requests for JSON data.
 
-JavaScript `fetch()` Docs: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+JavaScript:
 
-jQuery `ajax()` Docs: http://api.jquery.com/jquery.ajax/
+  + General `fetch()` Docs: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 
-D3 `json()` Request Docs: https://github.com/d3/d3-request/blob/master/README.md#json
+jQuery:
 
-And more broadly, D3 `request()` Docs: https://github.com/d3/d3-request/blob/master/README.md#api-reference
+  + General `$.ajax()` Docs: http://api.jquery.com/jquery.ajax/
+  + Specific `$.getJSON()` Docs: http://api.jquery.com/jquery.getjson/
+
+D3:
+
+  + General `d3.request()` Docs: https://github.com/d3/d3-request/blob/master/README.md#api-reference
+  + Specific `d3.json()` Request Docs: https://github.com/d3/d3-request/blob/master/README.md#json
 
 #### GET
 
 ```` js
-// todo: fetch()
+//
+// Vanilla JavaScript
+//
+
+var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
+
+fetch(url)
+  .then(function(response) {
+    console.log("GOT A RESPONSE:", response)
+
+    response.json()
+      .then(function(json){
+        console.log("GOT SOME DATA:", json)
+        // DO SOMETHING WITH THE DATA HERE!
+      })
+  })
+  .catch(function(err){
+    console.log("GOT AN ERROR:", err)
+  }) // handle errors
 ````
 
 ```` js
-// todo: $.ajax()
+//
+// jQuery
+//
+
+var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
+
+$.getJSON(url, function(json) {
+  console.log("GOT SOME DATA:", json)
+  // DO SOMETHING WITH THE DATA HERE!
+});
 ````
 
 ```` js
-// todo: d3.json()
+//
+// D3
+//
+
+var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
+
+d3.json(url, function(json){
+  console.log("GOT SOME DATA:", json)
+  // DO SOMETHING WITH THE DATA HERE!
+})
+
 ````
 
 #### POST
 
+TBA
+
 ```` js
-// todo: fetch()
+// TBA - fetch()
 ````
 
 ```` js
-// todo: $.ajax()
+// TBA -  $.ajax()
 ````
 
 ```` js
-/* todo: request
-    .on("error", function(error) { callback(error); })
-    .on("load", function(xhr) { callback(null, xhr); })
-    .send(method, data);
-*/
+// TBA - d3.request()
 ````

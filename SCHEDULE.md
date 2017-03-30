@@ -31,8 +31,8 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 10 | 2017-03-23 | Software Licenses and Intellectual Property | N/A | [Choose a License](https://choosealicense.com/)
 10 | 2017-03-23 | Interactive Charts and Graphs | Highcharts.js | [Highcharts Overview](/notes/javascript/highcharts.md), <br> [Interactive Charts Exercise](/exercises/interactive-charts/exercise.md)
 10 | 2017-03-23 | Interactive Maps | Leaflet.js | [Leaflet Overview](/notes/javascript/leaflet.md), <br>  [Interactive Maps Exercise](/exercises/interactive-maps/exercise.md)
-11 | 2017-03-30 | Network Requests and Responses | HTTP | [HTTP Request Methods](notes/computer-networks/http-request-methods.md), [HTTP Response Statuses](notes/computer-networks/http-response-statuses.md)
-11 | 2017-03-30 | Asynchronous JavaScript (AJAX) | JavaScript, jQuery, D3.js | [AJAX Notes](/notes/javascript/ajax.md), [Fetch the Data Exercise](/exercises/asynchronous-javascript/exercise.md)
+11 | 2017-03-30 | Network Requests and Responses | HTTP | [HTTP Request Methods](notes/computer-networks/http-request-methods.md) (focusing on GET), <br> [HTTP Response Statuses](notes/computer-networks/http-response-statuses.md)
+11 | 2017-03-30 | Asynchronous JavaScript (AJAX) | JavaScript, jQuery, D3.js | [AJAX Notes](/notes/javascript/ajax.md), <br> [Fetch the Data Exercise](/exercises/asynchronous-javascript/exercise.md)
 N/A | 2017-04-02 | N/A | N/A | [Data Visualization (25%)](/projects/data-visualization/project.md) due by 11:59pm
 N/A | 2017-04-05 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
 
