@@ -1,9 +1,14 @@
-# Highcharts Exercise
+# Interactive Charts Exercise
+
+Make an interactive chart.
+
+If you get stuck, or would like a step-by-step tutorial, see the accompanying [screencast](https://youtu.be/OxLxBGyEVuA).
 
 ## Objectives
 
-  1. Practice data-driven document development.
-  * Practice updating page contents without refreshing the page.
+  1. Gain exposure to making interactive charts and graphs.
+  2. Practice data-driven document development.
+  3. Practice updating page contents without refreshing the page.
 
 ## Prerequisites
 
@@ -26,12 +31,12 @@ Create a new `index.html` page and populate it with the following contents:
 
     <!-- OPTIONALLY PUT A SELECT OR BUTTON ELEMENT HERE - FURTHER EXPLORATION ONLY -->
 
-    <div id="my-container">
+    <div id="my-chart-container">
     </div>
 
     <script type="text/javascript">
 
-      // manipulate the DOM here!
+      // INITIALIZE YOUR CHART HERE
 
     </script>
   </body>
@@ -46,7 +51,7 @@ Browse the [types of charts available](http://www.highcharts.com/demo), and choo
 
 Scroll down and click the "View Options" button to reveal the source code producing the example chart.
 
-Copy and paste that code into your `script`, the refresh the page and see if you can get it to display on the page.
+Copy and paste that code into your `script`, then refresh the page and see if you can get it to display on the page.
 
 Once you see the chart, save your work, then start to make minor edits to the configuration options. Configure the graph's title, series colors, series labels, axis labels, number formatting, etc.
 
@@ -61,5 +66,3 @@ Nice job!
 > Create another dataset that mimics the structure of this dataset, but differs in values. Store that in a different variable.
 >
 > Add a `button` or `select` element, and configure it such that when clicked or selected, it changes the contents of the chart by switching the underlying dataset.
->
-> Hint: you might have to write your own functions.
