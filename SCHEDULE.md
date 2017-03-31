@@ -34,8 +34,8 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 11 | 2017-03-30 | Network Requests and Responses | HTTP | [HTTP Request Methods](notes/computer-networks/http-request-methods.md) (focusing on GET), <br> [HTTP Response Statuses](notes/computer-networks/http-response-statuses.md)
 11 | 2017-03-30 | Asynchronous JavaScript (AJAX) | JavaScript, jQuery, D3.js | [AJAX Notes](/notes/javascript/ajax.md), <br> [Fetch the Data Exercise](/exercises/asynchronous-javascript/exercise.md)
 11 | 2017-03-30 | Dataviz Project Support Session | N/A | N/A
-N/A | 2017-04-02 | N/A | N/A | [Data Visualization (25%)](/projects/data-visualization/project.md) due by 11:59pm
-N/A | 2017-04-05 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
+N/A | 2017-04-05 | N/A | N/A | [Data Visualization (25%)](/projects/data-visualization/project.md) due by 11:59pm
+N/A | 2017-04-09 | N/A | N/A | [Data Visualization Peer Evaluations (5%)](/projects/data-visualization/peer-evaluation.md) due by 11:59pm
 
 ## Module III - Web Applications
 
