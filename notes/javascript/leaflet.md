@@ -8,13 +8,15 @@ Leaflet allows you to make interactive maps.
 
 #### Documentation and Reference
 
-API Documentation: https://www.mapbox.com/mapbox-gl-js/api/
+Source Code: https://github.com/Leaflet/Leaflet.
 
-  + `Map`: http://leafletjs.com/reference-1.0.3.html#map
-  + `TileLayer`: http://leafletjs.com/reference-1.0.3.html#tilelayer
-  + `Marker`: http://leafletjs.com/reference-1.0.3.html#marker
+API Documentation: https://www.mapbox.com/mapbox-gl-js/api/.
 
-Examples: http://leafletjs.com/examples.html
+  + `Map`: http://leafletjs.com/reference-1.0.3.html#map.
+  + `TileLayer`: http://leafletjs.com/reference-1.0.3.html#tilelayer.
+  + `Marker`: http://leafletjs.com/reference-1.0.3.html#marker.
+
+Examples: http://leafletjs.com/examples.html.
 
 #### Usage
 

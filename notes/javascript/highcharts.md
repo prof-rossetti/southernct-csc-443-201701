@@ -12,6 +12,8 @@ We will be focusing on basic charts.
 
 ##### Documentation and Reference
 
+Source Code: https://github.com/highcharts/highcharts.
+
 API Documentation: http://api.highcharts.com/highcharts.
 
 Getting-started guide: http://www.highcharts.com/docs/getting-started/installation.

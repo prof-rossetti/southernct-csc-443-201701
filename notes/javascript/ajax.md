@@ -21,17 +21,17 @@ Use vanilla JavaScript, jQuery, or d3 to make requests. Some libraries offer sho
 
 JavaScript:
 
-  + General `fetch()` Docs: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+  + General `fetch()` Docs: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API.
 
 jQuery:
 
-  + General `$.ajax()` Docs: http://api.jquery.com/jquery.ajax/
-  + Specific `$.getJSON()` Docs: http://api.jquery.com/jquery.getjson/
+  + General `$.ajax()` Docs: http://api.jquery.com/jquery.ajax/.
+  + Specific `$.getJSON()` Docs: http://api.jquery.com/jquery.getjson/.
 
 D3:
 
-  + General `d3.request()` Docs: https://github.com/d3/d3-request/blob/master/README.md#api-reference
-  + Specific `d3.json()` Request Docs: https://github.com/d3/d3-request/blob/master/README.md#json
+  + General `d3.request()` Docs: https://github.com/d3/d3-request/blob/master/README.md#api-reference.
+  + Specific `d3.json()` Request Docs: https://github.com/d3/d3-request/blob/master/README.md#json.
 
 #### GET
 
