@@ -12,3 +12,9 @@
     + http://apple.stackexchange.com/a/213305/94120
     + https://www.cnet.com/how-to/record-your-computers-screen-with-audio-on-a-mac/
     + https://github.com/mattingalls/Soundflower/releases/tag/2.0b2
+
+## Node.js Projects, Walkthroughs, and Documentation
+
+  + https://github.com/s2t2/react-robots
+  + http://data-creative.info/series/node-js-for-rails-developers/
+  + http://data-creative.info/process-documentation/2015/07/18/how-to-set-up-a-mac-development-environment/
