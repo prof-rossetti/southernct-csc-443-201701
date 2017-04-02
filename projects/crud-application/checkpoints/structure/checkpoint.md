@@ -1,6 +1,6 @@
 # CRUD Application Checkpoint I: Structure
 
-Establish the preliminary  structure of your CRUD web application.
+Establish the preliminary structure of your CRUD web application.
 
 ## Objectives
 

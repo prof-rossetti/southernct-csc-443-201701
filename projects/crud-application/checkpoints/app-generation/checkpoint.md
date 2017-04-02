@@ -1,4 +1,4 @@
-# CRUD Application Checkpoint IV: Application-Generation
+# CRUD Application Checkpoint IV: Application Generation
 
 Generate a new Express application, configure it, and use a local web server to preview it in a browser.
 
