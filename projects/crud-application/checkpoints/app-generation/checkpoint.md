@@ -40,28 +40,23 @@ express my_app --view=ejs
 
 > Note: the `--view=ejs` option specifies our choice to use EJS as a view template engine instead of the default template engine, Jade. If you don't know what this means, don't worry about it!
 
-This command should create the following files:
+This command should create a directory named `my_app/` which contains the following files:
 
-    my_app
-    my_app/package.json
-    my_app/app.js
-    my_app/public
-    my_app/routes
-    my_app/routes/index.js
-    my_app/routes/users.js
-    my_app/views
-    my_app/views/index.ejs
-    my_app/views/error.ejs
-    my_app/bin
-    my_app/bin/www
-    my_app/public/javascripts
-    my_app/public/images
-    my_app/public/stylesheets
-    my_app/public/stylesheets/style.css
+    bin/www
+    public/javascripts
+    public/images
+    public/stylesheets
+    public/stylesheets/style.css
+    routes/index.js
+    routes/users.js
+    views/index.ejs
+    views/error.ejs
+    app.js
+    package.json
 
-Don't worry if you're unfamiliar with the location and purpose of each of these files. We will edit many of them in the future as we continue to build this application in future checkpoint exercises.
+Don't worry if you're unfamiliar with the location and purpose of each of these files. We will examine each at the appropriate time.
 
-Observe the `package.json` file. The application directory is an NPM project!
+Do take a moment to observe presence of the `package.json` file, which indicates this project is an NPM project. The project's root directory doesn't contain an `index.js` file, but which file do you think is the main entry-point into this NPM project?
 
 ### Install Package Dependencies
 
@@ -72,7 +67,7 @@ cd my_app
 npm install
 ````
 
-If you are using version control, remember to add `node_modules/` directory to your `.gitignore` file.
+If you are using version control, remember to add a `node_modules/` line to your `.gitignore` file.
 
 ### Run a Local Web Server
 
@@ -115,7 +110,7 @@ Modify the web server start script in `package.json` to invoke `nodemon` instead
 ...
 ````
 
-Take this opportunity to take a quick look at a file in this directory called `bin/www`. The code in this file defines the web server and tells it to start running on port 3000.
+Take this opportunity to take a quick look at the `bin/www` file. The code in this file defines the web server which runs on port 3000 the application logic defined in `app.js`.
 
 Restart the web server:
 
@@ -129,4 +124,4 @@ set DEBUG=myapp:* & npm start
 
 ![a web page served at localhost:3000 which has the heading "Express" and subheading "Welcome to Express"](express-app-default-homepage.png)
 
-Congratulations. You've just created a new web application and viewed it locally in a browser. Commit your changes to version control. The next step will be to configure and customize your application.
+Congratulations. You've just created a new web application and viewed it locally in a browser. Commit your changes to version control. The next step will be to setup the application's navigational structure.
