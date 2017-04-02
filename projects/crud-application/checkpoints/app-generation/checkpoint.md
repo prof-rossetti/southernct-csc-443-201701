@@ -1,10 +1,26 @@
-TBA - Generate a new express application, configure it, and use a local web server to preview it in a browser.
+# CRUD Application Checkpoint IV: Application-Generation
+
+Generate a new Express application, configure it, and use a local web server to preview it in a browser.
 
 Adapted from [source](http://data-creative.info/process-documentation/2016/04/09/node-for-rails-developers-part-2-node-and-express/).
 
-## Install Express
+## Objectives
 
-Use NPM to install a module called the [*Express Generator*](http://expressjs.com/en/starter/generator.html). This package includes the Express package, as well as a command-line utility called the Express Generator for generating new Express applications.
+  1. Practice installing and using third-party Node.js packages.
+  2. Gain exposure to using a third-party package to initialize a new Express application.
+  3. Gain familiarity with the directory structure and file contents of an Express application.
+  4. Practice running Node.js scripts from within an NPM project.
+
+## Prerequisites
+
+  1. [Server-side JavaScript Exercise](/exercises/server-side-javascript/exercise.md)
+  2. [Express Overview](/notes/javascript/express.md)
+
+## Instructions
+
+### Install Express
+
+Use NPM to install a module called the [Express Generator](http://expressjs.com/en/starter/generator.html). This package includes the Express package, as well as a command-line utility called the Express Generator for generating new Express applications.
 
 Install Express Generator globally:
 
@@ -12,77 +28,75 @@ Install Express Generator globally:
 npm install express-generator -g
 ````
 
-> NOTE: Passing the `-g` flag denotes a global installation. Global installations generally allow the module to be invoked from the command line.
+> Reminder: passing the `-g` flag denotes a global installation. Global installations generally allow the module to be invoked from the command line, even outside of a NPM project directory.
 
-## Generate an Express Application
+### Generate an Express Application
 
-Use the Express Generator to generate a skeleton directory structure for a new Express app called "my_app":
+Use the Express Generator to generate a skeleton directory structure for a new Express application, and name it something like "my_app":
 
 ```` sh
-express my_app --ejs
+express my_app --view=ejs
 ````
 
-> NOTE: The `--ejs` flag specifies our choice to use *EJS* as a view template engine instead of the default template engine, *Jade*.
+> Note: the `--view=ejs` option specifies our choice to use EJS as a view template engine instead of the default template engine, Jade. If you don't know what this means, don't worry about it!
 
 This command should create the following files:
 
     my_app
     my_app/package.json
     my_app/app.js
-    my_app/public/images
     my_app/public
     my_app/routes
     my_app/routes/index.js
     my_app/routes/users.js
-    my_app/public/stylesheets
-    my_app/public/stylesheets/style.css
     my_app/views
     my_app/views/index.ejs
     my_app/views/error.ejs
     my_app/bin
     my_app/bin/www
     my_app/public/javascripts
+    my_app/public/images
+    my_app/public/stylesheets
+    my_app/public/stylesheets/style.css
 
-Don't worry if you're unfamiliar with the location and purpose of each of these files.
+Don't worry if you're unfamiliar with the location and purpose of each of these files. We will edit many of them in the future as we continue to build this application in future checkpoint exercises.
+
+Observe the `package.json` file. The application directory is an NPM project!
 
 ### Install Package Dependencies
 
-The role of the `package.json` file is to declare package dependencies. Like the `Gemfile` in Ruby or the `requirements.txt` file in Python.
+Install package dependencies:
 
 ```` sh
 cd my_app
 npm install
 ````
 
-This command installs all NPM module dependencies specified in `package.json`. It creates a new directory called `node_modules/`, where it places the source code for all of these modules. Before committing our project to version control, we'll want to ignore the files in this directory.
+If you are using version control, remember to add `node_modules/` directory to your `.gitignore` file.
 
-Add a `.gitignore` file to the root of your project's directory, for example using the command line:
+### Run a Local Web Server
 
-```` sh
-touch .gitignore
-````
-
-Then update the contents of the `.gitignore` file to include the following:
+Run the default development web server:
 
 ```` sh
-node_modules/
-````
-
-## Running a Local Web Server
-
-Run the development web server.
-
-```` sh
+# Mac Terminal:
 DEBUG=my_app:* npm start
+
+# Windows Command Prompt:
+set DEBUG=myapp:* & npm start
 ````
 
-You should now be able to visit the application's home page in your browser at `localhost:3000`.
+You should now be able to visit the application's home page in your browser at `localhost:3000`. Go check it out:
+
+![a web page served at localhost:3000 which has the heading "Express" and subheading "Welcome to Express"](express-app-default-homepage.png)
 
 After demonstrating the ability to view the application locally in a browser, stop the web server by typing `ctrl-c`.
 
-## Upgrading Local Web Server
+Nice job. We would otherwise be done with this checkpoint, but before we go any further, let's install a different web server.
 
-One shortcoming of the default web server is that it requires us to restart the server each time we make a change to one of our application's files. During development, this happens a lot, so we'll want to upgrade our development web server. We can use a module called [Nodemon](______), which will automatically detect file changes and obviate our need to take manual action.
+### Upgrade Local Web Server
+
+One shortcoming of the default web server is that it requires us to restart the server each time we make a change to one of our application's files. During development, this happens a lot, so we'll want to upgrade our development web server. We can use a module called [Nodemon](https://nodemon.io/), which will automatically detect file changes and obviate our need to take manual action.
 
 Install Nodemon globally:
 
@@ -90,7 +104,7 @@ Install Nodemon globally:
 npm install nodemon -g
 ````
 
-Modify the web server start script in `package.json` to invoke `nodemon` instead of `node`:
+Modify the web server start script in `package.json` to invoke `nodemon` instead of `node` when running the server:
 
 ```` js
 // package.json
@@ -101,10 +115,18 @@ Modify the web server start script in `package.json` to invoke `nodemon` instead
 ...
 ````
 
+Take this opportunity to take a quick look at a file in this directory called `bin/www`. The code in this file defines the web server and tells it to start running on port 3000.
+
 Restart the web server:
 
 ```` sh
+# Mac Terminal:
 DEBUG=my_app:* npm start
+
+# Windows Command Prompt:
+set DEBUG=myapp:* & npm start
 ````
+
+![a web page served at localhost:3000 which has the heading "Express" and subheading "Welcome to Express"](express-app-default-homepage.png)
 
 Congratulations. You've just created a new web application and viewed it locally in a browser. Commit your changes to version control. The next step will be to configure and customize your application.

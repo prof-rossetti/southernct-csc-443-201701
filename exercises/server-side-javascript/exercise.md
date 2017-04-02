@@ -2,6 +2,13 @@
 
 Use NPM to create a new Node.js project, install a third-party open source JavaScript library, and execute a script which utilizes that library.
 
+## Objectives
+
+  1. Gain exposure to initializing a new NPM project.
+  2. Gain familiarity with the contents of a NPM project's `package.json` file.
+  3. Gain exposure to installing third-party open source NPM modules.
+  4. Gain exposure to running Node.js scripts.
+
 ## Prerequisites
 
   + [Node.js Overview](notes/javascript/node.md)
