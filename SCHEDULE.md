@@ -46,8 +46,8 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 12 | 2017-04-06 | Network Computing | SSH, Public/private key encryption | TBA - Access the Server Exercise
 12 | 2017-04-06 | Server-side Development Environment Setup | Node.js, Express.js, Heroku Toolbelt | N/A
 12 | 2017-04-06 | Web Application Generation | Node.js, Express.js | TBA
-13 | 2017-04-13 | The Production and Staging Environments | N/A | TBA
-13 | 2017-04-13 | Production Environment Setup | Node.js, Express.js, Heroku Toolbelt| TBA - Pushing to Production Exercise
+12 | 2017-04-06 | The Production and Staging Environments | N/A | TBA
+12 | 2017-04-06 | Production Environment Setup | Node.js, Express.js, Heroku Toolbelt| TBA - Pushing to Production Exercise
 13 | 2017-04-13 | Web Application Routing and Views | Node.js, Express.js | TBA - Application Navigation Exercise
 14 | 2017-04-20 | Web Application CRUD | HTTP, JavaScript, jQuery, D3.js | TBA - Listing and Showing Records Exercise, <br> Deleting Records Exercise
 15 | 2017-04-27 | Web Application CRUD (cont'd) | HTTP, JavaScript, jQuery, D3.js | TBA - Creating New Records Exercise, <br> Editing Records Exercise
@@ -68,5 +68,6 @@ N/A | 2017-04-30 | N/A | N/A | REST API (10% Extra Credit) optionally due by 11:
 
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
+16 | 2017-05-04 | Retrospective | N/A | N/A
 16 | 2017-05-04 | Portfolio Project Presentations | N/A | N/A
 17 | 2017-05-11 (7:30pm to 9:30pm) | Final Exam | N/A | Final Exam (20%)
