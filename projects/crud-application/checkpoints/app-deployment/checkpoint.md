@@ -7,8 +7,9 @@ Adapted from [source](http://data-creative.info/process-documentation/2016/04/09
 
 ## Objectives
 
-  1. Practice creating, managing, and deploying Heroku application servers.
-  2. Configure an Express web application to run on a "production environment" Heroku application server.
+  1. Create and manage a Heroku application server.
+  2. Configure an Express web application to run on a Heroku application server.
+  2. Deploy an application's source code to a production environment.
 
 ## Prerequisites
 

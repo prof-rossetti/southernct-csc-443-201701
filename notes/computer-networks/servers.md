@@ -11,12 +11,12 @@ Recall the responsibility of a server in client-server architecture is to respon
 
 ## Remote Servers (Cloud Computing)
 
-### Major Providers Of
+### Major Providers of
 
-  + [Amazon Web Services]()
-  + [Heroku]()
+  + [Amazon Web Services](https://aws.amazon.com/)
+  + [Heroku](https://www.heroku.com/)
 
-### Advantages of Remote Servers
+### Advantages of
 
   + Cost
   + Scalability
@@ -24,16 +24,14 @@ Recall the responsibility of a server in client-server architecture is to respon
   + Security
   + Usability
 
-Cost and scalability benefits are good reasons to prefer remote server providers like Heroku or Amazon Web Services (AWS) over buying your own server. First of all, servers cost a lot of money to buy. And they might not be the most straightforward to configure and administer. Whereas these remote server providers make efficient use of their physical hardware often by allowing mu
-
 ## Application Servers
 
 When we "deploy" an application to a server, we copy the application's source code onto the server. The server then runs the application just like we were running the application in development on our local machines.
 
-### Production
+### Deployment Environments
 
-TBA
-
-### Staging
-
-TBA
+Name | Description | Common Developer Tasks | Primary Audience | Level of Risk
+--- | --- | --- | ---
+Development | The computer, often a personal computer, on which you produce, develop, and test an application's source code. | Running a local web server, editing code in a text-editor, and running tests. | One or more individual members of the software development team. | Low
+Staging | The computer, often a remote server, onto which you deploy an application's source code to emulate as best as possible the production environment to get a sense for how code changes will affect the application running on the production environment. | Performing usability tests, monitoring server scalability and performance. | One or more collective members of the software development team. | Medium
+Production | The computer, often a remote server, onto which you deploy your application's source code for "live" usage. | Monitoring server logs. | Users, customers, and the public at large. | Very High
