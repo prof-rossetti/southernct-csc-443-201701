@@ -11,6 +11,7 @@ Configure your MongoDB development database and populate it with example data.
 
   + [REST API Checkpoint I: Serving Static Responses](/projects/rest-api/checkpoints/static-responses/checkpoint.md)
   + [MongoDB Overview](/notes/databases/mongodb/notes.md)
+  + [Mongoose Overview](/notes/javascript/mongoose.md)
 
 Verify MongoDB is installed and working:
 
