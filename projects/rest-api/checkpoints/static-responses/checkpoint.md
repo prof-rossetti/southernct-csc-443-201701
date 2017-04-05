@@ -1,8 +1,18 @@
-## REST API Checkpoint I: Serving Static Responses
+# REST API Checkpoint I: Serving Static Responses
 
 Generate a new Express application, deploy it to Heroku, then configure its routing to serve static responses at all of its GET request endpoints.
 
 Refer to the companion [GitHub repository](https://github.com/prof-rossetti/robots-api-express/) and [production Heroku application](https://southernct-443-robots-api.herokuapp.com/).
+
+## Objectives
+
+TBA
+
+## Prerequisites
+
+TBA
+
+## Instructions
 
 ### Application Generation
 
@@ -61,3 +71,15 @@ Time to configure routing to each of the API endpoints.
 Add new `DOCUMENTATION.md` file and describe GET request endpoints.
 
 Covert users router to a robots API router. Add links to the various endpoints from the index page for easy navigation. Serve static data at the GET request endpoints.
+
+Index Page:
+
+![A homepage with a welcome heading and some links to various API endpoints](index-page.png)
+
+List Robots API Endpoint:
+
+![A JSON response containing an array of robot objects.](list-robots-endpoint.png)
+
+Show Robot API Endpoint:
+
+![A JSON response containing a robot object.](show-robot-endpoint.png)
