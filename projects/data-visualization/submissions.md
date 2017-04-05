@@ -13,3 +13,4 @@ s2t2 | https://github.com/data-creative/us-gov-greenhouse-gas-emissions | http:/
 s2t2 | https://github.com/data-creative/us-state-legislature-compositions | http://data-creative.info/us-state-legislature-compositions/
 SahilMak | https://github.com/SahilMak/data-viz | http://www.sahilmak.tech/data-viz/
 ThisIsSovereign | https://github.com/ThisIsSovereign/datavisualization | https://thisissovereign.github.io/datavisualization/
+etc. | ... | ...
