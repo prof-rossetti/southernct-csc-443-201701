@@ -42,7 +42,7 @@ Push your Express application's source code to a Heroku application server.
 
 ### Document
 
-In the root directory of your project's repository, whether in the README.md file or another file called DOCUMENTATION.md, provide instructions for how clients should expect to interface with your API. Specifically list all of your API's URL endpoints, and for each describe what is supposed to happen when a client makes a request to that endpoint. Make sure to include the type of request they are supposed to make, and an example response they might expect to receive in return. For example:
+In the root directory of your project's repository, whether in the README.md file or another file called `DOCUMENTATION.md`, provide instructions for how clients should expect to interface with your API. Specifically list all of your API's URL endpoints, and for each describe what is supposed to happen when a client makes a request to that endpoint. Make sure to include the type of request they are supposed to make, and an example response they might expect to receive in return. For example:
 
 ```` md
 # API Documentation

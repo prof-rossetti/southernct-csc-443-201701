@@ -2,13 +2,6 @@
 
 Recall the responsibility of a server in client-server architecture is to respond to HTTP requests issued by the client.
 
-## Types of Servers
-
-  + Application Servers
-  + Database Servers
-  + Email Servers
-  + etc.
-
 ## Remote Servers (Cloud Computing)
 
 ### Major Providers of
@@ -24,11 +17,18 @@ Recall the responsibility of a server in client-server architecture is to respon
   + Security
   + Usability
 
-## Application Servers
+## Types of Servers
+
+  + Application Servers
+  + Database Servers
+  + Email Servers
+  + etc.
+
+### Application Servers
 
 When we "deploy" an application to a server, we copy the application's source code onto the server. The server then runs the application just like we were running the application in development on our local machines.
 
-### Deployment Environments
+#### Deployment Environments
 
 Name | Description | Common Developer Tasks | Primary Audience | Level of Risk
 --- | --- | --- | ---
