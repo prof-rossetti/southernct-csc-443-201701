@@ -4,6 +4,7 @@ This document contains a list of student website submissions. The list should be
 
 GitHub Username | Repository Link | Project Link
 --- | --- | ---
+jestores7 | https://github.com/jestores7/dataVisProject | https://jestores7.github.io/dataVisProject/
 s2t2 | https://github.com/s2t2/checkerboard | http://s2t2.github.io/checkerboard/
 s2t2 | https://github.com/s2t2/lsat-curve | http://s2t2.github.io/lsat-curve/
 s2t2 | https://github.com/data-creative/law-school-outcomes-dataviz/ | http://data-creative.info/law-school-outcomes-dataviz/
