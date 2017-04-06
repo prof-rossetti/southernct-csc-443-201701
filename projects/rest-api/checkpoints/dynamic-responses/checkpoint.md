@@ -112,4 +112,4 @@ git push heroku master
 heroku open
 ````
 
-Test out your GET request endpoints in production. The API is serving appropriate responses for all GET request endpoints! Be proud because this is a major accomplishment. 
+Test out your GET request endpoints in production. The API is serving appropriate responses for all GET request endpoints! Be proud because this is a major accomplishment.
