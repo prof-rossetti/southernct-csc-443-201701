@@ -4,5 +4,5 @@ This document contains a list of REST API project submissions. The list should b
 
 **GitHub Username** | **Repository Link** | **Project Link**
 --- | --- | ---
-user1 | https://github.com/user1/some-repo | https://some-app-name.herokuapp.com/
+s2t2 | https://github.com/prof-rossetti/robots-api-express/ | https://southernct-443-robots-api.herokuapp.com/
 etc. | ... | ...

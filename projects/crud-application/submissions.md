@@ -4,5 +4,5 @@ This document contains a list of CRUD Application project submissions. The list 
 
 **GitHub Username** | **Repository Link** | **Project Link**
 --- | --- | ---
-user1 | https://github.com/user1/some-repo | https://some-app-name.herokuapp.com/
+s2t2 | https://github.com/prof-rossetti/robots-api-client-express | https://desolate-hollows-92771.herokuapp.com/
 etc. | ... | ...
