@@ -1,27 +1,36 @@
 # CRUD Application
 
-You have been contracted to build a web application for a business that manufactures and sells robots. The business needs the application to keep track of their inventory of robots. They need to be able to add new robots to their inventory, view information about existing robots, edit information about existing robots, and remove existing robots from the inventory. They also need to be able to keep track of how many of each type of robot are available in their inventory at any given time.
+You are part of a development team that has been contracted to build a web application for a business that manufactures and sells robots. The business needs the application to keep track of their inventory of robots. They need to be able to add new robots to their inventory, view information about existing robots, edit information about existing robots, and remove existing robots from the inventory. They also need to be able to keep track of how many of each type of robot are available in their inventory at any given time. Ideally, they'd also like to be able to use the application to process orders and update their inventory accordingly.
 
-As a member of your development team, the professor has already finished designing and developing a database to store all this information. The professor has also developed a RESTful JSON API to help you interface with the database. The professor has published the web service in production at _____ and has provided API documentation at __________.
+As a senior member of your development team, the professor has already finished designing and developing a database to store all this information. The professor has also developed a RESTful JSON API to help you interface with the database. The professor has published the web service in production at https://southernct-443-robots-api.herokuapp.com/ and has provided API documentation at https://github.com/prof-rossetti/robots-api-express/blob/master/DOCUMENTATION.md.
 
-Your job is to create a front-end web application to allow users within the company to interface with the back-end web service.
+Your job is to create a front-end web application to allow users within the company to interface with the back-end web service to perform all desired tasks. Don't worry about user authentication, which is outside the scope of this project.
 
 ![a screencast depicting usage of a CRUD application. the application displays a table of records. an individual record is displayed in detail when clicked. buttons are clicked and forms are submitted to create new records and edit records. buttons are pressed to delete records and restore the entire set of original records.](demo.gif)
 
+Your application should be built using Node.js and the Express web application framework. It should be hosted in production on a Heroku application server.
+
 ## Instructions
 
-The first three checkpoint exercises listed below helped you prepare the application's style, structure and interactivity for future development. Now it's time to use Node.js to actually build the CRUD application. For detailed instructions, refer to the following checkpoint exercises:
+The first three checkpoint exercises helped you prepare the application's style, structure and interactivity for future development:
 
-  + [Checkpoint IV - Generation](_______)
-  + [Checkpoint V - Hosting](________)
-  + [Checkpoint VI - Navigation and Routing](________)
-  + [Checkpoint VII - Listing and Showing Records](________)
-  + [Checkpoint VIII - Listing and Showing Records](________)
-  + [Checkpoint IX - Listing and Showing Records](________)
+  + [Checkpoint I - Structure](/projects/crud-application/checkpoints/structure/checkpoint.md)
+  + [Checkpoint II - Style](/projects/crud-application/checkpoints/style/checkpoint.md)
+  + [Checkpoint III - Interactivity](/projects/crud-application/checkpoints/interactivity/checkpoint.md)
+
+Now it's time to actually build the CRUD application. For detailed instructions, refer to the following checkpoint exercises:
+
+  + [Checkpoint IV - Application Generation](projects/crud-application/checkpoints/app-generation/checkpoint.md)
+  + [Checkpoint V - Application Deployment](projects/crud-application/checkpoints/app-deployment/checkpoint.md)
+  + [Checkpoint VI - Application Navigation and Routing)](/projects/crud-application/checkpoints/app-navigation/checkpoint.md)
+  + [Checkpoint VII - Application CRUD (Reading Records)](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
+  + [Checkpoint VIII - Application CRUD (Creating, Updating, and Destroying Records)](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
+
+If you have completed the first three checkpoint exercises, feel free to use your work to help you more quickly and easily complete the remaining checkpoint exercises. If you have not completed the first three checkpoint exercises, you are advised to only focus on the remaining checkpoint exercises, which might take a little longer to complete as a result.
 
 ## Submission Instructions
 
-When your application is ready for evaluation, add its identifying information, including your GitHub username, a link to your app's repository, and a link to your hosted appplication, to the [submissions list](submissions.md). Use the following workflow to accomplish this:
+When your application is ready for evaluation, add its identifying information, including your GitHub username, a link to your app's repository, and a link to your hosted application, to the [submissions list](submissions.md). Use the following workflow to accomplish this:
 
   1. Fork [this repository](https://github.com/SCSU-CSC-Department/201701-csc-443-01/) to your own account.
   2. Edit the submissions list in your forked repo via the online editor, or by downloading your forked repo, making local commits, and pushing them back up to GitHub.
@@ -33,45 +42,37 @@ Also be prepared to deliver a 5-10 minute presentation to demonstrate usage of y
 
 ## Evaluation Criteria
 
-Your data visualization will be evaluated according to the following criteria:
+Your CRUD Application will be evaluated according to the following criteria:
 
 criteria | weight
 --- | ---
-Planning | 15%
-Implementation | 60%
+Implementation | 75%
 Peer Evaluation | 25%
 
 Partial credit may be given to highlight areas of improvement.
-
-### Planning Evaluation
-
-TBA
 
 ### Implementation Evaluation
 
 Your CRUD Application implementation will be evaluated based on its demonstrated ability to meet all of the following criteria:
 
   1. Is hosted on the Internet and publicly accessible.
-  2. Is built using an application framework that incorporates view templates to eliminate or minimize duplication of front-end HTML code.
-  3. Contains clear, concise, and engaging content free of typographical or grammatical mistakes.
-  4. Usable design free of usability quirks or bugs.
-  5. Allows the user to navigate between at least all of the following pages:
-    + `index.html`
-    + `robots/index.html`
-    + `robots/show.html`
-    + `robots/new.html`
-  6. Allows the user to perform the following actions:
-    + View all robots (List)
-    + View a single object (Show)
-    + Delete a single object (Delete)
-    + Edit a single object (Edit)
-    + Create a new object (New)
-  7. Enables CRUD operations by interfacing with the provided back-end web service in all of the following ways:
-    + Issues GET requests for all objects (Read)
-    + Issues GET requests for a single object (Read)
-    + Issues POST requests to delete a single object (Destroy)
-    + Issues POST requests to create a single object (Create)
-    + Issues POST requests to update a single object (Update)
+  1. Contains clear, concise, and engaging content free of typographical or grammatical mistakes.
+  1. Usable design free of usability quirks or bugs.
+  1. Is built using Node.js and Express.js.
+  1. Incorporates/ "includes" at least one view template (EJS or otherwise) to minimize duplication of front-end HTML code.
+  1. Enables front-end navigation between at least all of the following pages:
+    + Home Page (`index.html`)
+    + Robots Index Page (`robots/index.html`)
+    + Robot Show Page (`robots/show.html`)
+    + New Robot Page (`robots/new.html`)
+    + New Order Page (`orders/new.html`) -- optional extra credit
+  1. Interfaces with the provided web service to perform the following CRUD operations:
+    + View all robots (List/Index)
+    + View a given robot (Show)
+    + Delete a given robot (Destroy)
+    + Edit a given robot (Update)
+    + Create a new robot (Create)
+    + List all orders and create a new order -- optional extra credit
 
 #### Peer Evaluation
 

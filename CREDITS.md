@@ -18,3 +18,4 @@
   + https://github.com/s2t2/react-robots
   + http://data-creative.info/series/node-js-for-rails-developers/
   + http://data-creative.info/process-documentation/2015/07/18/how-to-set-up-a-mac-development-environment/
+  + https://github.com/data-creative/express-on-rails-starter-app/blob/mongo-deploy
