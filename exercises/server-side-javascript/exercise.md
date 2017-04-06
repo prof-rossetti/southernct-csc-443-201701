@@ -104,7 +104,7 @@ npm install d3 --save
 
 Take a look at the project's `package.json` file, and observe it now contains a corresponding entry in the "dependencies" section.
 
-Take a look at the project's `node_modules` directory, and observe it now contains a number of d3-related libraries.
+Take a look at the project's `node_modules` directory, and observe it now contains a number of D3-related libraries.
 
 If you are tracking your project in version control and haven't yet added the `node_modules` directory into your `.gitignore` file, now is a great time to do so, to prevent those D3 libraries from being committed and bloating the size of your project's Git repository.
 

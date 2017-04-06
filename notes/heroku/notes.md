@@ -28,6 +28,7 @@ Installation Guide:  https://devcenter.heroku.com/articles/heroku-cli#download-a
 which heroku
 #> /usr/local/bin/heroku (Mac example)
 ````
+
 ## Authentication
 
 After installing Heroku Toolbelt, authenticate using your Heroku account credentials:
@@ -50,10 +51,10 @@ List applications:
 heroku apps
 ````
 
-Create a Heroku application server:
+Create a Heroku application server (ideally from within the root directory of an existing project):
 
 ```` sh
-heroku create # optionally specify a name: heroku create my-app-name
+heroku create # or optionally specify a name, like: heroku create my-app-name
 ````
 
 Deploy the application's source code to the application server:
