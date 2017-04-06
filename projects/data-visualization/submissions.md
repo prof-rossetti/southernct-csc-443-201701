@@ -3,6 +3,7 @@
 This document contains a list of student website submissions. The list should be sorted by GitHub Username in ascending alphabetical order.
 
 GitHub Username | Repository Link | Project Link
+--- | --- | ---
 jestores7 | https://github.com/jestores7/dataVisProject | https://jestores7.github.io/dataVisProject/
 moucira1 | https://github.com/moucira1/dataVisProject.git | https://moucira1.github.io/dataVisProject/ 
 qamaralsalihi | https://github.com/qamaralsalihi/data-vis | https://qamaralsalihi.github.io/data-vis/
