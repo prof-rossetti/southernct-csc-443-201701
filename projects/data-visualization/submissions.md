@@ -5,4 +5,6 @@ This document contains a list of student website submissions. The list should be
 GitHub Username | Repository Link | Project Link
 --- | --- | ---
 username1 | https://github.com/data-creative/us-state-legislature-compositions | http://data-creative.info/us-state-legislature-compositions/
+
+JusMReid | https://github.com/JusMReid/myDataViz | https://jusmreid.github.io/myDataViz/
 etc. | ... | ...
