@@ -4,6 +4,7 @@ This document contains a list of student website submissions. The list should be
 
 GitHub Username | Repository Link | Project Link
 --- | --- | ---
+jessieMB | https://github.com/JessieMB/data-visualization | jessiemb.github.io/data-visualization/index.html
 jestores7 | https://github.com/jestores7/dataVisProject | https://jestores7.github.io/dataVisProject/
 jlragr | https://github.com/jlragr/Data-Visualization | https://jlragr.github.io/Data-Visualization/
 MarkAnderson10 | https://github.com/MarkAnderson10/Dataviz | https://markanderson10.github.io/Dataviz/
