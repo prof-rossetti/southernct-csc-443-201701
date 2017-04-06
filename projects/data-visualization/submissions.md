@@ -7,6 +7,7 @@ GitHub Username | Repository Link | Project Link
 jessieMB | https://github.com/JessieMB/data-visualization | jessiemb.github.io/data-visualization/index.html
 jestores7 | https://github.com/jestores7/dataVisProject | https://jestores7.github.io/dataVisProject/
 jlragr | https://github.com/jlragr/Data-Visualization | https://jlragr.github.io/Data-Visualization/
+JusMReid | https://github.com/JusMReid/myDataViz | https://jusmreid.github.io/myDataViz/
 kshaham | https://github.com/kshaham/DataViz | https://kshaham.github.io/DataViz/
 lukeberglund | https://github.com/lukeberglund/Data-Viz-Project | https://lukeberglund.github.io/Data-Viz-Project/
 MarkAnderson10 | https://github.com/MarkAnderson10/Dataviz | https://markanderson10.github.io/Dataviz/
