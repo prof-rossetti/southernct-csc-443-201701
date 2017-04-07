@@ -20,8 +20,8 @@ The first three checkpoint exercises helped you prepare the application's style,
 
 Now it's time to actually build the CRUD application. For detailed instructions, refer to the following checkpoint exercises:
 
-  + [Checkpoint IV - Application Generation](projects/crud-application/checkpoints/app-generation/checkpoint.md)
-  + [Checkpoint V - Application Deployment](projects/crud-application/checkpoints/app-deployment/checkpoint.md)
+  + [Checkpoint IV - Application Generation](/projects/crud-application/checkpoints/app-generation/checkpoint.md)
+  + [Checkpoint V - Application Deployment](/projects/crud-application/checkpoints/app-deployment/checkpoint.md)
   + [Checkpoint VI - Application Navigation and Routing)](/projects/crud-application/checkpoints/app-navigation/checkpoint.md)
   + [Checkpoint VII - Application CRUD (Reading Records)](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
   + [Checkpoint VIII - Application CRUD (Creating, Updating, and Destroying Records)](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
