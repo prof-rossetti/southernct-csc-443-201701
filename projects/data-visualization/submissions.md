@@ -10,6 +10,7 @@ jlragr | https://github.com/jlragr/Data-Visualization | https://jlragr.github.io
 JusMReid | https://github.com/JusMReid/myDataViz | https://jusmreid.github.io/myDataViz/
 kshaham | https://github.com/kshaham/DataViz | https://kshaham.github.io/DataViz/
 lukeberglund | https://github.com/lukeberglund/Data-Viz-Project | https://lukeberglund.github.io/Data-Viz-Project/
+kakradetome | https://github.com/kakradetome/dataViz | https://kakradetome.github.io/dataViz/
 MarkAnderson10 | https://github.com/MarkAnderson10/Dataviz | https://markanderson10.github.io/Dataviz/
 mohdm1 | https://github.com/mohdm1/data-visualization | https://mohdm1.github.io/data-visualization/
 moucira1 | https://github.com/moucira1/dataVisProject.git | https://moucira1.github.io/dataVisProject/ 
