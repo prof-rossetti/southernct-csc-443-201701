@@ -77,7 +77,7 @@ First, edit your `package.json` file by registering a new "script". Your updated
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1", // don't forget this comma
-    "go-go-go": "npm index.js" // this is the new line we added
+    "go-go-go": "node index.js" // this is the new line we added
   },
   "author": "",
   "license": "ISC"
