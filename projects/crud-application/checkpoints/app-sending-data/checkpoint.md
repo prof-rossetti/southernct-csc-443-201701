@@ -10,4 +10,8 @@ TBA
 
 ## Instructions
 
-TBA
+Follow these request-specific guides in order:
+
+  + [Creating Records](creating-records.md)
+  + [Destroying Records](destroying-records.md)
+  + [Updating Records](updating-records.md)

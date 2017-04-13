@@ -27,6 +27,8 @@ jQuery:
 
   + General `$.ajax()` Docs: http://api.jquery.com/jquery.ajax/.
   + Specific `$.getJSON()` Docs: http://api.jquery.com/jquery.getjson/.
+  + Specific `$.post()` Docs: https://api.jquery.com/jquery.post/.
+  + Parsing responses: https://api.jquery.com/jQuery.ajax/#jqXHR.
 
 D3:
 
@@ -35,11 +37,9 @@ D3:
 
 #### GET
 
-```` js
-//
-// Vanilla JavaScript
-//
+Using vanilla JavaScript:
 
+```` js
 var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
 
 fetch(url)
@@ -57,11 +57,9 @@ fetch(url)
   }) // handle errors
 ````
 
-```` js
-//
-// jQuery
-//
+Using jQuery:
 
+```` js
 var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
 
 $.getJSON(url, function(json) {
@@ -70,11 +68,9 @@ $.getJSON(url, function(json) {
 });
 ````
 
-```` js
-//
-// D3
-//
+Using D3:
 
+```` js
 var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
 
 d3.json(url, function(json){
@@ -86,16 +82,61 @@ d3.json(url, function(json){
 
 #### POST
 
-TBA
+Using vanilla JavaScript:
 
 ```` js
-// TBA - fetch()
+var requestUrl = "https://southernct-443-robots-api.herokuapp.com/api/robots"
+var formData = {name: "New Bot", description: "Does all the things."}
+var requestOptions = {
+  method: formMethod,
+  headers: {'Accept':'application/json', 'Content-Type':'application/json'},
+  body: JSON.stringify(formData)
+}
+
+fetch(requestUrl, requestOptions)
+  .then(function(response) {
+    if (response.ok) { // check response status and proceed accordingly
+      response.json()
+        .then(function(json){
+          // HANDLE RESPONSE DATA HERE
+        })
+    } else {
+      // HANDLE RESPONSE ERRORS HERE
+    }
+  })
+  .catch(function(err){
+    // HANDLE FETCH ERRORS HERE
+  })
 ````
 
-```` js
-// TBA -  $.ajax()
-````
+Using jQuery:
 
 ```` js
-// TBA - d3.request()
+var requestUrl = "https://southernct-443-robots-api.herokuapp.com/api/robots"
+var formData = {name: "New Bot", description: "Does all the things."}
+
+$.post(requestUrl, formData)
+  .done(function(data, textStatus, xhr) {
+    // HANDLE RESPONSE HERE
+  })
+  .fail(function(xhr, textStatus, errorThrown){
+    // HANDLE ERRORS HERE
+  })
+
+````
+
+Using D3:
+
+```` js
+d3.request(requestUrl)
+  .header("Accept", "application/json")
+  .header("Content-Type", "application/json")
+  .on("error", function(error) {
+    // HANDLE ERRORS HERE
+  })
+  .on("load", function(xhr) {
+    // HANDLE RESPONSE HERE
+  })
+  .send("POST", JSON.stringify(formData))
+
 ````
