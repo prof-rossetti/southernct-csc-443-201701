@@ -1,4 +1,4 @@
-## REST API Checkpoint II: Seeding the Database
+# REST API Checkpoint II: Seeding the Database
 
 Configure your MongoDB development database and populate it with example data.
 

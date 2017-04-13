@@ -56,14 +56,11 @@ N/A | 2017-05-03 | N/A | N/A | CRUD App Peer Evaluations (5%) due by 11:59pm
 
 ### REST API (Optional)
 
-TBA
-
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
-N/A | N/A | Development Database Setup | MongoDB or PostgreSQL | TBA - Development Database Exercise
-N/A | N/A | Database Seeds | Node.js, Database Connection Interface (Mongoose.js or Knex.js) | TBA - Seeding the Database Exercise
-N/A | N/A | Database Queries | Node.js, Express.js, Database Connection Interface (Mongoose.js or Knex.js) | TBA - Querying the Database Exercise
-N/A | N/A | REST-ful JSON API | Node.js, Express.js, Database Connection Interface (Mongoose.js or Knex.js) | TBA - REST Overview, Responding to Requests Exercise
+N/A | N/A | Development Database Setup | Node.js, Mongoose.js | [REST API Checkpoint I: Seeding the Database](/projects/rest-api/checkpoints/database-seeding/checkpoint.md)
+N/A | N/A | Processing GET Requests | Node.js, Express.js, Mongoose.js | [REST API Checkpoint II: Serving Static Responses](/projects/rest-api/checkpoints/static-responses/checkpoint.md), <br> [REST API Checkpoint III: Serving Dynamic Responses](/projects/rest-api/checkpoints/dynamic-responses/checkpoint.md)
+N/A | N/A | Processing Data Requests | Node.js, Express.js, Mongoose.js | [REST API Checkpoint IV: Processing Data Requests](/projects/rest-api/checkpoints/receiving-data/checkpoint.md)
 N/A | 2017-04-30 | N/A | N/A | REST API (10% Extra Credit) optionally due by 11:59pm
 
 ## Finale

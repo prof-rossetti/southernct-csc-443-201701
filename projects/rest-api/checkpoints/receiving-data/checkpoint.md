@@ -1,5 +1,19 @@
+## REST API Checkpoint VI - Creating, Updating, and Destroying Records
 
+## Objectives
 
-TBA - Handle POST requests to create a new record.
+  1. Gain exposure to using Express to handle cross-origin requests.
+  2. Gain exposure to using Express to process POST, PATCH, and DELETE requests.
+  3. Practice responding to requests using the proper response status.
 
-Reference code changes from [this Pull Request](#________).
+## Prerequisites
+
+  1. [REST API Checkpoint III - Serving Dynamic Responses  Records](/projects/rest-api/checkpoints/dynamic-responses/checkpoint.md)
+
+## Instructions
+
+Follow these request-specific guides in order:
+
+  + [Creating Records](creating-records.md)
+  + [Destroying Records](destroying-records.md)
+  + [Updating Records](updating-records.md)
