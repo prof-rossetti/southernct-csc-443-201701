@@ -2,6 +2,10 @@
 
 Save and share your documents using the [Git](https://git-scm.com/) version control system.
 
+## Prerequisites
+
+  1. [Git Overview](/notes/git/notes.md)
+
 ## Objectives
 
   1. Familiarize yourself with fundamental concepts of document version control.
