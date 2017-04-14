@@ -22,4 +22,4 @@ Getting Started Guides:
 
 Within the context of this course, there will be no need to attempt to create and configure your own Express application from scratch. Instead, we will use the Express Generator NPM package to generate a new express application for us.
 
-When used to generate an Express application, the Express Generator provides a web application framework roughly analogous to other web application frameworks like [Django](https://www.djangoproject.com/) (Python) and [Ruby on Rails](http://rubyonrails.org/) (Ruby).
+When used to generate an Express application, the Express Generator provides a web application framework roughly analogous to other web application frameworks like [Django](https://www.djangoproject.com/) (Python) and [Ruby on Rails](http://rubyonrails.org/) (Ruby), except not necessarily involving the database connections that those other frameworks provide.
