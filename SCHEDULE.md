@@ -45,11 +45,11 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
 12 | 2017-04-06 | Server-side Development Environment Setup | Node.js, Express.js, Heroku Toolbelt | [Node.js Overview](/notes/javascript/node.md), <br> [Node Package Management Overview](/notes/javascript/npm.md), <br> [Server-side JavaScript Exercise](/exercises/server-side-javascript/exercise.md)
 12 | 2017-04-06 | Web Application Generation | Node.js, Express.js | [Express Overview](/notes/javascript/express.md), <br> [CRUD App Checkpoint IV - Generation](projects/crud-application/checkpoints/app-generation/checkpoint.md)
-12 | 2017-04-06 | Web Application Hosting | Node.js, Express.js, Heroku Toolbelt | [Servers Overview](/notes/computer-networks/servers.md), <br> [Heroku Overview](/notes/heroku/notes.md), <br> [CRUD App Checkpoint V - Deployment](projects/crud-application/checkpoints/app-deployment/checkpoint.md)
 12 | 2017-04-06 | Web Application Routing and Views | Node.js, Express.js | [CRUD App Checkpoint VI - Navigation and Routing](/projects/crud-application/checkpoints/app-navigation/checkpoint.md)
-13 | 2017-04-13 | Web Application CRUD | HTTP, JavaScript, jQuery, D3.js | [REST Architecture Overview](/notes/computer-networks/rest-architecture.md), <br> [CRUD App Checkpoint VII - Reading Records](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
+13 | 2017-04-13 | Web Application Hosting | Node.js, Express.js, Heroku Toolbelt | [Servers Overview](/notes/computer-networks/servers.md), <br> [Heroku Overview](/notes/heroku/notes.md), <br> [CRUD App Checkpoint V - Deployment](projects/crud-application/checkpoints/app-deployment/checkpoint.md)
+14 | 2017-04-20 | Web Application CRUD | HTTP, JavaScript, jQuery, D3.js | [REST Architecture Overview](/notes/computer-networks/rest-architecture.md), <br> [CRUD App Checkpoint VII - Reading Records](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
 14 | 2017-04-20 | Sending Data | HTTP, JavaScript, jQuery, D3.js | [HTTP Request Methods](/notes/computer-networks/http-request-methods.md) (focusing on POST)
-14 | 2017-04-20 | Web Application CRUD (cont'd) | HTTP, JavaScript, jQuery, D3.js | [CRUD App Checkpoint VIII - Creating, Updating, and Destroying Records](/projects/crud-application/checkpoints/app-sending-data/checkpoint.md)
+15 | 2017-04-27 | Web Application CRUD (cont'd) | HTTP, JavaScript, jQuery, D3.js | [CRUD App Checkpoint VIII - Creating, Updating, and Destroying Records](/projects/crud-application/checkpoints/app-sending-data/checkpoint.md)
 15 | 2017-04-27 | CRUD Application Project Support Session | N/A | N/A
 N/A | 2017-04-30 | N/A | N/A | CRUD App (25%) due by 11:59pm
 N/A | 2017-05-03 | N/A | N/A | CRUD App Peer Evaluations (5%) due by 11:59pm

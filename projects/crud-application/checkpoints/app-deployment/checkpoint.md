@@ -1,7 +1,9 @@
 
 # CRUD Application Checkpoint V: Application Deployment
 
-Deploy your web application to a production environment where it is publicly accessible on the Internet.
+Deploy your web application to a production environment where it is publicly accessible on the Internet. Also deploy it to a remote repository for the source code to be publicly viewable.
+
+![a whiteboard diagram depicting arrows from the local development environment to two different cloud-shaped items representing the remote repository and the remote server](deployment-environments.png)
 
 Adapted from [source](http://data-creative.info/process-documentation/2016/04/09/node-for-rails-developers-part-2-node-and-express/).
 
@@ -9,22 +11,49 @@ Adapted from [source](http://data-creative.info/process-documentation/2016/04/09
 
   1. Create and manage a Heroku application server.
   2. Configure an Express web application to run on a Heroku application server.
-  2. Deploy an application's source code to a production environment.
+  3. Deploy an application's source code to a production environment.
+  4. Deploy an application's source code to a remote repository.
 
 ## Prerequisites
 
   1. [CRUD Application Checkpoint IV: Application Generation](/projects/crud-application/checkpoints/app-generation/checkpoint.md)
-  2. [Servers Overview](/notes/computer-networks/servers.md)
-  3. [Heroku Overview](/notes/heroku/notes.md)
+  2. [Git Overview](/notes/git/notes.md)
+  3. [Servers Overview](/notes/computer-networks/servers.md)
+  4. [Heroku Overview](/notes/heroku/notes.md)
 
 ## Instructions
 
-Ensure you have initialized a Git repository in the root directory of your Express application, committed your changes, and pushed them to a remote repository.
+Navigate to the root directory of your Express application (unless you're already there):
+
+```` sh
+pwd
+cd my_app/
+````
+
+### Push Code to Remote Repository
+
+If you have not yet done so, initialize a Git repository in the root directory of your Express application, and commit your changes to the local repository:
+
+```` sh
+git init . # one time only, to setup this repo
+git status
+git diff
+git add .
+git commit -m "Prepare to deploy"
+````
+
+If you have not yet done so, push your local changes to the remote repository:
+
+```` sh
+git pull origin master # you might have to run this with --allow-unrelated-histories (see the Git overview for more information)
+git push origin master
+````
+
+### Push Source Code to Remote Server
 
 Create a new Heroku application inside the root directory of your Express application:
 
 ```` sh
-cd my_app/ # navigate to the root directory of your Express application unless you're already there
 heroku create # initialize a new Heroku application in this directory
 ````
 
