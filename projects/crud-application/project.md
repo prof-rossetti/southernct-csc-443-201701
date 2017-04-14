@@ -2,11 +2,13 @@
 
 You are part of a development team that has been contracted to build a web application for a business that manufactures and sells robots. The business needs the application to keep track of their inventory of robots. They need to be able to add new robots to their inventory, view information about existing robots, edit information about existing robots, and remove existing robots from the inventory. They also need to be able to keep track of how many of each type of robot are available in their inventory at any given time. Ideally, they'd also like to be able to use the application to process orders and update their inventory accordingly.
 
+![a screencast depicting usage of a CRUD application. the application displays a table of records. an individual record is displayed in detail when clicked. buttons are clicked and forms are submitted to create new records and edit records. buttons are pressed to delete records and restore the entire set of original records.](demo.gif)
+
 As a senior member of your development team, the professor has already finished designing and developing a database to store all this information. The professor has also developed a RESTful JSON API to help you interface with the database. The professor has published the web service in production at https://southernct-443-robots-api.herokuapp.com/ and has provided API documentation at https://github.com/prof-rossetti/robots-api-express/blob/master/DOCUMENTATION.md.
 
 Your job is to create a front-end web application to allow users within the company to interface with the back-end web service to perform all desired tasks. Don't worry about user authentication, which is outside the scope of this project.
 
-![a screencast depicting usage of a CRUD application. the application displays a table of records. an individual record is displayed in detail when clicked. buttons are clicked and forms are submitted to create new records and edit records. buttons are pressed to delete records and restore the entire set of original records.](demo.gif)
+![a whiteboard depicting a user interfacing with a client application and that client application interfacing with the back-end web service](/projects/crud-application/checkpoints/app-deployment/client-server-architecture-diagram.png)
 
 Your application should be built using Node.js and the Express web application framework. It should be hosted in production on a Heroku application server.
 
@@ -61,18 +63,20 @@ Your CRUD Application implementation will be evaluated based on its demonstrated
   1. Is built using Node.js and Express.js.
   1. Incorporates/ "includes" at least one view template (EJS or otherwise) to minimize duplication of front-end HTML code.
   1. Enables front-end navigation between at least all of the following pages:
-    + Home Page (`index.html`)
-    + Robots Index Page (`robots/index.html`)
-    + Robot Show Page (`robots/show.html`)
-    + New Robot Page (`robots/new.html`)
-    + New Order Page (`orders/new.html`) -- optional extra credit
+    + Home Page (`/index`)
+    + Robots Index Page (`/robots/index`)
+    + Robot Show Page (`/robots/show`)
+    + New Robot Page (`/robots/new`)
+    + Orders Index Page (`/orders/index`) -- optional extra credit
+    + New Order Page (`/orders/new`) -- optional extra credit
   1. Interfaces with the provided web service to perform the following CRUD operations:
     + View all robots (List/Index)
     + View a given robot (Show)
     + Delete a given robot (Destroy)
     + Edit a given robot (Update)
     + Create a new robot (Create)
-    + List all orders and create a new order -- optional extra credit
+    + View all orders (List/Index) -- optional extra credit
+    + Create a new order (Create) -- optional extra credit
 
 #### Peer Evaluation
 
