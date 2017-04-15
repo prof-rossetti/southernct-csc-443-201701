@@ -11,8 +11,8 @@ Use NPM to create a new Node.js project, install a third-party open source JavaS
 
 ## Prerequisites
 
-  + [Node.js Overview](notes/javascript/node.md)
-  + [Node Package Management Overview](notes/javascript/npm.md)
+  + [Node.js Overview](/notes/javascript/node.md)
+  + [Node Package Management Overview](/notes/javascript/npm.md)
 
 ## Instructions
 
