@@ -24,12 +24,14 @@ See [JavaScript AJAX Notes](/notes/javascript/ajax.md) for examples of how to ma
 
 #### POST
 
-Send data to some URL. When you make a POST request, you need to send along the data in the body of the request.
+Send data to some URL. When you make a POST request, you need to send along the data in the body of the request. There are many ways to do this.
 
 Using the command line:
 
 ```` sh
-# TBA - curl example
+curl --data "name=testBot&description=testingTesting" https://southernct-443-robots-api.herokuapp.com/api/robots
+# ... OR ...
+curl -H "Content-Type: application/json" -X POST --data '{"name":"Test Bot", "description":"Posted via cURL."}' https://southernct-443-robots-api.herokuapp.com/api/robots
 ````
 
 See [JavaScript AJAX Notes](/notes/javascript/ajax.md) for examples of how to make a POST request using JavaScript.

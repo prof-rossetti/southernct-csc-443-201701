@@ -26,6 +26,8 @@ node -v
 
 If Node isn't already installed on your computer, you need to install it. There are two general ways to install Node. The first is by simply installing a specific version. The second is by installing a version manager and using that to install a specific version. The latter strategy, while potentially more complex, provides the ability to install new versions and switch between versions with ease. Using version managers is a software development best practice.
 
+> NOTE: Some students have reported issues installing and using the version manager. If the version manager isn't working for you, alternatively install Node.js from https://nodejs.org/en/download/.
+
 #### Node Version Manager (Mac)
 
 Install the [Node Version Manager for Mac](https://github.com/creationix/nvm):

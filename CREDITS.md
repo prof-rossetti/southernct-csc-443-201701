@@ -3,6 +3,7 @@
   + [HTML Beautification Tool](http://www.cleancss.com/html-beautify/)
   + The demo Weather Widget / Single-page App was made by Google.
   + https://www.datavizforall.org/find/ct/
+  + https://gist.github.com/subfuzion/08c5d85437d5d4f00e58
 
 ## Screencasting
 
