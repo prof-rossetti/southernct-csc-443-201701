@@ -9,8 +9,11 @@ In the Node ecosystem, third-party libraries are called "packages" and the softw
 NPM usually comes pre-installed when you install Node. Check to see if NPM is installed, and if so, which version:
 
 ```` sh
+# Mac Terminal:
 which npm
-#> /Users/YOUR_USERNAME/.nvm/versions/node/v6.6.0/bin/npm (Mac example)
+# Windows Command Prompt:
+where npm
+#> /Users/YOUR_USERNAME/.nvm/versions/node/v6.6.0/bin/npm
 
 npm -v
 #> 3.10.3
