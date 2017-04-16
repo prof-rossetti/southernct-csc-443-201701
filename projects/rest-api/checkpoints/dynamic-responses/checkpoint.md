@@ -38,7 +38,7 @@ var Robot = require("../../models/robot");
 
 /* List Robots (GET) */
 
-router.get('/api/robots.json', function(req, res, next) {
+router.get('/api/robots', function(req, res, next) {
   Robot.find( function (err, robots) {
     if (err) {
       console.log(err)
@@ -52,7 +52,7 @@ router.get('/api/robots.json', function(req, res, next) {
 
 /* Show Robot (GET) */
 
-router.get('/api/robots/:id.json', function(req, res, next) {
+router.get('/api/robots/:id', function(req, res, next) {
   console.log(req.params)
   const robotId = req.params.id;
 

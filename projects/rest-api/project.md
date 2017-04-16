@@ -39,7 +39,7 @@ In the root directory of your project's repository, whether in the README.md fil
 
 ### List Robots
 
-Issue a GET request to **/api/robots.json** to retrieve a list of all robot records currently in the database.
+Issue a GET request to **/api/robots** to retrieve a list of all robot records currently in the database.
 
 Example response:
 
