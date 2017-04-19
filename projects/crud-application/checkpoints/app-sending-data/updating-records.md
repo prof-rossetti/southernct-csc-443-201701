@@ -1,3 +1,19 @@
-# CRUD Application Checkpoint VIII - Updating Records
+# CRUD Operations - Updating Records
 
-TBA
+## Instructions
+
+### View
+
+Add an "Edit" button to the robot show page (`views/robots/show.ejs`):
+
+```` js
+
+````
+
+### Router
+
+Update your robots router (`/routes/robots.js`) to include the following code:
+
+```` js
+
+````

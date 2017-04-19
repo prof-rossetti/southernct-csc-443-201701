@@ -15,7 +15,7 @@
 
 Your mission is now to adapt and expand this application's routers and views to include a robots index page and a robot show page. First start by passing static hard-coded data from the router to the view. After you configure the routers and views to display static data, commit your code, then attempt to issue GET requests to fetch data from the provided API and pass that dynamic data to the view. If you are able to configure your routers to request data from the API and display the results on the page, you have succeeded in your mission!
 
-### New Views
+### Adding and Removing Views
 
 Feel free to delete the `routes/users.js` file because we don't need it. If you do, also remove, or comment-out the lines `var users = require('./routes/users');` and `app.use('/users', users);` from the `app.js` file. Then restart the web server and notice a 404 error that results from trying to navigate back to the users page. That's to be expected, as we removed that routing logic from our application.
 
@@ -234,6 +234,6 @@ Nice job. You are more than half-way finished with developing this application. 
 
 > ### Further Exploration
 >
-> As you continue to create and develop new views, you will most likely end up using shared HTML code such as navigation and footer links. If your application contains duplicate code across at least two of its views, DRY-up that shared code by abstracting-away any shared HTML content into a separate file called a "view partial" or a "template", and include it via an EJS snippet like `<% include path/to/template %>`. See https://github.com/tj/ejs#includes for documentation.
+> As you continue to create and develop additional views, you will most likely end up using shared HTML code such as navigation and footer links. If your application contains duplicate code across at least two of its views, DRY-up that shared code by abstracting-away any shared HTML content into a separate file called a "view partial" or a "template", and include it via an EJS snippet like `<% include path/to/template %>`. See https://github.com/tj/ejs#includes for documentation.
 >
 > Congrats, you are making life easier on yourself and preventing future effort and error by DRY-ing up much of that shared HTML code.
