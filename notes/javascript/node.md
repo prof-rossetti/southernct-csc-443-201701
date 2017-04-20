@@ -17,8 +17,11 @@ API Documentation: https://nodejs.org/api/.
 First, check if node is installed on your computer, and if so, which version:
 
 ```` sh
+# Mac Terminal:
 which node
-#> /Users/YOUR_USERNAME/.nvm/versions/node/v6.6.0/bin/node (Mac example)
+# Windows Command Prompt:
+where node
+#> /Users/YOUR_USERNAME/.nvm/versions/node/v6.6.0/bin/node
 
 node -v
 #> v6.6.0
