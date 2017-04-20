@@ -71,6 +71,9 @@ $.getJSON(url, function(json) {
 Using D3:
 
 ```` js
+var requestUrl = "https://southernct-443-robots-api.herokuapp.com/api/robots"
+var formData = {name: "New Bot", description: "Does all the things."}
+
 var url = "https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/master/course.json"
 
 d3.json(url, function(json){

@@ -9,7 +9,9 @@
 
 ## Prerequisites
 
-  1. [CRUD Application Checkpoint VII - Reading Records](/projects/crud-application/checkpoints/app-navigation/checkpoint.md)
+  1. [CRUD Application Checkpoint VII - Reading Records](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
+  2. [POST Requests Overview](/notes/computer-networks/http-request-methods.md#post)
+  3. [AJAX POST Requests](/notes/javascript/ajax.md#post)
 
 ## Instructions
 

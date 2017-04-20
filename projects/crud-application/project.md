@@ -58,25 +58,23 @@ Partial credit may be given to highlight areas of improvement.
 Your CRUD Application implementation will be evaluated based on its demonstrated ability to meet all of the following criteria:
 
   1. Is hosted on the Internet and publicly accessible.
-  1. Contains clear, concise, and engaging content free of typographical or grammatical mistakes.
-  1. Usable design free of usability quirks or bugs.
-  1. Is built using Node.js and Express.js.
-  1. Incorporates/ "includes" at least one view template (EJS or otherwise) to minimize duplication of front-end HTML code.
-  1. Enables front-end navigation between at least all of the following pages:
-    + Home Page (`/index`)
-    + Robots Index Page (`/robots/index`)
-    + Robot Show Page (`/robots/show`)
+  2. Contains clear, concise, and engaging content free of typographical or grammatical mistakes.
+  3. Usable design free of usability quirks or bugs.
+  4. Is built using Node.js and Express.js.
+  5. Incorporates ("includes") at least one EJS view template to minimize duplication of front-end HTML code.
+  6. Enables navigation between at least all of the following routes:
+    + Home Page (`/`)
+    + Robots Index Page (`/robots`)
     + New Robot Page (`/robots/new`)
-    + Orders Index Page (`/orders/index`) -- optional extra credit
+    + Robot Show Page (`/robots/:id`)
+    + Edit Robot Page (`/robots/:id/edit`)
     + New Order Page (`/orders/new`) -- optional extra credit
-  1. Interfaces with the provided web service to perform the following CRUD operations:
+  7. Interfaces with the provided web service (or your own) to allow users to perform the following CRUD operations:
     + View all robots (List/Index)
-    + View a given robot (Show)
-    + Delete a given robot (Destroy)
-    + Edit a given robot (Update)
     + Create a new robot (Create)
-    + View all orders (List/Index) -- optional extra credit
-    + Create a new order (Create) -- optional extra credit
+    + View a given robot (Show)
+    + Edit a given robot (Update)
+    + Delete a given robot (Destroy)
 
 #### Peer Evaluation
 

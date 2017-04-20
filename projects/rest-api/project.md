@@ -4,16 +4,6 @@
 
 Implement and document a REST API which responds to a specific set of HTTP requests and processes those requests appropriately. The API should respond with data in the JSON format (not XML or other formats). It should be implemented as an Express application hosted on a Heroku application server.
 
-![a screencast depicting usage of the API. GET requests are processed into JSON responses.](demo.gif)
-
-## Objectives
-
-  1. Engage in a deliberate lifecycle of software implementation and documentation (maintenance).
-  * Practice software version control.
-  * Demonstrate an understanding of HTTP requests.
-  * TBA - etc.
-
-
 ## Instructions
 
 ### Implement
@@ -31,10 +21,8 @@ action name | request method | URL endpoint | appropriate server action | respon
 Index | GET | /api/robots | Query the database to retrieve all records in the robots table. | An array of JSON objects, each of which represents a robot.
 Show | GET | /api/robots/`:robotId` | Query the database to retrieve the record in the robots table which matches the provided identifier. | A JSON object representing the given robot.
 Create | POST | /api/robots | Create a new record in the robots table based on the data passed by the client. | A simple "OK" message, or optionally a JSON object representing the recently-created robot.
-Update | POST | /api/robots/`:robotId`/update | Update the record in the robots table which matches the provided identifier, using the data passed by the client. | A simple "OK" message, or optionally a JSON object representing the recently-updated robot.
-Destroy | POST | /api/robots/`:robotId`/destroy | Remove from the robots table the record which matches the provided identifier. | A simple "OK" message, or optionally a JSON object representing the recently-deleted robot.
-
-> Note: It is acceptable to alternatively use a PUT request for the Update action and a DELETE request for the Destroy action. If you do use these types of requests, you are free to accordingly modify the endpoint URLs specified in the table above to adhere more closely to REST architecture conventions (e.g. /api/robots/`:robotId`).
+Update | PATCH/PUT | /api/robots/`:robotId` | Update the record in the robots table which matches the provided identifier, using the data passed by the client. | A simple "OK" message, or optionally a JSON object representing the recently-updated robot.
+Destroy | DELETE | /api/robots/`:robotId` | Remove from the robots table the record which matches the provided identifier. | A simple "OK" message, or optionally a JSON object representing the recently-deleted robot.
 
 #### Hosting
 
