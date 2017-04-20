@@ -4,16 +4,6 @@
 
 ### View
 
-Add a "Delete" button to the robot show page (`views/robots/show.ejs`):
+Add a "Delete" button to the robot show page.
 
-```` js
-
-````
-
-
-### Router
-
-Update your robots router (`/routes/robots.js`) to include the following code:
-
-```` js
-````
+Add an event listener to the "Delete" button such that when clicked, it sends a `DELETE` request to the proper API endpoint. When the client receives a return response from the API, it should redirect the user to the robots index page.
