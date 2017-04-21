@@ -6,11 +6,16 @@ Implement and document a REST API which responds to a specific set of HTTP reque
 
 ## Instructions
 
-### Implement
+For detailed instructions, follow these checkpoint exercises in order:
 
-Your API should receive a specific set of HTTP responses and process them appropriately.
+  1. [Checkpoint I: Serving Static Responses to GET Requests](/projects/rest-api/checkpoints/static-responses/checkpoint.md)
+  2. [Checkpoint II: Seeding the Database](/projects/rest-api/checkpoints/database-seeding/checkpoint.md)
+  3. [Checkpoint III: Serving Dynamic Responses to GET Requests](/projects/rest-api/checkpoints/dynamic-responses/checkpoint.md)
+  4. [Checkpoint IV: Processing Other Requests](/projects/rest-api/checkpoints/receiving-data/checkpoint.md)
 
-Ensure the API is hosted and available for public consumption on the Internet.
+Also feel free to refer to the [working implementation](https://southernct-443-robots-api.herokuapp.com/) of this API, and/or that application's [source code](https://github.com/prof-rossetti/robots-api-express/) for additional information.
+
+### Implementation
 
 #### API Endpoints
 
@@ -21,14 +26,14 @@ action name | request method | URL endpoint | appropriate server action | respon
 Index | GET | /api/robots | Query the database to retrieve all records in the robots table. | An array of JSON objects, each of which represents a robot.
 Show | GET | /api/robots/`:robotId` | Query the database to retrieve the record in the robots table which matches the provided identifier. | A JSON object representing the given robot.
 Create | POST | /api/robots | Create a new record in the robots table based on the data passed by the client. | A simple "OK" message, or optionally a JSON object representing the recently-created robot.
-Update | PATCH/PUT | /api/robots/`:robotId` | Update the record in the robots table which matches the provided identifier, using the data passed by the client. | A simple "OK" message, or optionally a JSON object representing the recently-updated robot.
+Update | PUT | /api/robots/`:robotId` | Update the record in the robots table which matches the provided identifier, using the data passed by the client. | A simple "OK" message, or optionally a JSON object representing the recently-updated robot.
 Destroy | DELETE | /api/robots/`:robotId` | Remove from the robots table the record which matches the provided identifier. | A simple "OK" message, or optionally a JSON object representing the recently-deleted robot.
 
 #### Hosting
 
 Push your Express application's source code to a Heroku application server.
 
-### Document
+### Documentation
 
 In the root directory of your project's repository, whether in the README.md file or another file called `DOCUMENTATION.md`, provide instructions for how clients should expect to interface with your API. Specifically list all of your API's URL endpoints, and for each describe what is supposed to happen when a client makes a request to that endpoint. Make sure to include the type of request they are supposed to make, and an example response they might expect to receive in return. For example:
 

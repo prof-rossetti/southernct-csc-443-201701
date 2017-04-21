@@ -3,7 +3,7 @@
 ## Objectives
 
   1. Gain exposure to using Express to handle cross-origin requests.
-  2. Gain exposure to using Express to process POST, PATCH, and DELETE requests.
+  2. Gain exposure to using Express to process POST, PUT, and DELETE requests.
   3. Practice responding to requests using the proper response status.
 
 ## Prerequisites

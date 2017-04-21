@@ -55,13 +55,7 @@ N/A | 2017-05-07 | N/A | N/A | CRUD App Peer Evaluations (5%) due by 11:59pm
 
 ### REST API (Optional)
 
-In case you're interested, you can follow these checkpoints, perhaps during the summer after this course is over, to learn how to make the Robots API for yourself.
-
-Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
---- | --- | --- | --- | ---
-N/A | N/A | Development Database Setup | Node.js, Mongoose.js | [REST API Checkpoint I: Seeding the Database](/projects/rest-api/checkpoints/database-seeding/checkpoint.md)
-N/A | N/A | Processing GET Requests | Node.js, Express.js, Mongoose.js | [REST API Checkpoint II: Serving Static Responses](/projects/rest-api/checkpoints/static-responses/checkpoint.md), <br> [REST API Checkpoint III: Serving Dynamic Responses](/projects/rest-api/checkpoints/dynamic-responses/checkpoint.md)
-N/A | N/A | Processing Data Requests | Node.js, Express.js, Mongoose.js | [REST API Checkpoint IV: Processing Data Requests](/projects/rest-api/checkpoints/receiving-data/checkpoint.md)
+In case you're interested, perhaps during the summer or sometime after the semester ends, follow these checkpoints to [learn how to make the Robots API](/projects/rest-api/project.md) for yourself.
 
 ## Finale
 

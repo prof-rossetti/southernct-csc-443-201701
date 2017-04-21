@@ -4,7 +4,8 @@ Connect the web server to the database, and serve dynamic responses at all of th
 
 ## Objectives
 
-TBA
+  + Gain exposure to making database calls from within the context of an Express application, and passing database data to the application's views.
+  + Practice using an Express web application to handle processing of GET requests.
 
 ## Prerequisites
 

@@ -2,15 +2,16 @@
 
 Generate a new Express application, deploy it to Heroku, then configure its routing to serve static responses at all of its GET request endpoints.
 
-Refer to the companion [GitHub repository](https://github.com/prof-rossetti/robots-api-express/) and [production Heroku application](https://southernct-443-robots-api.herokuapp.com/).
-
 ## Objectives
 
-TBA
+  + Practice generating an Express web application.
+  + Practice configuring the routing and navigation of an Express web application.
+  + Practice deploying an Express web application to a production environment hosted by Heroku.
+  + Practice using an Express web application to handle processing of GET requests.
 
 ## Prerequisites
 
-TBA
+  + [CRUD Application Project](/projects/crud-application/project.md)
 
 ## Instructions
 
