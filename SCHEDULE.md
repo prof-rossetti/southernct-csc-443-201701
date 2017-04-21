@@ -50,18 +50,18 @@ Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 14 | 2017-04-20 | Web Application CRUD | HTTP, JavaScript, jQuery, D3.js | [REST Architecture Overview](/notes/computer-networks/rest-architecture.md), <br> [CRUD App Checkpoint VII - Reading Records](/projects/crud-application/checkpoints/app-receiving-data/checkpoint.md)
 14 | 2017-04-20 | Sending Data | HTTP, JavaScript, jQuery, D3.js | [HTTP Request Methods](/notes/computer-networks/http-request-methods.md) (focusing on POST)
 15 | 2017-04-27 | Web Application CRUD (cont'd) | HTTP, JavaScript, jQuery, D3.js | [CRUD App Checkpoint VIII - Creating, Updating, and Destroying Records](/projects/crud-application/checkpoints/app-sending-data/checkpoint.md)
-15 | 2017-04-27 | CRUD Application Project Support Session | N/A | N/A
-N/A | 2017-04-30 | N/A | N/A | CRUD App (25%) due by 11:59pm
-N/A | 2017-05-03 | N/A | N/A | CRUD App Peer Evaluations (5%) due by 11:59pm
+N/A | 2017-05-03 | N/A | N/A | CRUD App (25%) due by 11:59pm
+N/A | 2017-05-07 | N/A | N/A | CRUD App Peer Evaluations (5%) due by 11:59pm
 
 ### REST API (Optional)
+
+In case you're interested, you can follow these checkpoints, perhaps during the summer after this course is over, to learn how to make the Robots API for yourself.
 
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
 N/A | N/A | Development Database Setup | Node.js, Mongoose.js | [REST API Checkpoint I: Seeding the Database](/projects/rest-api/checkpoints/database-seeding/checkpoint.md)
 N/A | N/A | Processing GET Requests | Node.js, Express.js, Mongoose.js | [REST API Checkpoint II: Serving Static Responses](/projects/rest-api/checkpoints/static-responses/checkpoint.md), <br> [REST API Checkpoint III: Serving Dynamic Responses](/projects/rest-api/checkpoints/dynamic-responses/checkpoint.md)
 N/A | N/A | Processing Data Requests | Node.js, Express.js, Mongoose.js | [REST API Checkpoint IV: Processing Data Requests](/projects/rest-api/checkpoints/receiving-data/checkpoint.md)
-N/A | 2017-04-30 | N/A | N/A | REST API (10% Extra Credit) optionally due by 11:59pm
 
 ## Finale
 

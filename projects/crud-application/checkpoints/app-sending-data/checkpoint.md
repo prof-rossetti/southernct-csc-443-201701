@@ -5,7 +5,7 @@
   1. Practice modifying the routing logic of an Express web application.
   2. Practice passing data from an Express router and using it in a view.
   3. Practice agile, iterative software development techniques.
-  4. Practice issuing POST, PATCH, and DELETE requests.
+  4. Practice issuing POST, PUT, and DELETE requests.
 
 ## Prerequisites
 

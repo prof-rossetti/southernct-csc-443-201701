@@ -92,7 +92,7 @@ Final grades will be calculated by weighted average according to the following s
 
 Name | Weight
 --- | ---
-[Projects](/PROJECTS.md) | 65%, plus an optional additional 10% in extra credit
+[Projects](/PROJECTS.md) | 65%
 [Peer Evaluations](/ASSIGNMENTS.md) | 15%
 Final Exam | 20%
 
