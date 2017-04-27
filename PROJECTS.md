@@ -10,5 +10,5 @@ name | weight | due date
 --- | --- | ---
 [Personal Website](/projects/personal-website/project.md) | 15% | 2017-02-22
 [Data Visualization](/projects/data-visualization/project.md) | 25% | 2017-04-05
-[CRUD Application](/projects/crud-application/project.md) | 25% | 2017-05-03
+[CRUD Application](/projects/crud-application/project.md) | 25% | 2017-05-07
 [REST API (Optional)](/projects/rest-api/project.md) | N/A | N/A
