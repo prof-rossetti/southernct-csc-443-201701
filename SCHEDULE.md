@@ -62,6 +62,6 @@ In case you're interested, perhaps during the summer or sometime after the semes
 Class No. | Date | Topic(s) | Tools and Technologies in Focus | Course Materials
 --- | --- | --- | --- | ---
 16 | 2017-05-04 | Retrospective | N/A | N/A
-16 | 2017-05-04 | Portfolio Project Presentations | N/A | N/A
 16 | 2017-05-04 | Final Exam Preparation Session | N/A | N/A
+16 | 2017-05-04 | Project Support Session | N/A | N/A
 17 | 2017-05-11 (7:30pm to 9:30pm) | Final Exam | N/A | Final Exam (20%)
