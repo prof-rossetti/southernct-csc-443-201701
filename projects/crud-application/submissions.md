@@ -4,7 +4,6 @@ This document contains a list of CRUD Application project submissions. The list 
 
 **GitHub Username** | **Repository Link** | **Project Link**
 --- | --- | ---
-=======
 Jlragr | https://github.com/jlragr/CRUD-App |  https://powerful-hollows-55656.herokuapp.com/
 MarkAnderson10 | https://github.com/MarkAnderson10/my_app | https://ancient-journey-28973.herokuapp.com/
 mohdm1 | https://github.com/mohdm1/my_app2 | https://limitless-coast-74899.herokuapp.com/robots
