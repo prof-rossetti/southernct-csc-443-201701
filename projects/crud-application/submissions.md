@@ -8,9 +8,10 @@ jessieMB | https://github.com/JessieMB/robots2 | https://still-fortress-80446.he
 jestores7 | https://github.com/jestores7/CrudApp | https://desolate-sea-92022.herokuapp.com/
 Jlragr | https://github.com/jlragr/CRUD-App |  https://powerful-hollows-55656.herokuapp.com/
 jmarcellus90 |  https://github.com/jmarcellus90/remote_repo | https://cryptic-temple-78976.herokuapp.com/
+kakraDetome | https://github.com/kakradetome/kakraDetomeCrudApplication/ | https://calm-sea-12769.herokuapp.com/
 MarkAnderson10 | https://github.com/MarkAnderson10/my_app | https://ancient-journey-28973.herokuapp.com/
 mohdm1 | https://github.com/mohdm1/my_app2 | https://limitless-coast-74899.herokuapp.com/robots
-moucira1 | https://github.com/moucira1/CRUD1 | http://quiet-mesa-12831.herokuapp.com/
+moucira1 | https://github.com/moucira1/CRUD1 | https://quiet-mesa-12831.herokuapp.com/
 perryblunt | https://github.com/perryblunt/demo-remote-repo | https://tranquil-taiga-10650.herokuapp.com
 robertorozco1 | https://github.com/robertorozco1/my_app | https://infinite-scrubland-92086.herokuapp.com/robots
 SahilMak | https://github.com/SahilMak/crud-app | http://crud-app.sahilmak.tech/
