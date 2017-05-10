@@ -11,9 +11,12 @@ The exam consists primarily of free-response questions, but may also contain mul
 Details about the contents of the final exam were announced on the last regular day of class, during the final exam preparation session. Some links posted to Slack during that session include:
 
   + [Course Objectives](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/README.md#objectives)
-  + [Client/server architecture](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/notes.md#clientserver)
-  + [Deployment Environments](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/servers.md#deployment-environments)
-  + [JavaScript Language Overview](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md) -- with special emphasis on [Objects](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md#objects) and [Arrays](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md#arrays)
+  + [Client/server Architecture](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/notes.md#clientserver)
+  + [REST Architecture](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/rest-architecture.md#representational-state-transfer-rest)
+  + [Application Deployment Environments](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/servers.md#deployment-environments)
+  + [JavaScript Language Overview](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md), with special emphasis on:
+    + [Objects](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md#objects)
+    + [Arrays](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md#arrays)
 
 ## Submission Instructions
 
