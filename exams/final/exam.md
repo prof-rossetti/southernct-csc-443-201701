@@ -8,7 +8,12 @@ The exam will be administered during a 90-minute portion of the final exam perio
 
 The exam consists primarily of free-response questions, but may also contain multiple-choice questions.
 
-Details about the contents of the final exam were announced on the last regular day of class, during the final exam preparation session.
+Details about the contents of the final exam were announced on the last regular day of class, during the final exam preparation session. Some links posted to Slack during that session include:
+
+  + [Course Objectives](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/README.md#objectives)
+  + [Client/server architecture](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/notes.md#clientserver)
+  + [Deployment Environments](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/computer-networks/servers.md#deployment-environments)
+  + [JavaScript Language Overview](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md) -- with special emphasis on [Objects](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md#objects) and [Arrays](https://github.com/SCSU-CSC-Department/201701-csc-443-01/blob/master/notes/javascript/notes.md#arrays)
 
 ## Submission Instructions
 
