@@ -10,18 +10,18 @@ At the appropriate time, you will receive an email containing a list of five pee
 
   2. Visit the project link in a browser, and take a few moments to navigate around that application to get a good feel for it. You should specifically focus on manually performing the following CRUD operations:
 
-    + View all robots (List/Index)
-    + Create a new robot (Create)
-    + View a given robot (Show)
-    + Edit a given robot (Update)
-    + Delete a given robot (Destroy)
+     + View all robots (List/Index)
+     + Create a new robot (Create)
+     + View a given robot (Show)
+     + Edit a given robot (Update)
+     + Delete a given robot (Destroy)
 
   3. Think about what you like about the application, and/or what you think could be improved, then type your comments into the appropriate section in the form. Feel free to focus your comments by answering the following questions:
 
-    + Does the application perform all the necessary CRUD operations?
-    + Is the application navigable and usable? Does it provide descriptive messages to help you overcome potential user errors (e.g. attempting to submit invalid form data)?
-    + Did the student demonstrate an attention to detail?
-    + Did the student "make this application his/her own" by offering an application structure and style which significantly differ from the checkpoint instructions?
+     + Does the application perform all the necessary CRUD operations?
+     + Is the application navigable and usable? Does it provide descriptive messages to help you overcome potential user errors (e.g. attempting to submit invalid form data)?
+     + Did the student demonstrate an attention to detail?
+     + Did the student "make this application his/her own" by offering an application structure and style which significantly differ from the checkpoint instructions?
 
   4. Finally, assign the project a number score from 1 (poor) to 10 (awesome) in the appropriate section.
 
