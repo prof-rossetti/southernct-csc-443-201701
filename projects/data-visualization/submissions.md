@@ -14,6 +14,7 @@ kakradetome | https://github.com/kakradetome/dataViz | https://kakradetome.githu
 MarkAnderson10 | https://github.com/MarkAnderson10/Dataviz | https://markanderson10.github.io/Dataviz/
 mohdm1 | https://github.com/mohdm1/data-visualization | https://mohdm1.github.io/data-visualization/
 moucira1 | https://github.com/moucira1/dataVisProject.git | https://moucira1.github.io/dataVisProject/ 
+perryblunt | https://github.com/perryblunt/data.d3 | https://perryblunt.github.io/data.d3/
 qamaralsalihi | https://github.com/qamaralsalihi/data-vis | https://qamaralsalihi.github.io/data-vis/
 s2t2 | https://github.com/s2t2/checkerboard | http://s2t2.github.io/checkerboard/
 s2t2 | https://github.com/s2t2/lsat-curve | http://s2t2.github.io/lsat-curve/
