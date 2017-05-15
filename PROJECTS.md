@@ -9,5 +9,6 @@ Students must work on their projects individually, without significant support f
 name | weight | due date
 --- | --- | ---
 [Personal Website](/projects/personal-website/project.md) | 15% | 2017-02-22
-[Data Visualization](/projects/data-visualization/project.md) | 20% | 2017-03-29
-CRUD Application | 30% | 2017-04-30
+[Data Visualization](/projects/data-visualization/project.md) | 25% | 2017-04-05
+[CRUD Application](/projects/crud-application/project.md) | 25% | 2017-05-07
+[REST API (Optional)](/projects/rest-api/project.md) | N/A | N/A

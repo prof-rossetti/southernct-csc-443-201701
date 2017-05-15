@@ -11,7 +11,7 @@ Use JavaScript to manipulate the contents of a webpage.
 ## Prerequisites
 
   + [JavaScript Language Overview](/notes/javascript/notes.md)
-  + [DOM Overview](/notes/javascript/client-side/document-object-model.md)
+  + [DOM Overview](/notes/javascript/document-object-model.md)
 
 ## Instructions
 
