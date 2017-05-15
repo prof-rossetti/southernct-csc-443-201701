@@ -17,6 +17,7 @@ mohdm1 | https://github.com/mohdm1/data-visualization | https://mohdm1.github.io
 moucira1 | https://github.com/moucira1/dataVisProject.git | https://moucira1.github.io/dataVisProject/ 
 perryblunt | https://github.com/perryblunt/data.d3 | https://perryblunt.github.io/data.d3/
 qamaralsalihi | https://github.com/qamaralsalihi/data-vis | https://qamaralsalihi.github.io/data-vis/
+robertorozco1 | https://github.com/robertorozco1/datavizdirect | https://robertorozco1.github.io/datavizdirect/
 s2t2 | https://github.com/s2t2/checkerboard | http://s2t2.github.io/checkerboard/
 s2t2 | https://github.com/s2t2/lsat-curve | http://s2t2.github.io/lsat-curve/
 s2t2 | https://github.com/data-creative/law-school-outcomes-dataviz/ | http://data-creative.info/law-school-outcomes-dataviz/
