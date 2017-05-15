@@ -15,6 +15,7 @@ MarkAnderson10 | https://github.com/MarkAnderson10/Dataviz | https://markanderso
 mohdm1 | https://github.com/mohdm1/data-visualization | https://mohdm1.github.io/data-visualization/
 moucira1 | https://github.com/moucira1/dataVisProject.git | https://moucira1.github.io/dataVisProject/ 
 qamaralsalihi | https://github.com/qamaralsalihi/data-vis | https://qamaralsalihi.github.io/data-vis/
+robertorozco1 | https://github.com/robertorozco1/datavizdirect | https://robertorozco1.github.io/datavizdirect/
 s2t2 | https://github.com/s2t2/checkerboard | http://s2t2.github.io/checkerboard/
 s2t2 | https://github.com/s2t2/lsat-curve | http://s2t2.github.io/lsat-curve/
 s2t2 | https://github.com/data-creative/law-school-outcomes-dataviz/ | http://data-creative.info/law-school-outcomes-dataviz/
@@ -23,5 +24,4 @@ s2t2 | https://github.com/data-creative/us-state-legislature-compositions | http
 SahilMak | https://github.com/SahilMak/data-viz | http://www.sahilmak.tech/data-viz/
 ThisIsSovereign | https://github.com/ThisIsSovereign/datavisualization | https://thisissovereign.github.io/datavisualization/
 Vicsotojr | https://github.com/VicSotoJr/DataViz | https://vicsotojr.github.io/DataViz/
-robertorozco1 | https://github.com/robertorozco1/datavizdirect | https://robertorozco1.github.io/datavizdirect/
 etc. | ... | ...
