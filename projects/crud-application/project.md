@@ -76,6 +76,6 @@ Your CRUD Application implementation will be evaluated based on its demonstrated
     + Edit a given robot (Update)
     + Delete a given robot (Destroy)
 
-#### Peer Evaluation
+#### [Peer Evaluation](peer-evaluation.md)
 
 All members of the learning community, including the professor, will evaluate an assigned list of five submitted CRUD Applications, and will assign each peer project a score from 1 to 10. A weighted average of these individual scores will produce the overall Peer Evaluation Score.
