@@ -31,20 +31,21 @@ university | school | department | term | course | section | credits
 ## Objectives
 
   1. Describe the ecosystem of tools, technologies, and languages used to plan, develop, and manage websites and web applications.
-  * Describe in a practical sense how the Internet works, specifically focusing on the lifecycle of a network request.
-  * Describe the difference between traditional “waterfall” and agile systems development methodologies.
-  * Discuss security and privacy considerations relevant in designing and managing websites and web applications.
-  * Participate in, and describe the advantages of software version control.
-  * Describe the advantages and disadvantages of open source software.
-  * Describe the role of the development, staging, and production development environments.
-  * Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
-  * Have fun!
+  2. Describe in a practical sense how the Internet works, specifically focusing on the lifecycle of a network request.
+  3. Describe the difference between traditional “waterfall” and agile systems development methodologies.
+  4. Discuss security and privacy considerations relevant in designing and managing websites and web applications.
+  5. Participate in, and describe the advantages of software version control.
+  6. Describe the advantages and disadvantages of open source software.
+  7. Describe the role of the development, staging, and production development environments.
+  8. Gain marketable skills in the area of website and web application development; build an online portfolio consisting of multiple Internet programming projects.
+  9. Have fun!
 
 ## [Projects](/PROJECTS.md)
 
-  1. Personal Website — HTML, CSS, basic JavaScript, hosted on GitHub Pages
-  * Data Visualization — HTML, CSS, advanced JavaScript, hosted on GitHub Pages
-  * CRUD Web Application — HTML, CSS, advanced JavaScript, Node.js, Express.js, PostgreSQL or MongoDB, hosted on Heroku
+  1. Personal Website — HTML, CSS, JavaScript, hosted on GitHub Pages
+  2. Data Visualization — HTML, CSS, JavaScript, hosted on GitHub Pages
+  3. CRUD Web Application — HTML, CSS, JavaScript, Node.js, Express.js, hosted on Heroku
+  4. REST API (Optional) — Node.js, Express.js, Database (PostgreSQL or MongoDB), hosted on Heroku
 
 ## Materials
 
@@ -74,8 +75,8 @@ The following command-line utilities will be covered throughout the course of th
 
   + Git
   + Node.js and Node Package Manager (NPM)
-  + Choice of either MongoDB or PostgreSQL
   + Heroku Toolbelt
+  + Choice of either MongoDB or PostgreSQL (Optional)
 
 ## Learning Community
 
@@ -87,12 +88,12 @@ There is no Teaching Assistant assigned to aid instruction of this course.
 
 ## Evaluation
 
-Student learning will be evaluated primarily through submission of take-home "portfolio" projects, as well as by submitting evaluations of peers' projects and taking a final exam. Final grades will be calculated by weighted average according to the following structure:
+Final grades will be calculated by weighted average according to the following structure:
 
 Name | Weight
 --- | ---
 [Projects](/PROJECTS.md) | 65%
-Assignments (project peer evaluations)| 15%
+[Peer Evaluations](/ASSIGNMENTS.md) | 15%
 Final Exam | 20%
 
 ## Schedule

@@ -57,8 +57,8 @@ Ensure the data visualization is hosted and available for public consumption on 
 When your data visualization is ready for evaluation, add its identifying information, including your GitHub username, a link to your site's repository, and a link to your hosted site, to the [submissions list](submissions.md). Use the following workflow to accomplish this:
 
   1. Fork [this repository](https://github.com/SCSU-CSC-Department/201701-csc-443-01/) to your own account.
-  * Edit the submissions list in your forked repo via the online editor, or by downloading your forked repo, making local commits, and pushing them back up to GitHub.
-  * Submit a Pull Request for your changes to be merged into this repo.
+  2. Edit the submissions list in your forked repo via the online editor, or by downloading your forked repo, making local commits, and pushing them back up to GitHub.
+  3. Submit a Pull Request for your changes to be merged into this repo.
 
 > NOTE: If you would prefer for any reason to submit your work privately, you may alternatively send the professor your links via email or Slack DM. Your project will still be evaluated, and peer-evaluated, but its identifying information will not be publicly accessible as part of this course repository.
 
@@ -85,13 +85,13 @@ Your data visualization planning and design documents will be evaluated for pres
 Your data visualization implementation will be evaluated based on its demonstrated ability to meet all of the following criteria:
 
   1. Is hosted on the Internet and publicly accessible.
-  + Contains clear, concise, and engaging content free of typographical or grammatical mistakes.
-  + Creative and usable design free of usability quirks or bugs.
-  + Contains exactly one HTML page: `index.html`
-  + Contains **minimal HTML markup** within the `index.html` - at most three to five to maybe ten elements (not a hard rule, just know the purpose of this project is to use JavaScript to manipulate the DOM instead of hard-coding HTML elements).
-  + Contains at least one internal `<script>` or external JavaScript script.
-  + Demonstrates an ability to use JavaScript to manipulate the DOM.
-  + Contains at least one input element (e.g. `button`, `select`, etc.) which can be used to update the visual display **without refreshing the page**.
+  2. Contains clear, concise, and engaging content free of typographical or grammatical mistakes.
+  3. Creative and usable design free of usability quirks or bugs.
+  4. Contains exactly one HTML page: `index.html`
+  5. Contains **minimal HTML markup** within the `index.html` - at most three to five to maybe ten elements (not a hard rule, just know the purpose of this project is to use JavaScript to manipulate the DOM instead of hard-coding HTML elements).
+  6. Contains at least one internal `<script>` or external JavaScript script.
+  7. Demonstrates an ability to use JavaScript to manipulate the DOM.
+  8. Contains at least one input element (e.g. `button`, `select`, etc.) which can be used to update the visual display **without refreshing the page**.
 
 #### Peer Evaluation
 
