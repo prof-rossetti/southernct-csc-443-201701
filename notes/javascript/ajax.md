@@ -88,7 +88,7 @@ Using vanilla JavaScript:
 var requestUrl = "https://southernct-443-robots-api.herokuapp.com/api/robots"
 var formData = {name: "New Bot", description: "Does all the things."}
 var requestOptions = {
-  method: requestUrl,
+  method: "POST",
   headers: {'Accept':'application/json', 'Content-Type':'application/json'},
   body: JSON.stringify(formData)
 }
